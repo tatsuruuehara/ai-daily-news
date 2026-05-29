@@ -1,0 +1,26 @@
+name: AI Daily News
+
+on:
+  schedule:
+    - cron: '0 22 * * *' # 7:00 AM JST
+  workflow_dispatch: # manual trigger
+
+jobs:
+  send-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect and send AI news
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+        run: python src/main.py
