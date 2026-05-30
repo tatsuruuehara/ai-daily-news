@@ -3,8 +3,10 @@ import json
 import re
 import time
 import email.utils
+import urllib.request
+import urllib.parse
 import feedparser
-import openai
+import anthropic
 import resend
 from datetime import datetime, timezone, timedelta
 
@@ -115,87 +117,98 @@ def collect_rss() -> list[dict]:
 
 
 X_QUERIES = [
-    # ニュース速報系
-    "site:x.com Claude OR ChatGPT OR Gemini 新機能 OR release OR アップデート",
-    "site:x.com AI スタートアップ OR 資金調達 OR 買収",
-    # 実践ノウハウ・Tips系
-    "site:x.com Claude Code 使い方 OR Tips OR ノウハウ OR 便利",
-    "site:x.com MCP 設定 OR 構築 OR 連携 OR 活用",
-    "site:x.com AI エージェント 作り方 OR 構築 OR 自動化 OR ワークフロー",
-    "site:x.com 生成AI 業務効率化 OR 時短 OR 自動化 OR 活用事例",
-    "site:x.com Cursor OR Cline OR Windsurf AI開発 OR コーディング",
-    "site:x.com n8n OR Dify OR AI自動化 OR ノーコード",
+    '(Claude Code OR "Claude Code") (Tips OR 使い方 OR ノウハウ OR 便利) -is:retweet lang:ja',
+    '(MCP OR "Model Context Protocol") (AI OR Claude OR 連携 OR 設定) -is:retweet lang:ja',
+    '(ChatGPT OR Gemini OR Claude) (リリース OR アップデート OR 新機能 OR release) -is:retweet',
+    '"AI エージェント" (自動化 OR 構築 OR ワークフロー) -is:retweet lang:ja',
+    '"生成AI" (業務効率化 OR 活用事例 OR コスト削減 OR 導入) -is:retweet lang:ja',
+    '(Cursor OR Cline OR Windsurf) (AI OR コーディング OR 開発) -is:retweet lang:ja',
+    '(n8n OR Dify) (AI OR 自動化 OR ノーコード) -is:retweet lang:ja',
+    'AI (スタートアップ OR 資金調達 OR 買収) -is:retweet lang:ja',
 ]
+
+
+def _x_search(query: str, bearer_token: str, max_results: int = 15) -> list[dict]:
+    params = urllib.parse.urlencode({
+        "query": query,
+        "max_results": min(max_results, 100),
+        "tweet.fields": "created_at,author_id,text,public_metrics",
+        "expansions": "author_id",
+        "user.fields": "username,name",
+    })
+    url = f"https://api.twitter.com/2/tweets/search/recent?{params}"
+    req = urllib.request.Request(url, headers={"Authorization": f"Bearer {bearer_token}"})
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            return json.loads(resp.read().decode())
+    except Exception as e:
+        print(f"  [WARN] X search failed for query: {e}")
+        return {}
 
 
 def collect_x_posts() -> list[dict]:
-    client = openai.OpenAI()
-    topics = "\n".join(f"- {q.replace('site:x.com ', '')}" for q in X_QUERIES)
+    bearer_token = os.environ.get("X_BEARER_TOKEN", "")
+    if not bearer_token:
+        print("  [WARN] X_BEARER_TOKEN not set, skipping X collection")
+        return []
 
-    try:
-        response = client.responses.create(
-            model="gpt-4o-mini",
-            tools=[{"type": "web_search_preview"}],
-            input=f"""X（Twitter）で以下のトピックに関する直近3日以内の投稿を検索し、実務で役立つものを最大15件見つけてください。
+    seen_ids = set()
+    articles = []
 
-検索トピック:
-{topics}
+    for query in X_QUERIES:
+        data = _x_search(query, bearer_token, max_results=15)
+        tweets = data.get("data", [])
+        users = {u["id"]: u for u in data.get("includes", {}).get("users", [])}
 
-以下のJSON配列のみ出力してください（説明文不要）:
-[
-  {{"title": "投稿内容の要約タイトル", "url": "x.comの投稿URL", "summary": "投稿内容の1-2行要約（日本語）", "source": "X (@ユーザー名)"}}
-]
+        for tweet in tweets:
+            tid = tweet["id"]
+            if tid in seen_ids:
+                continue
+            seen_ids.add(tid)
 
-優先すべき投稿:
-- AIツールの具体的な使い方・Tips・ノウハウ（Claude Code, MCP, Cursor等）
-- 新機能リリースの第一報
-- 実務でAIを使った成果報告・事例共有
-- バズっている有益な投稿
+            author = users.get(tweet.get("author_id"), {})
+            username = author.get("username", "unknown")
+            metrics = tweet.get("public_metrics", {})
+            text = tweet.get("text", "")
 
-除外:
-- 宣伝・スパム
-- 抽象的な意見・ポエム
-- ニュースサイトの記事（x.comの投稿のみ）"""
-        )
+            if metrics.get("like_count", 0) < 3:
+                continue
 
-        text = ""
-        for item in response.output:
-            if item.type == "message":
-                for content in item.content:
-                    if hasattr(content, "text"):
-                        text = content.text
+            articles.append({
+                "title": text[:80].replace("\n", " "),
+                "url": f"https://x.com/{username}/status/{tid}",
+                "summary": text[:400].replace("\n", " "),
+                "source": f"X (@{username})",
+                "published": tweet.get("created_at", ""),
+            })
 
-        json_match = re.search(r'\[.*\]', text, re.DOTALL)
-        if json_match:
-            posts = json.loads(json_match.group())
-            print(f"  -> Parsed {len(posts)} X posts from OpenAI web search")
-            return [
-                {"title": p.get("title", ""), "url": p.get("url", ""), "summary": p.get("summary", ""), "source": p.get("source", "X"), "published": ""}
-                for p in posts
-            ]
-    except Exception as e:
-        print(f"[WARN] X collection via OpenAI web search failed: {e}")
+        time.sleep(1)
 
-    return []
+    articles.sort(key=lambda a: a.get("published", ""), reverse=True)
+    print(f"  -> Collected {len(articles)} X posts (from {len(seen_ids)} total, filtered by likes>=3)")
+    return articles[:30]
 
 
 def curate(articles: list[dict]) -> dict:
-    client = openai.OpenAI()
+    client = anthropic.Anthropic()
     articles_text = "\n\n".join(
         f"---\nTitle: {a['title']}\nSource: {a['source']}\nURL: {a['url']}\nPublished: {a['published']}\nSummary: {a['summary']}"
         for a in articles
     )
 
-    response = client.chat.completions.create(
-        model="gpt-4o",
-        response_format={"type": "json_object"},
+    response = client.messages.create(
+        model="claude-sonnet-4-6",
+        max_tokens=4096,
+        system="You are an AI news curator. Always respond with valid JSON only. No markdown fences, no explanation.",
         messages=[
-            {"role": "system", "content": "You are an AI news curator. Always respond with valid JSON only."},
             {"role": "user", "content": CURATE_PROMPT.format(articles=articles_text)},
         ],
     )
 
-    text = response.choices[0].message.content
+    text = response.content[0].text
+    json_match = re.search(r'\{.*\}', text, re.DOTALL)
+    if json_match:
+        return json.loads(json_match.group())
     return json.loads(text)
 
 
@@ -233,7 +246,7 @@ def main():
         print("[ERROR] No articles collected. Exiting.")
         return
 
-    print("[3/4] Curating with GPT-4o...")
+    print("[3/4] Curating with Claude...")
     data = curate(articles)
     total = len(data.get("business", [])) + len(data.get("agent", [])) + len(data.get("tech", []))
     print(f"  -> {total} articles selected")
