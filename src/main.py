@@ -2,7 +2,7 @@ import os
 import json
 import re
 import feedparser
-import anthropic
+import openai
 import resend
 from datetime import datetime, timezone, timedelta
 
@@ -74,22 +74,22 @@ def collect_rss() -> list[dict]:
 
 
 def curate(articles: list[dict]) -> dict:
-    client = anthropic.Anthropic()
+    client = openai.OpenAI()
     articles_text = "\n\n".join(
         f"---\nTitle: {a['title']}\nSource: {a['source']}\nURL: {a['url']}\nPublished: {a['published']}\nSummary: {a['summary']}"
         for a in articles
     )
 
-    response = client.messages.create(
-        model="claude-sonnet-4-6",
-        max_tokens=4000,
-        messages=[{"role": "user", "content": CURATE_PROMPT.format(articles=articles_text)}],
+    response = client.chat.completions.create(
+        model="gpt-4o",
+        response_format={"type": "json_object"},
+        messages=[
+            {"role": "system", "content": "You are an AI news curator. Always respond with valid JSON only."},
+            {"role": "user", "content": CURATE_PROMPT.format(articles=articles_text)},
+        ],
     )
 
-    text = response.content[0].text
-    json_match = re.search(r"```json\s*(.*?)\s*```", text, re.DOTALL)
-    if json_match:
-        text = json_match.group(1)
+    text = response.choices[0].message.content
     return json.loads(text)
 
 
@@ -121,7 +121,7 @@ def main():
         print("[ERROR] No articles collected. Exiting.")
         return
 
-    print("[2/3] Curating with Claude...")
+    print("[2/3] Curating with GPT-4o...")
     data = curate(articles)
     total = len(data.get("business", [])) + len(data.get("agent", [])) + len(data.get("tech", []))
     print(f"  -> {total} articles selected")
