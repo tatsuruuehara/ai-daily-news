@@ -1,10 +1,7 @@
 import os
 import json
 import re
-import time
 import email.utils
-import urllib.request
-import urllib.parse
 import feedparser
 import anthropic
 import resend
@@ -126,81 +123,6 @@ def collect_rss() -> list[dict]:
 
 
 
-X_QUERIES = [
-    '(Claude Code OR Claude OR Anthropic) -is:retweet lang:ja',
-    '(ChatGPT OR Gemini OR OpenAI) -is:retweet lang:ja',
-    '(AIエージェント OR MCP OR 生成AI) -is:retweet lang:ja',
-    '(Cursor OR Cline OR n8n OR Dify) AI -is:retweet lang:ja',
-    'AI (資金調達 OR スタートアップ OR 速報) -is:retweet lang:ja',
-]
-
-MIN_LIKES = 500
-
-
-def _x_search(query: str, bearer_token: str) -> dict:
-    params = urllib.parse.urlencode({
-        "query": query,
-        "max_results": 50,
-        "sort_order": "relevancy",
-        "tweet.fields": "created_at,author_id,text,public_metrics,entities",
-        "expansions": "author_id",
-        "user.fields": "username,name",
-    })
-    url = f"https://api.twitter.com/2/tweets/search/recent?{params}"
-    req = urllib.request.Request(url, headers={"Authorization": f"Bearer {bearer_token}"})
-    try:
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            return json.loads(resp.read().decode())
-    except Exception as e:
-        print(f"  [WARN] X search failed: {e}")
-        return {}
-
-
-def collect_x_posts() -> list[dict]:
-    bearer_token = os.environ.get("X_BEARER_TOKEN", "")
-    if not bearer_token:
-        print("  [WARN] X_BEARER_TOKEN not set, skipping")
-        return []
-
-    seen_ids = set()
-    results = []
-
-    for query in X_QUERIES:
-        data = _x_search(query, bearer_token)
-        tweets = data.get("data", [])
-        users = {u["id"]: u for u in data.get("includes", {}).get("users", [])}
-
-        for tweet in tweets:
-            tid = tweet["id"]
-            if tid in seen_ids:
-                continue
-            seen_ids.add(tid)
-
-            metrics = tweet.get("public_metrics", {})
-            if metrics.get("like_count", 0) < MIN_LIKES:
-                continue
-
-            author = users.get(tweet.get("author_id"), {})
-            username = author.get("username", "unknown")
-            text = tweet.get("text", "")
-
-            ext_urls = [u.get("expanded_url", "") for u in tweet.get("entities", {}).get("urls", []) if "x.com" not in u.get("expanded_url", "") and "twitter.com" not in u.get("expanded_url", "")]
-            url = ext_urls[0] if ext_urls else f"https://x.com/{username}/status/{tid}"
-
-            results.append({
-                "title": text[:80].replace("\n", " "),
-                "url": url,
-                "summary": text[:400].replace("\n", " "),
-                "source": f"X (@{username})",
-                "published": tweet.get("created_at", ""),
-            })
-
-        time.sleep(1)
-
-    results.sort(key=lambda a: a.get("published", ""), reverse=True)
-    print(f"  -> {len(results)} X posts (from {len(seen_ids)} searched, likes>={MIN_LIKES})")
-    return results[:20]
-
 
 def curate(articles: list[dict]) -> dict:
     client = anthropic.Anthropic()
@@ -245,25 +167,20 @@ def main():
     date_str = now.strftime("%Y/%m/%d")
     print(f"[INFO] AI Daily News - {date_str}")
 
-    print("[1/4] Collecting RSS feeds...")
+    print("[1/3] Collecting RSS feeds...")
     articles = collect_rss()
-    print(f"  -> {len(articles)} RSS articles")
-
-    print("[2/4] Collecting X posts...")
-    x_posts = collect_x_posts()
-    articles.extend(x_posts)
-    print(f"  -> {len(articles)} total articles")
+    print(f"  -> {len(articles)} articles collected")
 
     if not articles:
         print("[ERROR] No articles collected. Exiting.")
         return
 
-    print("[3/4] Curating with Claude...")
+    print("[2/3] Curating with Claude...")
     data = curate(articles)
     total = len(data.get("howto", [])) + len(data.get("agent", [])) + len(data.get("tech", []))
     print(f"  -> {total} articles selected")
 
-    print("[4/4] Sending email...")
+    print("[3/3] Sending email...")
     html = build_html(data, date_str)
     send_email(html, date_str)
 
