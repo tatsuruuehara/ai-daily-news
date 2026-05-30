@@ -6,7 +6,6 @@ import email.utils
 import feedparser
 import openai
 import resend
-import requests
 from datetime import datetime, timezone, timedelta
 
 JST = timezone(timedelta(hours=9))
@@ -129,41 +128,55 @@ X_QUERIES = [
 ]
 
 
-def brave_search(query: str, count: int = 5) -> list[dict]:
-    api_key = os.environ.get("BRAVE_API_KEY", "")
-    if not api_key:
-        return []
-    resp = requests.get(
-        "https://api.search.brave.com/res/v1/web/search",
-        headers={"X-Subscription-Token": api_key, "Accept": "application/json"},
-        params={"q": query, "count": count, "freshness": "pd"},
-        timeout=10,
-    )
-    resp.raise_for_status()
-    return resp.json().get("web", {}).get("results", [])
-
-
 def collect_x_posts() -> list[dict]:
-    articles = []
-    seen_urls = set()
-    for query in X_QUERIES:
-        try:
-            results = brave_search(query, count=5)
-            for r in results:
-                url = r.get("url", "")
-                if url in seen_urls:
-                    continue
-                seen_urls.add(url)
-                articles.append({
-                    "title": r.get("title", ""),
-                    "url": url,
-                    "summary": r.get("description", "")[:400],
-                    "source": "X (Twitter)",
-                    "published": "",
-                })
-        except Exception as e:
-            print(f"[WARN] X search failed for '{query}': {e}")
-    return articles
+    client = openai.OpenAI()
+    topics = "\n".join(f"- {q.replace('site:x.com ', '')}" for q in X_QUERIES)
+
+    try:
+        response = client.responses.create(
+            model="gpt-4o-mini",
+            tools=[{"type": "web_search_preview"}],
+            input=f"""X（Twitter）で以下のトピックに関する直近3日以内の投稿を検索し、実務で役立つものを最大15件見つけてください。
+
+検索トピック:
+{topics}
+
+以下のJSON配列のみ出力してください（説明文不要）:
+[
+  {{"title": "投稿内容の要約タイトル", "url": "x.comの投稿URL", "summary": "投稿内容の1-2行要約（日本語）", "source": "X (@ユーザー名)"}}
+]
+
+優先すべき投稿:
+- AIツールの具体的な使い方・Tips・ノウハウ（Claude Code, MCP, Cursor等）
+- 新機能リリースの第一報
+- 実務でAIを使った成果報告・事例共有
+- バズっている有益な投稿
+
+除外:
+- 宣伝・スパム
+- 抽象的な意見・ポエム
+- ニュースサイトの記事（x.comの投稿のみ）"""
+        )
+
+        text = ""
+        for item in response.output:
+            if item.type == "message":
+                for content in item.content:
+                    if hasattr(content, "text"):
+                        text = content.text
+
+        json_match = re.search(r'\[.*\]', text, re.DOTALL)
+        if json_match:
+            posts = json.loads(json_match.group())
+            print(f"  -> Parsed {len(posts)} X posts from OpenAI web search")
+            return [
+                {"title": p.get("title", ""), "url": p.get("url", ""), "summary": p.get("summary", ""), "source": p.get("source", "X"), "published": ""}
+                for p in posts
+            ]
+    except Exception as e:
+        print(f"[WARN] X collection via OpenAI web search failed: {e}")
+
+    return []
 
 
 def curate(articles: list[dict]) -> dict:
