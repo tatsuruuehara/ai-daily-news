@@ -49,8 +49,7 @@ def build_html(data: dict, date_str: str) -> str:
 
   <!-- HEADER -->
   <tr><td style="background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);border-radius:16px 16px 0 0;padding:40px 32px;text-align:center;">
-    <p style="font-size:40px;margin:0;">&#x1F916;</p>
-    <h1 style="color:#ffffff;font-size:28px;font-weight:800;margin:8px 0 4px 0;letter-spacing:-0.5px;">AI Daily News</h1>
+    <h1 style="color:#ffffff;font-size:28px;font-weight:800;margin:0 0 4px 0;letter-spacing:-0.5px;">AI Daily News</h1>
     <p style="color:rgba(255,255,255,0.85);font-size:14px;margin:0;">{date_str}</p>
   </td></tr>
 
