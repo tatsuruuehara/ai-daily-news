@@ -5,6 +5,9 @@ on:
     - cron: '0 22 * * *' # 7:00 AM JST
   workflow_dispatch: # manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   send-news:
     runs-on: ubuntu-latest
