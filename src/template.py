@@ -1,6 +1,6 @@
 def build_html(data: dict, date_str: str) -> str:
     highlight = data.get("highlight", {})
-    business = data.get("business", [])
+    howto = data.get("howto", [])
     agent = data.get("agent", [])
     tech = data.get("tech", [])
     trend = data.get("trend", "")
@@ -8,7 +8,7 @@ def build_html(data: dict, date_str: str) -> str:
     def article_card(item, accent):
         url = item.get('url', '#')
         source = item.get('source', '')
-        source_icon = "&#x1D54F;" if "X" in source or "Twitter" in source else "&#x1F4F0;"
+        source_icon = "&#x1F4F0;"
         return f"""
         <tr><td style="padding:0 0 16px 0;">
           <table width="100%" cellpadding="0" cellspacing="0" style="background:#ffffff;border-radius:12px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,0.08);">
@@ -70,7 +70,7 @@ def build_html(data: dict, date_str: str) -> str:
     <!-- SECTIONS -->
     <tr><td style="padding:0 32px;">
       <table width="100%" cellpadding="0" cellspacing="0">
-        {section("AI x Business", "&#x1F3E2;", business, "#4CAF50")}
+        {section("How-to / Tips", "&#x1F528;", howto, "#4CAF50")}
         {section("AI Agent / Automation", "&#x1F916;", agent, "#2196F3")}
         {section("Tech & Research", "&#x2699;&#xFE0F;", tech, "#9C27B0")}
       </table>
