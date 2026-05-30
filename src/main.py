@@ -6,7 +6,7 @@ import email.utils
 import feedparser
 import openai
 import resend
-from duckduckgo_search import DDGS
+from googlesearch import search as gsearch
 from datetime import datetime, timezone, timedelta
 
 JST = timezone(timedelta(hours=9))
@@ -131,20 +131,25 @@ X_QUERIES = [
 
 def collect_x_posts() -> list[dict]:
     articles = []
-    with DDGS() as ddgs:
-        for query in X_QUERIES:
-            try:
-                results = ddgs.text(query, max_results=5, timelimit="d")
-                for r in results:
-                    articles.append({
-                        "title": r.get("title", ""),
-                        "url": r.get("href", ""),
-                        "summary": r.get("body", "")[:400],
-                        "source": "X (Twitter)",
-                        "published": "",
-                    })
-            except Exception as e:
-                print(f"[WARN] X search failed for '{query}': {e}")
+    seen_urls = set()
+    for query in X_QUERIES:
+        try:
+            results = gsearch(query, num_results=5, lang="ja", advanced=True)
+            for r in results:
+                url = r.url
+                if url in seen_urls:
+                    continue
+                seen_urls.add(url)
+                articles.append({
+                    "title": r.title or "",
+                    "url": url,
+                    "summary": r.description or "",
+                    "source": "X (Twitter)",
+                    "published": "",
+                })
+        except Exception as e:
+            print(f"[WARN] X search failed for '{query}': {e}")
+        time.sleep(2)
     return articles
 
 
