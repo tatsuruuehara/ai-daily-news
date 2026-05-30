@@ -4,6 +4,7 @@ import re
 import feedparser
 import openai
 import resend
+from duckduckgo_search import DDGS
 from datetime import datetime, timezone, timedelta
 
 JST = timezone(timedelta(hours=9))
@@ -18,7 +19,8 @@ RSS_FEEDS = {
     "AINOW": "https://ainow.ai/feed/",
 }
 
-CURATE_PROMPT = """あなたはAIニュースキュレーターです。以下のRSSフィードから収集した記事群から、AI関連で最も重要・興味深い記事を厳選してください。
+CURATE_PROMPT = """あなたはAIニュースキュレーターです。以下のRSSフィードおよびX（Twitter）から収集した記事・投稿から、AI関連で最も重要・興味深いものを厳選してください。
+X（Twitter）の投稿は一次情報として重要度が高いので、有益なものは積極的に採用してください。
 
 ## 収集した記事
 {articles}
@@ -73,6 +75,33 @@ def collect_rss() -> list[dict]:
     return articles
 
 
+X_QUERIES = [
+    "site:x.com AI エージェント OR agent",
+    "site:x.com Claude OR ChatGPT OR Gemini 新機能 OR release",
+    "site:x.com 生成AI 活用 OR 自動化",
+    "site:x.com LLM OR AI startup",
+]
+
+
+def collect_x_posts() -> list[dict]:
+    articles = []
+    with DDGS() as ddgs:
+        for query in X_QUERIES:
+            try:
+                results = ddgs.text(query, max_results=5, timelimit="d")
+                for r in results:
+                    articles.append({
+                        "title": r.get("title", ""),
+                        "url": r.get("href", ""),
+                        "summary": r.get("body", "")[:400],
+                        "source": "X (Twitter)",
+                        "published": "",
+                    })
+            except Exception as e:
+                print(f"[WARN] X search failed for '{query}': {e}")
+    return articles
+
+
 def curate(articles: list[dict]) -> dict:
     client = openai.OpenAI()
     articles_text = "\n\n".join(
@@ -100,7 +129,7 @@ def send_email(html: str, date_str: str):
     result = resend.Emails.send({
         "from": "AI Daily News <onboarding@resend.dev>",
         "to": [to_email],
-        "subject": f"\U0001f916 AI Daily News - {date_str}",
+        "subject": f"AI Daily News - {date_str}",
         "html": html,
     })
     print(f"[OK] Email sent: {result}")
@@ -113,20 +142,26 @@ def main():
     date_str = now.strftime("%Y/%m/%d")
     print(f"[INFO] AI Daily News - {date_str}")
 
-    print("[1/3] Collecting RSS feeds...")
+    print("[1/4] Collecting RSS feeds...")
     articles = collect_rss()
-    print(f"  -> {len(articles)} articles collected")
+    print(f"  -> {len(articles)} RSS articles")
+
+    print("[2/4] Collecting X (Twitter) posts...")
+    x_posts = collect_x_posts()
+    print(f"  -> {len(x_posts)} X posts")
+    articles.extend(x_posts)
+    print(f"  -> {len(articles)} total articles collected")
 
     if not articles:
         print("[ERROR] No articles collected. Exiting.")
         return
 
-    print("[2/3] Curating with GPT-4o...")
+    print("[3/4] Curating with GPT-4o...")
     data = curate(articles)
     total = len(data.get("business", [])) + len(data.get("agent", [])) + len(data.get("tech", []))
     print(f"  -> {total} articles selected")
 
-    print("[3/3] Sending email...")
+    print("[4/4] Sending email...")
     html = build_html(data, date_str)
     send_email(html, date_str)
 

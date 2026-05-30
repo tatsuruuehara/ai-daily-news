@@ -6,13 +6,19 @@ def build_html(data: dict, date_str: str) -> str:
     trend = data.get("trend", "")
 
     def article_card(item, accent):
+        url = item.get('url', '#')
+        source = item.get('source', '')
+        source_icon = "&#x1D54F;" if "X" in source or "Twitter" in source else "&#x1F4F0;"
         return f"""
         <tr><td style="padding:0 0 16px 0;">
           <table width="100%" cellpadding="0" cellspacing="0" style="background:#ffffff;border-radius:12px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,0.08);">
             <tr><td style="border-left:4px solid {accent};padding:20px 24px;">
-              <a href="{item.get('url','#')}" style="color:#1a1a2e;font-size:16px;font-weight:700;text-decoration:none;line-height:1.4;">{item.get('title','')}</a>
+              <a href="{url}" style="color:#1a1a2e;font-size:16px;font-weight:700;text-decoration:none;line-height:1.4;">{item.get('title','')}</a>
               <p style="color:#555;font-size:14px;line-height:1.6;margin:8px 0 0 0;">{item.get('summary','')}</p>
-              <p style="color:#aaa;font-size:12px;margin:8px 0 0 0;">{item.get('source','')}</p>
+              <p style="margin:12px 0 0 0;">
+                <span style="color:#aaa;font-size:12px;">{source_icon} {source}</span>
+                <a href="{url}" style="color:{accent};font-size:12px;font-weight:600;text-decoration:none;margin-left:12px;">&#x2197; Read more</a>
+              </p>
             </td></tr>
           </table>
         </td></tr>"""
