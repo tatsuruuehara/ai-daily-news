@@ -22,6 +22,7 @@ RSS_FEEDS = {
     "MIT Technology Review": "https://www.technologyreview.com/feed/",
     "AWS AI Blog": "https://aws.amazon.com/blogs/machine-learning/feed/",
     "BBC Technology": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+    "VentureBeat AI": "https://venturebeat.com/category/ai/feed",
 }
 
 MAX_AGE_DAYS = 3

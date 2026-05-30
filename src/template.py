@@ -8,6 +8,7 @@ SOURCE_COLORS = {
     "MIT Technology Review": "#e5127d",
     "AWS AI Blog": "#ff9900",
     "BBC Technology": "#bb1919",
+    "VentureBeat AI": "#2196F3",
 }
 
 DEFAULT_COLOR = "#667eea"
