@@ -160,5 +160,86 @@
         "source": "AIsmiley"
       }
     ]
+  },
+  {
+    "date": "2026/05/31",
+    "email_id": "29826671-e12d-4b76-994b-a75e49639f6e",
+    "articles": [
+      {
+        "title": "OpenAIが生命科学推論AI「GPT-Rosalind」をバイオディフェンスに開放　デュアルユースリスクに懸念も",
+        "url": "https://www.itmedia.co.jp/news/articles/2605/30/news031.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「Nano Banana 2」「Nano Banana Pro」が一般提供開始　「2」は動画からの画像生成もサポート",
+        "url": "https://www.itmedia.co.jp/news/articles/2605/29/news146.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "OpenAI、日本政府とサイバーセキュリティで協力　最新AI「GPT-5.5-Cyber」を金融機関に提供",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000037/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "クラウド依存、コストの課題を解消？　MicrosoftのローカルAI基盤「Foundry Local」",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news075.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "富士通がOpenAI、Anthropicと相次ぎ提携　AIベンダーと組む狙いは？",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2605/29/news067.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "三菱総合研究所、AIエージェント活用の事業影響評価支援を開始",
+        "url": "https://aismiley.co.jp/ai_news/mri-ai-agent-business-impact/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "KyoHA、日本発の純国産ヒューマノイド検証機「SEIMEI」を発表",
+        "url": "https://aismiley.co.jp/ai_news/kyoha-seimei-humanoid/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "MUFG aims to become AI-native with OpenAI",
+        "url": "https://openai.com/index/mufg",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+        "url": "https://openai.com/index/cisco",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Building self-improving tax agents with Codex",
+        "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Claude Opus 4.8 is now available on AWS",
+        "url": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-8-is-now-available-on-aws/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Building AI agents for business support using Amazon Bedrock AgentCore",
+        "url": "https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "JR西日本は“熟練者が手書きするしかなかった車両作業計画”をAIでどう自動化するのか？",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news103.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "日本通運、物流Webアプリ「DCX」の機能を強化。AIによる出荷予測を約5分に短縮",
+        "url": "https://aismiley.co.jp/ai_news/nippon-express-dcx-ai/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "【2026年最新】コンテキストウィンドウとは？主要LLM比較と「記憶の罠」を防ぐ使いこなし術",
+        "url": "https://aismiley.co.jp/ai_news/contextwindow-llm-ai-2026/",
+        "source": "AIsmiley"
+      }
+    ]
   }
 ]
