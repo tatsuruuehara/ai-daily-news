@@ -2,87 +2,27 @@ import os
 import json
 import re
 import email.utils
+from pathlib import Path
 import feedparser
-import anthropic
+from google import genai
 import resend
 from datetime import datetime, timezone, timedelta
 
 JST = timezone(timedelta(hours=9))
+HISTORY_PATH = Path(__file__).resolve().parent.parent / "data" / "history.json"
+MAX_HISTORY = 30
 
 RSS_FEEDS = {
-    "TechCrunch": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "The Verge": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-    "VentureBeat": "https://venturebeat.com/category/ai/feed/",
-    "MIT Tech Review": "https://www.technologyreview.com/feed/",
-    "Ars Technica": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+    "AINOW": "https://ainow.ai/feed",
     "ITmedia AI+": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml",
-    "AINOW": "https://ainow.ai/feed/",
-    "note AI": "https://note.com/topic/ai/rss",
-    "Zenn AI": "https://zenn.dev/topics/ai/feed",
-    "はてブ AI": "https://b.hatena.ne.jp/search/tag?q=AI&mode=rss",
-    "Publickey": "https://www.publickey1.jp/atom.xml",
-    "kirekaku": "https://kirekaku.com/feed",
-    "BUSINESS AI": "https://business-ai.jp/feed",
+    "AIsmiley": "https://aismiley.co.jp/ai_news/feed/",
+    "OpenAI Blog": "https://openai.com/blog/rss.xml",
+    "Google AI Blog": "https://blog.google/technology/ai/rss/",
+    "TechCrunch AI": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "MIT Technology Review": "https://www.technologyreview.com/feed/",
+    "AWS AI Blog": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "BBC Technology": "https://feeds.bbci.co.uk/news/technology/rss.xml",
 }
-
-CURATE_PROMPT = """あなたはAI実践者向けの情報キュレーターです。
-読者はAI/DXコンサルティング事業の経営者で、自ら手を動かしてAIツールを使い倒すタイプです。
-「明日すぐ試せる具体的なノウハウ」を最も求めています。
-
-## 読者が求める情報（優先度順）
-1. **AIツールの実践ガイド・Tips** — Claude Code, MCP, n8n, Cursor, Dify等の具体的な使い方・構築手順・設定方法。ステップバイステップで再現できるもの最優先
-2. **AI活用の構築事例** — 「こう作った」「こう自動化した」という実装寄りの事例。業務フロー自動化、X運用自動化、データ分析自動化など
-3. **新モデル・新機能リリース** — Claude/GPT/Gemini等の具体的なアップデート。「何ができるようになったか」「どう使うか」が明確なもの
-4. **AI業界の競合・資金調達動向** — スタートアップの調達、M&A、新プロダクト
-
-## 読者が好む記事の具体例
-- 「n8n完全攻略ロードマップ：登録からAIエージェント構築まで」のような包括的ガイド
-- 「Claude Codeに/usageが追加。コスト管理が可能に」のような新機能の具体的活用法
-- 「X運用をClaude Codeで完全自動化する手順」のようなステップバイステップ解説
-- 「MCPサーバーを自作してプリンター連携した」のような個人の実装事例
-
-## 絶対に含めないもの
-- 「AIが加速しています」「DXが重要です」のような抽象的な業界トレンド記事
-- 初心者向け解説（「生成AIとは」「ChatGPTの使い方入門」系）
-- 具体性のないポエム的な意見記事・感想文
-- 古い情報の焼き直し、3日以上前の記事
-- 具体的な手順やコードがない「○○がすごい」だけの記事
-
-## 収集した記事
-{articles}
-
-## 出力ルール
-- 必ず以下のJSON形式のみ出力（説明文不要）
-- 海外記事のタイトル・要約は日本語に翻訳
-- 各カテゴリ2-3件、合計5-10件に厳選
-- 量より質。「読んですぐ手を動かせるか？」を基準に選定
-- 各記事のURLは元記事のURLをそのまま使用すること（変更・省略しない）
-- noteやZennの実践記事は積極的に採用すること
-
-```json
-{{
-  "highlight": {{
-    "title": "今日最も実践的で価値のある記事の見出し",
-    "summary": "2-3行で要約。何ができるようになるかを明確に"
-  }},
-  "howto": [
-    {{"title": "記事タイトル（日本語）", "url": "元記事URL", "summary": "1-2行の要約。具体的な手順・ツール名を含める", "source": "メディア名"}}
-  ],
-  "agent": [
-    {{"title": "...", "url": "...", "summary": "...", "source": "..."}}
-  ],
-  "tech": [
-    {{"title": "...", "url": "...", "summary": "...", "source": "..."}}
-  ],
-  "trend": "今日の情報から実践者が押さえるべきポイントを1-2行で。「○○を試すべき」のような具体的アクション示唆"
-}}
-```
-
-カテゴリ分類:
-- howto: 実践ガイド・チュートリアル・構築事例・Tips（すぐ試せるもの最優先）
-- agent: AIエージェント・MCP・自動化ワークフローの新ツール・新手法
-- tech: 新モデル・新機能・API変更・資金調達（「何ができるようになったか」が明確なもの）"""
-
 
 MAX_AGE_DAYS = 3
 
@@ -122,32 +62,127 @@ def collect_rss() -> list[dict]:
     return articles
 
 
+def load_history() -> list[dict]:
+    if not HISTORY_PATH.exists():
+        return []
+    try:
+        return json.loads(HISTORY_PATH.read_text())
+    except Exception:
+        return []
 
 
-def curate(articles: list[dict]) -> dict:
-    client = anthropic.Anthropic()
-    articles_text = "\n\n".join(
-        f"---\nTitle: {a['title']}\nSource: {a['source']}\nURL: {a['url']}\nPublished: {a['published']}\nSummary: {a['summary']}"
-        for a in articles
+def save_history(history: list[dict]):
+    HISTORY_PATH.parent.mkdir(parents=True, exist_ok=True)
+    HISTORY_PATH.write_text(json.dumps(history[-MAX_HISTORY:], ensure_ascii=False, indent=2))
+
+
+def get_click_feedback() -> list[dict]:
+    resend.api_key = os.environ.get("RESEND_API_KEY", "")
+    if not resend.api_key:
+        return []
+
+    history = load_history()
+    clicked = []
+
+    for record in history:
+        email_id = record.get("email_id")
+        if not email_id or record.get("clicks_checked"):
+            continue
+
+        try:
+            email_data = resend.Emails.get(email_id)
+            clicks = email_data.get("clicks", [])
+            for click in clicks:
+                click_url = click.get("url", "") if isinstance(click, dict) else str(click)
+                for article in record.get("articles", []):
+                    if article.get("url") == click_url:
+                        clicked.append({
+                            "title": article["title"],
+                            "source": article["source"],
+                        })
+            record["clicks_checked"] = True
+        except Exception as e:
+            print(f"[WARN] Failed to get clicks for {email_id}: {e}")
+
+    save_history(history)
+    return clicked
+
+
+def build_preference_context(clicked: list[dict]) -> str:
+    if not clicked:
+        return ""
+
+    titles = "\n".join(f"- {c['title']}（{c['source']}）" for c in clicked[-20:])
+    return f"""
+
+## 過去にクリックされた記事（読者が実際に興味を持った記事）
+{titles}
+
+上記の傾向を考慮して、似たテーマ・トピックの記事を優先的に選んでください。"""
+
+
+CURATE_SYSTEM_BASE = """\
+あなたはAIニュースキュレーターです。以下の記事一覧から、重要度と読者の興味に基づいて上位15件を厳選してください。
+
+## 読者の興味
+- AIエージェント・自動化（MCP、Claude Code、n8n、ワークフロー自動化）
+- AI開発・技術動向（新モデルリリース、API、フレームワーク）
+- AI × ビジネス活用（業務効率化、DX、導入事例）
+- 実践的なハウツー・Tips
+
+## 選定基準
+- 新規性が高い（新リリース、新機能、ブレイクスルー）
+- 実用性が高い（すぐ試せる、業務に活かせる）
+- 業界インパクトが大きい
+
+## 出力形式
+JSON配列のみ出力。各要素:
+{"index": N, "title": "日本語タイトル", "summary": "日本語で1-2行の要約"}
+
+英語記事は日本語に翻訳、日本語記事はそのまま出力。indexは入力の番号に対応。"""
+
+
+def curate_and_translate(articles: list[dict], clicked: list[dict]) -> list[dict]:
+    system_prompt = CURATE_SYSTEM_BASE + build_preference_context(clicked)
+
+    text_block = "\n---\n".join(
+        f"[{i}] [{a['source']}] {a['title']}\n{a['summary'][:200]}"
+        for i, a in enumerate(articles)
     )
 
-    response = client.messages.create(
-        model="claude-sonnet-4-6",
-        max_tokens=4096,
-        system="You are an AI news curator. Always respond with valid JSON only. No markdown fences, no explanation.",
-        messages=[
-            {"role": "user", "content": CURATE_PROMPT.format(articles=articles_text)},
-        ],
+    client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY", ""))
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=text_block,
+        config=genai.types.GenerateContentConfig(
+            system_instruction=system_prompt,
+            max_output_tokens=16384,
+            thinking_config=genai.types.ThinkingConfig(thinking_budget=0),
+        ),
     )
 
-    text = response.content[0].text
-    json_match = re.search(r'\{.*\}', text, re.DOTALL)
-    if json_match:
-        return json.loads(json_match.group())
-    return json.loads(text)
+    try:
+        text = response.text
+        text = re.sub(r'```json\s*', '', text)
+        text = re.sub(r'```\s*', '', text)
+        json_match = re.search(r'\[.*\]', text, re.DOTALL)
+        selected = json.loads(json_match.group()) if json_match else json.loads(text)
+
+        result = []
+        for t in selected[:15]:
+            idx = t.get("index", -1)
+            if 0 <= idx < len(articles):
+                article = articles[idx].copy()
+                article["title"] = t.get("title", article["title"])
+                article["summary"] = t.get("summary", article["summary"])
+                result.append(article)
+        return result
+    except Exception as e:
+        print(f"[WARN] Curation failed, returning all articles: {e}")
+        return articles
 
 
-def send_email(html: str, date_str: str):
+def send_email(html: str, date_str: str) -> str:
     resend.api_key = os.environ["RESEND_API_KEY"]
     to_email = os.environ.get("TO_EMAIL", "tatsuru.uehara@gmail.com")
 
@@ -157,7 +192,9 @@ def send_email(html: str, date_str: str):
         "subject": f"AI Daily News - {date_str}",
         "html": html,
     })
+    email_id = result.get("id", "") if isinstance(result, dict) else ""
     print(f"[OK] Email sent: {result}")
+    return email_id
 
 
 def main():
@@ -167,7 +204,11 @@ def main():
     date_str = now.strftime("%Y/%m/%d")
     print(f"[INFO] AI Daily News - {date_str}")
 
-    print("[1/3] Collecting RSS feeds...")
+    print("[1/4] Loading click history...")
+    clicked = get_click_feedback()
+    print(f"  -> {len(clicked)} clicked articles found")
+
+    print("[2/4] Collecting RSS feeds...")
     articles = collect_rss()
     print(f"  -> {len(articles)} articles collected")
 
@@ -175,14 +216,25 @@ def main():
         print("[ERROR] No articles collected. Exiting.")
         return
 
-    print("[2/3] Curating with Claude...")
-    data = curate(articles)
-    total = len(data.get("howto", [])) + len(data.get("agent", [])) + len(data.get("tech", []))
-    print(f"  -> {total} articles selected")
+    print("[3/4] Curating top 15 + translating...")
+    articles = curate_and_translate(articles, clicked)
+    print(f"  -> {len(articles)} articles selected")
 
-    print("[3/3] Sending email...")
-    html = build_html(data, date_str)
-    send_email(html, date_str)
+    print("[4/4] Sending email...")
+    by_source = {}
+    for a in articles:
+        by_source.setdefault(a["source"], []).append(a)
+
+    html = build_html(by_source, date_str)
+    email_id = send_email(html, date_str)
+
+    history = load_history()
+    history.append({
+        "date": date_str,
+        "email_id": email_id,
+        "articles": [{"title": a["title"], "url": a["url"], "source": a["source"]} for a in articles],
+    })
+    save_history(history)
 
     print("[DONE]")
 
