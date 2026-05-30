@@ -2,6 +2,7 @@ import os
 import json
 import re
 import email.utils
+import urllib.request
 from pathlib import Path
 import feedparser
 from google import genai
@@ -42,6 +43,33 @@ def is_recent(published_str: str) -> bool:
     return True
 
 
+def fetch_og_image(url: str) -> str:
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=5) as resp:
+            html = resp.read().decode("utf-8", errors="ignore")[:15000]
+        m = re.search(r'property="og:image"[^>]+content="([^"]+)"', html)
+        if not m:
+            m = re.search(r'content="([^"]+)"[^>]+property="og:image"', html)
+        return m.group(1) if m else ""
+    except Exception:
+        return ""
+
+
+def get_image_from_entry(entry) -> str:
+    if hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
+        return entry.media_thumbnail[0].get("url", "")
+    if hasattr(entry, "media_content") and entry.media_content:
+        for mc in entry.media_content:
+            if mc.get("medium") == "image" or mc.get("type", "").startswith("image"):
+                return mc.get("url", "")
+    if hasattr(entry, "enclosures") and entry.enclosures:
+        for enc in entry.enclosures:
+            if enc.get("type", "").startswith("image"):
+                return enc.get("href", enc.get("url", ""))
+    return ""
+
+
 def collect_rss() -> list[dict]:
     articles = []
     for source, url in RSS_FEEDS.items():
@@ -51,15 +79,23 @@ def collect_rss() -> list[dict]:
                 published = entry.get("published", entry.get("updated", ""))
                 if not is_recent(published):
                     continue
+                image = get_image_from_entry(entry)
                 articles.append({
                     "title": entry.get("title", ""),
                     "url": entry.get("link", ""),
                     "summary": re.sub(r"<[^>]+>", "", entry.get("summary", ""))[:400],
                     "source": source,
                     "published": published,
+                    "image": image,
                 })
         except Exception as e:
             print(f"[WARN] Failed to fetch {source}: {e}")
+
+    print("  Fetching article images...")
+    for a in articles:
+        if not a["image"]:
+            a["image"] = fetch_og_image(a["url"])
+
     return articles
 
 

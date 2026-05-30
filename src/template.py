@@ -19,10 +19,15 @@ def build_html(by_source: dict, date_str: str) -> str:
 
     def article_card(item, accent):
         url = item.get("url", "#")
+        image = item.get("image", "")
+        img_html = ""
+        if image:
+            img_html = f"""
+              <a href="{url}"><img src="{image}" alt="" width="100%" style="border-radius:8px;display:block;margin:0 0 12px 0;" /></a>"""
         return f"""
         <tr><td style="padding:0 0 12px 0;">
           <table width="100%" cellpadding="0" cellspacing="0" style="background:#ffffff;border-radius:12px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,0.08);">
-            <tr><td style="border-left:4px solid {accent};padding:16px 20px;">
+            <tr><td style="border-left:4px solid {accent};padding:16px 20px;">{img_html}
               <a href="{url}" style="color:#1a1a2e;font-size:15px;font-weight:700;text-decoration:none;line-height:1.4;">{item.get('title','')}</a>
               <p style="color:#555;font-size:13px;line-height:1.6;margin:8px 0 0 0;">{item.get('summary','')}</p>
               <p style="margin:10px 0 0 0;">
