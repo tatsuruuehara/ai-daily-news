@@ -6,7 +6,7 @@ import email.utils
 import feedparser
 import openai
 import resend
-from googlesearch import search as gsearch
+import requests
 from datetime import datetime, timezone, timedelta
 
 JST = timezone(timedelta(hours=9))
@@ -129,27 +129,40 @@ X_QUERIES = [
 ]
 
 
+def brave_search(query: str, count: int = 5) -> list[dict]:
+    api_key = os.environ.get("BRAVE_API_KEY", "")
+    if not api_key:
+        return []
+    resp = requests.get(
+        "https://api.search.brave.com/res/v1/web/search",
+        headers={"X-Subscription-Token": api_key, "Accept": "application/json"},
+        params={"q": query, "count": count, "freshness": "pd"},
+        timeout=10,
+    )
+    resp.raise_for_status()
+    return resp.json().get("web", {}).get("results", [])
+
+
 def collect_x_posts() -> list[dict]:
     articles = []
     seen_urls = set()
     for query in X_QUERIES:
         try:
-            results = gsearch(query, num_results=5, lang="ja", advanced=True)
+            results = brave_search(query, count=5)
             for r in results:
-                url = r.url
+                url = r.get("url", "")
                 if url in seen_urls:
                     continue
                 seen_urls.add(url)
                 articles.append({
-                    "title": r.title or "",
+                    "title": r.get("title", ""),
                     "url": url,
-                    "summary": r.description or "",
+                    "summary": r.get("description", "")[:400],
                     "source": "X (Twitter)",
                     "published": "",
                 })
         except Exception as e:
             print(f"[WARN] X search failed for '{query}': {e}")
-        time.sleep(2)
     return articles
 
 
