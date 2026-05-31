@@ -241,5 +241,86 @@
         "source": "AIsmiley"
       }
     ]
+  },
+  {
+    "date": "2026/06/01",
+    "email_id": "5ebe29e5-857b-41f1-8557-1d37d529efc2",
+    "articles": [
+      {
+        "title": "「ハーネス」って結局、何？　みんな使い方が違うAIエージェント用語をHugging Faceが整理",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/01/news016.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "日立はAnthropicと組んで何を狙うのか　従業員29万人へのClaude導入で目指す姿",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2605/30/news010.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "OpenAIが生命科学推論AI「GPT-Rosalind」をバイオディフェンスに開放　デュアルユースリスクに懸念も",
+        "url": "https://www.itmedia.co.jp/news/articles/2605/30/news031.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「Nano Banana 2」「Nano Banana Pro」が一般提供開始　「2」は動画からの画像生成もサポート",
+        "url": "https://www.itmedia.co.jp/news/articles/2605/29/news146.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "OpenAI、日本政府とサイバーセキュリティで協力　最新AI「GPT-5.5-Cyber」を金融機関に提供",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000037/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "クラウド依存、コストの課題を解消？　MicrosoftのローカルAI基盤「Foundry Local」",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news075.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "【2026年最新】コンテキストウィンドウとは？主要LLM比較と「記憶の罠」を防ぐ使いこなし術",
+        "url": "https://aismiley.co.jp/ai_news/contextwindow-llm-ai-2026/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "HappyHorse 1.0とは？アリババの最新AI動画モデルの使い方を解説",
+        "url": "https://aismiley.co.jp/ai_news/happyhorse-about/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "社会のレジリエンスを強化するRosalind Biodefense",
+        "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "EndavaがCodexでエージェント組織を構築する方法",
+        "url": "https://openai.com/index/endava",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "MUFG、OpenAIと提携しAIネイティブ化を目指す",
+        "url": "https://openai.com/index/mufg",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "「ふざけるな」：Github Copilotの新しいトークンベースの課金が開発者の間で騒動を引き起こす",
+        "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Googleの24時間AIアシスタントGemini Sparkを使ってみたが、実はかなり便利だ",
+        "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "AWSでLangSmithを使ったディープエージェントの評価",
+        "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-deep-agents-using-langsmith-on-aws/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Claude Opus 4.8がAWSで利用可能に",
+        "url": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-8-is-now-available-on-aws/",
+        "source": "AWS AI Blog"
+      }
+    ]
   }
 ]
