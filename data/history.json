@@ -403,5 +403,86 @@
         "source": "AIsmiley"
       }
     ]
+  },
+  {
+    "date": "2026/06/03",
+    "email_id": "9d5a775c-5858-4a51-8558-719ccd86861b",
+    "articles": [
+      {
+        "title": "Microsoft、AndroidベースのAIエージェント基盤「Solara」発表　Snapdragon搭載のバッジ型端末も披露",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/03/news066.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Microsoft、NVIDIAのSoC搭載でAI特化のミニPC「Surface RTX Spark Dev Box」披露",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/03/news063.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Microsoft、初の自社推論モデル「MAI-Thinking-1」発表　蒸留なしでゼロから学習",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/03/2000000050/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Microsoft、自律エージェント「Scout」発表　OpenClawベースでMCP対応",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/03/2000000049/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+        "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "富士通、OpenAIと連携開始。ChatGPT EnterpriseとCodex活用で企業のAI変革を加速",
+        "url": "https://aismiley.co.jp/ai_news/fujitsu-openai-ai-transformation/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "OpenAIが「ChatGPT for PowerPoint」ベータ版を公開。PowerPoint上でChatGPTが利用可能",
+        "url": "https://aismiley.co.jp/ai_news/openai-chatgpt-for-powerpoint/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "OpenAI launches new Codex tools for white-collar work",
+        "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "OpenAI models and Codex on Amazon Bedrock are now generally available",
+        "url": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "【2026年最新】Seedance 2.0とは？Sora代替モデルの使い方・無料枠・比較を徹底解説",
+        "url": "https://aismiley.co.jp/ai_news/seedance-20-bytedance-2026/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+        "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Microsoft offers devs a better way to control AI agent behavior",
+        "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Building a secure auth code flow setup using AgentCore Gateway with MCP clients",
+        "url": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "シャドーAIに「ログイン情報」を渡している割合は？　Oktaの実態調査で判明",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2606/03/news043.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "【DX担当者必見】生成AIの重大リスクと対策｜企業が導入すべき4つの柱とは？",
+        "url": "https://aismiley.co.jp/ai_news/generative-ai-riskc-2026/",
+        "source": "AIsmiley"
+      }
+    ]
   }
 ]
