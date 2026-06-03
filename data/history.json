@@ -484,5 +484,86 @@
         "source": "AIsmiley"
       }
     ]
+  },
+  {
+    "date": "2026/06/04",
+    "email_id": "cb0c850b-146b-4dd1-9027-dd28f07b9c76",
+    "articles": [
+      {
+        "title": "ServiceNowとAccenture、エージェント型AIを全社展開する「FDE」を開始",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news024.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "2年間で「1万時間」削減　「1円の誤りも許されない」ソニー経理が“まず試してみる”DX集団に化けたワケ",
+        "url": "https://www.itmedia.co.jp/business/articles/2606/04/news023.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「AI使うな」より「使うなら教えて」　エージェント時代のガバナンス再設計",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000038/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Microsoft、自社開発した7つのAIモデル発表　画像編集や音声認識も",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/03/news077.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Microsoft、AIエージェント用のカスタマイズ可能な分離環境「Microsoft Execution Containers」発表　OpenClawも動作",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/03/news074.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "富士通、Anthropicと戦略的提携を発表。AI変革の加速と重要インフラのサイバー防御を強化",
+        "url": "https://aismiley.co.jp/ai_news/fujitsu-anthropic-ai-transformation/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Claude Code for VS Codeの導入・設定・使い方を徹底解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-code-for-vs-code/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "プロンプトインジェクションとは？仕組み・種類・最新の攻撃事例と対策を解説",
+        "url": "https://aismiley.co.jp/ai_news/prompt-injection-owasp-llm/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "富士通、OpenAIと連携開始。ChatGPT EnterpriseとCodex活用で企業のAI変革を加速",
+        "url": "https://aismiley.co.jp/ai_news/fujitsu-openai-ai-transformation/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "GPT-Rosalindに新機能を追加",
+        "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "WasmerがCodexを使用してエッジ向けNode.jsランタイムを構築した方法",
+        "url": "https://openai.com/index/wasmer",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Codexがあらゆる人の生産性ツールになる",
+        "url": "https://openai.com/index/codex-for-knowledge-work",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "MetaのWhatsApp Business向けAIエージェントがグローバル展開",
+        "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Uber、AI予算を4ヶ月で使い切り従業員のAI利用を制限",
+        "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Amazon SageMaker AIでSFTとDPOを使用してエージェントのツール呼び出し精度を向上させる",
+        "url": "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/",
+        "source": "AWS AI Blog"
+      }
+    ]
   }
 ]
