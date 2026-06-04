@@ -565,5 +565,86 @@
         "source": "AWS AI Blog"
       }
     ]
+  },
+  {
+    "date": "2026/06/05",
+    "email_id": "5a535821-fe87-4155-bd76-cafae8c77bdf",
+    "articles": [
+      {
+        "title": "オートデスク、主要製品向けにAIアシスタント機能を展開 Fusion向けMCPも",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2606/04/news037.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "ServiceNowとAccenture、エージェント型AIを全社展開する「FDE」を開始",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news024.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "OpenAIとDell、企業向け「Codex」のハイブリッド・オンプレミス環境展開に向けて提携",
+        "url": "https://aismiley.co.jp/ai_news/openai-dell-codex-partnership/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Claude Codeのプランと料金を比較｜無料・有料の違いを徹底解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-code-plan/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Claude Codeインストール完全ガイド｜Windows・Mac対応の手順を解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-code-install/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Claude Code for VS Codeの導入・設定・使い方を徹底解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-code-for-vs-code/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "How Endava is redesigning software delivery around AI agents",
+        "url": "https://openai.com/index/endava-frontiers",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Dreaming: Better memory for a more helpful ChatGPT",
+        "url": "https://openai.com/index/chatgpt-memory-dreaming",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+        "url": "https://openai.com/index/wasmer",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Codex for every role, tool, and workflow",
+        "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart",
+        "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI",
+        "url": "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore",
+        "url": "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Google Chromeの新機能「Skills」 AIプロンプトの“毎回手打ち”を不要に",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/04/news042.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "タイヤFEM解析を45分から5分に 住友ゴムと富士通がAIサロゲートモデルを共同開発",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2606/05/news022.html",
+        "source": "ITmedia AI+"
+      }
+    ]
   }
 ]
