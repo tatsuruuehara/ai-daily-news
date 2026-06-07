@@ -727,5 +727,86 @@
         "source": "AWS AI Blog"
       }
     ]
+  },
+  {
+    "date": "2026/06/08",
+    "email_id": "5a17de71-af43-4498-957b-36081a3977be",
+    "articles": [
+      {
+        "title": "ChatGPTに「ロックダウンモード」 プロンプトインジェクションによる情報漏えい対策",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "AIコスト高騰で中国DeepSeekへの“乗り換え”続出か 米国決済サービスの支出調査で明らかに",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000060/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "【2026年最新】ClaudeCodeのコマンド一覧！見つからないときの解決策も",
+        "url": "https://aismiley.co.jp/ai_news/claude-command-2026-new/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Claude Code Skillsとは？使い方・作り方・活用例を徹底解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-code-skills-function/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "OpenAIとDell、企業向け「Codex」のハイブリッド・オンプレミス環境展開に向けて提携",
+        "url": "https://aismiley.co.jp/ai_news/openai-dell-codex-partnership/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Claude Codeインストール完全ガイド｜Windows・Mac対応の手順を解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-code-install/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "EndavaがAIエージェントを活用してソフトウェア開発を再設計する方法",
+        "url": "https://openai.com/index/endava-frontiers",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "記憶: より役立つChatGPTのためのより良い記憶システム",
+        "url": "https://openai.com/index/chatgpt-memory-dreaming",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "NVIDIA Nemotron 3 UltraがAmazon SageMaker JumpStartで利用可能に",
+        "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "NEC、富士通に先手!?　日立が「Claude Mythos」アクセス権を取得した背景",
+        "url": "https://www.itmedia.co.jp/business/articles/2606/08/news058.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "検図から積算まで支援する図面解析AI、工数を最大60％削減",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2606/05/news020.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "タイヤFEM解析を45分から5分に　住友ゴムと富士通がAIサロゲートモデルを共同開発",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2606/05/news022.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "トラスコ中山と富士通が人事異動案の提案アプリを構築。AIと数理最適化モデル活用で工数を約98％削減",
+        "url": "https://aismiley.co.jp/ai_news/trusco-fujitsu-ai-hr/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "USEN、飲食店向け生成AIサービス「USEN AI店長（ベータ版）」の提供開始。 売上分析から店舗運営まで支援",
+        "url": "https://aismiley.co.jp/ai_news/usen-ai-manager-restaurant/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "リコーとLIFULLが連携。360度空間データとAIを活用して賃貸物件の動画コンテンツを自動生成",
+        "url": "https://aismiley.co.jp/ai_news/lifull-ricoh-360-ai/",
+        "source": "AIsmiley"
+      }
+    ]
   }
 ]
