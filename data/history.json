@@ -808,5 +808,86 @@
         "source": "AIsmiley"
       }
     ]
+  },
+  {
+    "date": "2026/06/12",
+    "email_id": "bd9f0f44-4aa8-4430-b354-3651dd9ffc1b",
+    "articles": [
+      {
+        "title": "OpenAI、Onaを買収へ",
+        "url": "https://openai.com/index/openai-to-acquire-ona",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Google、拡散型テキスト生成モデル「DiffusionGemma」公開 ローカルGPUで毎秒1000トークン超",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000079/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Anthropic、一般向けMythos級AIモデル「Claude Fable 5」、サイバー防衛向け「Claude Mythos 5」発表",
+        "url": "https://aismiley.co.jp/ai_news/anthropic-claude-fable-mythos-5/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Agent-EvalKitでAIエージェントを体系的に評価",
+        "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "フロンティアチームがAIネイティブ開発を再構築する方法",
+        "url": "https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "手動によるカーネルチューニングを止める：Neuron Agentic DevelopmentがAWS Trainiumの最適化を加速",
+        "url": "https://aws.amazon.com/blogs/machine-learning/stop-hand-tuning-kernels-how-neuron-agentic-development-accelerates-aws-trainium-optimizations/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "AnthropicのアモデイCEO、フロンティアAIに「航空機並みの安全審査」求めるエッセイと政策提言を公開",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000081/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "AnthropicとNEC、金融8社とAI活用で連携 三井住友FG、大和証券など",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000082/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Claudeに学習させない設定方法と安全な使い方を徹底解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-no-learn/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Claude Codeの改行方法を解説｜環境別の設定とトラブル対処法",
+        "url": "https://aismiley.co.jp/ai_news/claude-code-trouble-shooting/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Claude CodeとClaudeの違いを解説｜用途・機能・料金を徹底比較",
+        "url": "https://aismiley.co.jp/ai_news/claude-code-difference/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Anthropic、サイバーセキュリティプロジェクトの初期結果を公開。「Claude Mythos Preview」で1万件以上の重大な脆弱性を発見",
+        "url": "https://aismiley.co.jp/ai_news/anthropic-claude-mythos-preview/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "DoorDashの新しいAIチャットボットでプロンプトと写真で注文可能に",
+        "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "「AI漬け」企業は従業員1人あたり毎月7,500ドルをAIに費やす",
+        "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "ハイブリッドな人間とAIのエンタープライズでリーダーシップを発揮するための学習",
+        "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+        "source": "MIT Technology Review"
+      }
+    ]
   }
 ]
