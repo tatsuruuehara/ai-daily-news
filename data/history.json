@@ -889,5 +889,86 @@
         "source": "MIT Technology Review"
       }
     ]
+  },
+  {
+    "date": "2026/06/13",
+    "email_id": "4da57350-afee-41ee-906e-1024a64e6215",
+    "articles": [
+      {
+        "title": "Apple、「Siri AI」を発表。会話能力向上に加え、画面認識やアプリ横断操作などに対応",
+        "url": "https://aismiley.co.jp/ai_news/apple-siri_ai-apple_intelligence/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Claude Fable 5とは？性能・料金・使い方やMythos 5との違いを解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-fable-5/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "AIツール「Claude Fable 5」の一般公開版、強力すぎると話題に",
+        "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology"
+      },
+      {
+        "title": "Claude Code入門ガイド｜インストールから基本操作・活用方法まで解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-code-introduction/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "AnthropicとNEC、金融8社とAI活用で連携　三井住友FG、大和証券など",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000082/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "OpenAIがOnaを買収し、Codexの機能を強化",
+        "url": "https://openai.com/index/openai-to-acquire-ona",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "OpenAI Academy、次世代の仕事に向けた新コースを発表",
+        "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Amazon QuickとCisco Webex MCPサーバーで会議準備・フォローアップアシスタントを構築",
+        "url": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Agent-EvalKitでAIエージェントを体系的に評価",
+        "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "カーネルの手動調整を停止：Neuron Agentic DevelopmentがAWS Trainiumの最適化を加速",
+        "url": "https://aws.amazon.com/blogs/machine-learning/stop-hand-tuning-kernels-how-neuron-agentic-development-accelerates-aws-trainium-optimizations/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "LINEヤフー、「Agent i」開発加速に向けたタスクフォースを拡大。第2弾は報奨金の総額5,000万円規模",
+        "url": "https://aismiley.co.jp/ai_news/lineyahoo-agenti-taskforce-2phase/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "AnthropicのアモデイCEO、フロンティアAIに「航空機並みの安全審査」求めるエッセイと政策提言を公開",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000081/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "日立とGoogle Cloud、FDEによるフィジカルAIとセキュリティで協業拡大",
+        "url": "https://aismiley.co.jp/ai_news/hitachi-google_cloud-fde-physical_ai/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "「日本がいないと成り立たない」世界へ、フィジカルAIが導く独自の交渉力",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2606/12/news049.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "データセンター建設に足りないのは「発電」ではなく「送電」　AI需要で電力消費26％増、Gartner予想",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000083/",
+        "source": "ITmedia AI+"
+      }
+    ]
   }
 ]
