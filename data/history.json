@@ -970,5 +970,86 @@
         "source": "ITmedia AI+"
       }
     ]
+  },
+  {
+    "date": "2026/06/14",
+    "email_id": "6389c693-2332-42b8-986d-b9ea09fb7b02",
+    "articles": [
+      {
+        "title": "「Claude Fable 5」「Mythos 5」全面停止 米政府の指令により Anthropicは早期復旧を宣言",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/13/news026.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "AnthropicとNEC、金融8社とAI活用で連携 三井住友FG、大和証券など",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000082/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Apple、「Siri AI」を発表。会話能力向上に加え、画面認識やアプリ横断操作などに対応",
+        "url": "https://aismiley.co.jp/ai_news/apple-siri_ai-apple_intelligence/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Claude Code入門ガイド｜インストールから基本操作・活用方法まで解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-code-introduction/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "LINEヤフー、「Agent i」開発加速に向けたタスクフォースを拡大。第2弾は報奨金の総額5,000万円規模",
+        "url": "https://aismiley.co.jp/ai_news/lineyahoo-agenti-taskforce-2phase/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "次世代の仕事のための新しいOpenAI Academyコース",
+        "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "BBVAがOpenAIと連携し、AIを銀行業務の中核に据える",
+        "url": "https://openai.com/index/bbva",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "OpenAIがOnaを買収へ",
+        "url": "https://openai.com/index/openai-to-acquire-ona",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Superchargerを構築する：Rocket Closeがエージェント型AIでタイトル業務を最適化した方法",
+        "url": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Amazon QuickとCisco Webex MCPサーバーで会議準備とフォローアップアシスタントを構築",
+        "url": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Agent-EvalKitでAIエージェントを系統的に評価する",
+        "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "フロンティアチームがAIネイティブ開発を再構築する方法",
+        "url": "https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "手作業でのカーネルチューニングをやめる：Neuron Agentic DevelopmentがAWS Trainiumの最適化を加速させる方法",
+        "url": "https://aws.amazon.com/blogs/machine-learning/stop-hand-tuning-kernels-how-neuron-agentic-development-accelerates-aws-trainium-optimizations/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "生成AIガバナンスとは？構築手順5ステップと企業の体制づくりを解説",
+        "url": "https://ainow.ai/2026/06/13/278169/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%25ac%25e3%2583%2590%25e3%2583%258a%25e3%2583%25b3%25e3%2582%25b9%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e6%25a7%258b%25e7%25af%2589%25e6%2589%258b%25e9%25a0%25865%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25e3%2581%25a8%25e4%25bc%2581%25e6%25a5%25ad",
+        "source": "AINOW"
+      },
+      {
+        "title": "「日本がいないと成り立たない」世界へ、フィジカルAIが導く独自の交渉力",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2606/12/news049.html",
+        "source": "ITmedia AI+"
+      }
+    ]
   }
 ]
