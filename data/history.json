@@ -1051,5 +1051,86 @@
         "source": "ITmedia AI+"
       }
     ]
+  },
+  {
+    "date": "2026/06/15",
+    "email_id": "68ed16fa-db9c-4aba-b0ca-06ed0162c85b",
+    "articles": [
+      {
+        "title": "「Claude Fable 5」「Mythos 5」全面停止 米政府の指令により Anthropicは早期復旧を宣言",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/13/news026.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Claude Fable 5とは？性能・料金・使い方やMythos 5との違いを解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-fable-5/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Apple、「Siri AI」を発表。会話能力向上に加え、画面認識やアプリ横断操作などに対応",
+        "url": "https://aismiley.co.jp/ai_news/apple-siri_ai-apple_intelligence/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Claude Code入門ガイド｜インストールから基本操作・活用方法まで解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-code-introduction/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Agent-EvalKitでAIエージェントを体系的に評価",
+        "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Superchargerの構築方法：Rocket CloseがエージェントAIでタイトル操作を最適化",
+        "url": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Amazon QuickとCisco Webex MCPサーバーで会議準備・フォローアップアシスタントを構築",
+        "url": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "OpenAIがOnaを買収へ",
+        "url": "https://openai.com/index/openai-to-acquire-ona",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "次世代の仕事に向けたOpenAI Academyの新しいコース",
+        "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Google DeepMind、数百万のAIエージェントが相互作用する際の危険性を懸念",
+        "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "生成AIガバナンスとは？構築手順5ステップと企業の体制づくりを解説",
+        "url": "https://ainow.ai/2026/06/13/278169/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%25ac%25e3%2583%2590%25e3%2583%258a%25e3%2583%25b3%25e3%2582%25b9%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e6%25a7%258b%25e7%25af%2589%25e6%2589%258b%25e9%25a0%25865%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25e3%2581%25a8%25e4%25bc%2581%25e6%25a5%25ad",
+        "source": "AINOW"
+      },
+      {
+        "title": "生成AIガイドラインを企業が策定する手順！必須項目も解説",
+        "url": "https://ainow.ai/2026/06/12/278163/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%25ac%25e3%2582%25a4%25e3%2583%2589%25e3%2583%25a9%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%2592%25e4%25bc%2581%25e6%25a5%25ad%25e3%2581%258c%25e7%25ad%2596%25e5%25ae%259a%25e3%2581%2599%25e3%2582%258b%25e6%2589%258b%25e9%25a0%2586%25ef%25bc%2581%25e5%25bf%2585%25e9%25a0%2588%25e9%25a0%2585",
+        "source": "AINOW"
+      },
+      {
+        "title": "AnthropicとNEC、金融8社とAI活用で連携 三井住友FG、大和証券など",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000082/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "LINEヤフー、「Agent i」開発加速に向けたタスクフォースを拡大。第2弾は報奨金の総額5,000万円規模",
+        "url": "https://aismiley.co.jp/ai_news/lineyahoo-agenti-taskforce-2phase/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "“AIが電力使いすぎ問題” 「電力不足」懸念で、発電能力より深いボトルネックとは",
+        "url": "https://www.itmedia.co.jp/business/articles/2606/12/news029.html",
+        "source": "ITmedia AI+"
+      }
+    ]
   }
 ]
