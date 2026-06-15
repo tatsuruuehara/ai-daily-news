@@ -1132,5 +1132,86 @@
         "source": "ITmedia AI+"
       }
     ]
+  },
+  {
+    "date": "2026/06/16",
+    "email_id": "f64e639f-3c85-4b5c-b399-40deddd49e30",
+    "articles": [
+      {
+        "title": "Sakana AI、初の商用プロダクト「Marlin」リリース　その実力は？【出力レポート全文掲載】",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/15/news015.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Sakana?AI、初の商用サービスはリサーチ特化　「Deep Research」との違いは？　後発で“ベンチマークも追わない”ワケ",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/15/2000000085/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "OpenAI Partner Networkを発表",
+        "url": "https://openai.com/index/introducing-openai-partner-network",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "次世代の仕事のための新しいOpenAI Academyコース",
+        "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Superchargerを構築する方法: Rocket CloseがエージェントAIでタイトル操作を最適化",
+        "url": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Amazon QuickとCisco Webex MCPサーバーで会議準備・フォローアップアシスタントを構築",
+        "url": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "月2000時間のムダをなくす大阪ガスらのNotion×AI活用　「使われない情報」の生かし方",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2606/16/news022.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Javaアプリ更新を1カ月→3日に爆速化　“ソースコード生成AI止まり”じゃない「IBM Bob」の仕組み",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/15/news042.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Claudeの出力を劇的に高めるプロンプトの作成方法！コピペで使える実践集も",
+        "url": "https://aismiley.co.jp/ai_news/claude-prompt/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "生成AI×3D CADでどこまでできるか試してみた",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2606/16/news023.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "リコー、生成AIの推論性能を評価する独自ベンチマークツール「JDocQA Reasoning Benchmark」を無償公開",
+        "url": "https://aismiley.co.jp/ai_news/jdocqa-reasoning-benchmark/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Amazon BedrockでGemma 4モデルを発表",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "SarvamがHCLTech主導の2億3400万ドルの資金調達ラウンドでインド最新のAIユニコーンに",
+        "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "川崎重工、米国シリコンバレーに新拠点開設。フィジカルAI推進へ日米連携加速",
+        "url": "https://aismiley.co.jp/ai_news/kawasaki-physical-ai-center-newbase/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "日立とGoogle Cloud、FDEによるフィジカルAIとセキュリティで協業拡大",
+        "url": "https://aismiley.co.jp/ai_news/hitachi-google_cloud-fde-physical_ai/",
+        "source": "AIsmiley"
+      }
+    ]
   }
 ]
