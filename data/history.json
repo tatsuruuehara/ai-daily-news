@@ -1456,5 +1456,86 @@
         "source": "BBC Technology"
       }
     ]
+  },
+  {
+    "date": "2026/06/20",
+    "email_id": "3407c9c0-802c-4f6a-bc34-5b9a1235e9f9",
+    "articles": [
+      {
+        "title": "画面操作を“録画”→AIが作業代行　Codexに新機能「Record & Replay」",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "工数「76％」削減　味の素グループが「経理AIエージェント」導入で先陣を切れたワケ",
+        "url": "https://www.itmedia.co.jp/business/articles/2606/19/news033.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "クラダシ「Claude」を全社展開。特有業務の自動化の推進およびAI活用ポリシーを策定",
+        "url": "https://aismiley.co.jp/ai_news/kuradashi-claude-ai-policy/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Claude CodeとOpenClawの違いとは？使い分け・連携方法・セキュリティ面の注意点を解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-code-openclaw/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Sakana AI、初の商用プロダクトとなるビジネス向け自律型リサーチアシスタント「Sakana Marlin」提供開始",
+        "url": "https://aismiley.co.jp/ai_news/sakana-ai-sakana-marlin-release/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes",
+        "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
+        "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Get back hours every day with autonomous agents in Amazon Quick",
+        "url": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Introducing Web Search on Amazon Bedrock AgentCore",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "米大企業の7割が導入する「Databricks」とは何者か？　評価額20兆円の「AI向けデータ基盤」",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000106/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+        "url": "https://openai.com/index/ai-chemist-improves-reaction",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+        "source": "Google AI Blog"
+      },
+      {
+        "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+        "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+        "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+        "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+        "source": "TechCrunch AI"
+      }
+    ]
   }
 ]
