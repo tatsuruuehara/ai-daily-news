@@ -1537,5 +1537,86 @@
         "source": "TechCrunch AI"
       }
     ]
+  },
+  {
+    "date": "2026/06/21",
+    "email_id": "30ff8eb3-d80d-4d38-bc8e-4c0fc0ddc755",
+    "articles": [
+      {
+        "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "工数「76％」削減 味の素グループが「経理AIエージェント」導入で先陣を切れたワケ",
+        "url": "https://www.itmedia.co.jp/business/articles/2606/19/news033.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Sakana AI、初の商用プロダクトとなるビジネス向け自律型リサーチアシスタント「Sakana Marlin」提供開始",
+        "url": "https://aismiley.co.jp/ai_news/sakana-ai-sakana-marlin-release/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "クラダシ「Claude」を全社展開。特有業務の自動化の推進およびAI活用ポリシーを策定",
+        "url": "https://aismiley.co.jp/ai_news/kuradashi-claude-ai-policy/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes",
+        "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Get back hours every day with autonomous agents in Amazon Quick",
+        "url": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Introducing Web Search on Amazon Bedrock AgentCore",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
+        "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "「ChatGPT広告」日本上陸 無料版と「Go」で表示、電通・博報堂など支援",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "大阪メトロは「月1000件の社内問い合わせを効率化」にAIをどう使った？",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2606/19/news113.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Claude CodeとOpenClawの違いとは？使い分け・連携方法・セキュリティ面の注意点を解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-code-openclaw/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Improving health intelligence in ChatGPT",
+        "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+        "source": "Google AI Blog"
+      },
+      {
+        "title": "米大企業の7割が導入する「Databricks」とは何者か？ 評価額20兆円の「AI向けデータ基盤」",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000106/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
+        "url": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology"
+      }
+    ]
   }
 ]
