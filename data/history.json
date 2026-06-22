@@ -1699,5 +1699,86 @@
         "source": "OpenAI Blog"
       }
     ]
+  },
+  {
+    "date": "2026/06/23",
+    "email_id": "07f38884-2b29-465c-930a-6a8a4b86c68b",
+    "articles": [
+      {
+        "title": "ループエンジニアリングとは？　チャットとAIコーディングの往復から卒業する新しい開発スタイル",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news017.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Claude Codeに指示を出す「7つの方法」と使い分け　公式が解説",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/22/2000000117/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
+        "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "クラダシ「Claude」を全社展開。特有業務の自動化の推進およびAI活用ポリシーを策定",
+        "url": "https://aismiley.co.jp/ai_news/kuradashi-claude-ai-policy/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Excelの10万行データを3分でAIに処理させる、M365 Copilotの使い方",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2606/23/news043.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "ダイハツがAI品質検査システムを共同開発、アルミ加工穴内部の目視検査を自動化",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2606/23/news046.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "ダイハツ、自動車部品のキズ検査をAIで自動化　“人の目と感性”を代替",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/22/2000000115/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "デンソーテン、独自の埋め込みモデル学習技術により車載エッジでRAGを省メモリ化",
+        "url": "https://aismiley.co.jp/ai_news/densoten-rag-onboard-hmi-ai/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "踏切に取り残された人をAIで検知→列車を自動停止　小田急が実運用",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news125.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "生成AIを研究開発に活用する方法とメリット！事例と進め方も紹介",
+        "url": "https://ainow.ai/2026/06/23/278198/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%2592%25e7%25a0%2594%25e7%25a9%25b6%25e9%2596%258b%25e7%2599%25ba%25e3%2581%25ab%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25a8%25e3%2583%25a1%25e3%2583%25aa%25e3%2583%2583%25e3%2583%2588%25ef%25bc%2581%25e4%25ba%258b%25e4%25be%258b",
+        "source": "AINOW"
+      },
+      {
+        "title": "生成AIを活用した商品開発とは？事例12選とメリットや進め方を解説",
+        "url": "https://ainow.ai/2026/06/20/278188/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%2592%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%2597%25e3%2581%259f%25e5%2595%2586%25e5%2593%2581%25e9%2596%258b%25e7%2599%25ba%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25ba%258b%25e4%25be%258b12%25e9%2581%25b8%25e3%2581%25a8%25e3%2583%25a1%25e3%2583%25aa%25e3%2583%2583",
+        "source": "AINOW"
+      },
+      {
+        "title": "生成AIを経営企画に活用する方法とメリット！事例とプロンプトも紹介",
+        "url": "https://ainow.ai/2026/06/20/278185/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%2592%25e7%25b5%258c%25e5%2596%25b6%25e4%25bc%2581%25e7%2594%25bb%25e3%2581%25ab%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25a8%25e3%2583%25a1%25e3%2583%25aa%25e3%2583%2583%25e3%2583%2588%25ef%25bc%2581%25e4%25ba%258b%25e4%25be%258b",
+        "source": "AINOW"
+      },
+      {
+        "title": "AIに詳しくなくても大丈夫、月額制で中小企業のAI活用をプロが支える新サービス",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2606/23/news042.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments",
+        "url": "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Introducing Web Search on Amazon Bedrock AgentCore",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
+        "source": "AWS AI Blog"
+      }
+    ]
   }
 ]
