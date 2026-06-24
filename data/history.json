@@ -1780,5 +1780,86 @@
         "source": "AWS AI Blog"
       }
     ]
+  },
+  {
+    "date": "2026/06/25",
+    "email_id": "d2e1cc15-b46d-4428-b5e9-578c4bd9d8c5",
+    "articles": [
+      {
+        "title": "OpenAI、初の独自AIチップ「Jalapeno」発表──Broadcomと共同開発の推論用アクセラレータ",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/25/2000000126/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「Transformerの最大475倍」　富士通、GPUを効率的に使うLLMアーキテクチャ「PHOTON」開発",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000125/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "ClaudeをSlackチャンネルに召喚、“チームの一員”として直接指示　新機能「Claude Tag」登場",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/24/news115.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Claude Opus 4.8とは？4.7からの進化点・新機能・料金を徹底解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-opus-4-8/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Siri AIとは？対応機種や提供時期・できることを完全解説【WWDC26】",
+        "url": "https://aismiley.co.jp/ai_news/siri-ai-wwdc26-apple/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+        "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Build a healthcare appointment agent with Amazon Nova 2 Sonic",
+        "url": "https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Build a protein research copilot with Amazon Bedrock AgentCore",
+        "url": "https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments",
+        "url": "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "清水建設、鉄筋の加工・組立作業に「フィジカルAI」導入。スイスMESH AG社に出資し自動化を推進",
+        "url": "https://aismiley.co.jp/ai_news/shimizu-corp-physical-ai-mesh-ag/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "豊島区、区役所本庁舎でAIアバターによる窓口無人対応の実証実験を開始。来庁者問い合わせに自動で応答",
+        "url": "https://aismiley.co.jp/ai_news/toshima-city-ai-avatar-field-test/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "味の素、“万能DX人材”増員へ　育成のきっかけは新規プロジェクトの苦い経験",
+        "url": "https://www.itmedia.co.jp/business/articles/2606/25/news021.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「AI教育、どこから手を付ける？」　全社導入のカギは“生成AIリテラシー向上研修”（前編）",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news008.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「AI教育、どこから手を付ける？」　全社導入のカギは“生成AIリテラシー向上研修”（後編）",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news009.html",
+        "source": "ITmedia AI+"
+      }
+    ]
   }
 ]
