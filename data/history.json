@@ -2023,5 +2023,86 @@
         "source": "AINOW"
       }
     ]
+  },
+  {
+    "date": "2026/06/28",
+    "email_id": "b5870b9c-42b6-4647-89c3-b24d270ba8af",
+    "articles": [
+      {
+        "title": "OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー 米政府と調整、命名は「Sol／Terra／Luna」に刷新",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000134/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "GPT-5.6 Solのプレビュー：次世代モデル",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "「OpenAIはAzureだけ」の時代が終了 「GPT-5.5」「Codex」をAWSで利用するメリットは何か",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/26/news045.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "AIエージェントが仕事を変革する方法",
+        "url": "https://openai.com/index/how-agents-are-transforming-work",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Amazon Bedrockを活用したAIエージェントで、実用的なヘルスインサイトを見つけるためのセルフサービスAWS Health分析を構築",
+        "url": "https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "VLA（Vision-Language-Action）モデルとは？仕組み・VLMとの違い・主要モデルを解説",
+        "url": "https://aismiley.co.jp/ai_news/vla-vision-language-action/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "OpenAIとBroadcomがLLM最適化推論チップを発表",
+        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "OpenAIからSpaceXまで、なぜ誰もが自社製チップを開発しているのか（そしてNvidiaに圧力をかけているのか）",
+        "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "AIモデル「ミュトス」、米国の一部組織に再提供へ 米政府が許可",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000135/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "トランプ政権、Anthropic Mythosを100以上の米国企業・機関で使用許可",
+        "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "生成AIベンダーの選定で失敗しない7つの評価ポイント！選び方の手順も",
+        "url": "https://ainow.ai/2026/06/24/278201/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2583%2599%25e3%2583%25b3%25e3%2583%2580%25e3%2583%25bc%25e3%2581%25ae%25e9%2581%25b8%25e5%25ae%259a%25e3%2581%25a7%25e5%25a4%25b1%25e6%2595%2597%25e3%2581%2597%25e3%2581%25aa%25e3%2581%25847%25e3%2581%25a4%25e3%2581%25ae%25e8%25a9%2595%25e4%25be%25a1%25e3%2583%259d%25e3%2582%25a4",
+        "source": "AINOW"
+      },
+      {
+        "title": "「AIを使うと他社と似てしまう」課題をどう乗り越える？ 「プロダクトの差別化」の要点",
+        "url": "https://www.itmedia.co.jp/business/articles/2606/26/news076.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "レガシーエンタープライズサービスを変革するためのエージェントオーバーレイ：再構築ではなく改修",
+        "url": "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "NECとJR東日本、「みどりの窓口AI対応サービス」の実現に向け実証実験を実施",
+        "url": "https://aismiley.co.jp/ai_news/nec-jr-midori-ai/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "LINEヤフー、Agent iの機能拡大。画像生成機能やパーソナライズ機能を追加",
+        "url": "https://aismiley.co.jp/ai_news/line-yahoo-agent-i-expansion/",
+        "source": "AIsmiley"
+      }
+    ]
   }
 ]
