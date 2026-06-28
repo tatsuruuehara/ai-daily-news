@@ -2104,5 +2104,86 @@
         "source": "AIsmiley"
       }
     ]
+  },
+  {
+    "date": "2026/06/29",
+    "email_id": "e6f94139-5aea-45c4-bcd4-0644ab0b8b3e",
+    "articles": [
+      {
+        "title": "OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー　米政府と調整、命名は「Sol／Terra／Luna」に刷新",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000134/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "GPT-5.6 Solのプレビュー：次世代モデル",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "「OpenAIはAzureだけ」の時代が終了　「GPT-5.5」「Codex」をAWSで利用するメリットは何か",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/26/news045.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "トランプ政権がAnthropic Mythosを100以上の米国企業や機関に提供",
+        "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "AIモデル「ミュトス」、米国の一部組織に再提供へ　米政府が許可",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000135/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "エージェントがいかに仕事を変革しているか",
+        "url": "https://openai.com/index/how-agents-are-transforming-work",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Amazon Bedrockを活用したAIエージェントで、実用的なヘルスインサイトを見つけるためのセルフサービスAWS Health分析を構築",
+        "url": "https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "再構築ではなくレトロフィット：レガシーなエンタープライズサービスを変革するためのエージェントオーバーレイ",
+        "url": "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "LINEヤフー、Agent iの機能拡大。画像生成機能やパーソナライズ機能を追加",
+        "url": "https://aismiley.co.jp/ai_news/line-yahoo-agent-i-expansion/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "VLA（Vision-Language-Action）モデルとは？仕組み・VLMとの違い・主要モデルを解説",
+        "url": "https://aismiley.co.jp/ai_news/vla-vision-language-action/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "「AIを使うと他社と似てしまう」課題をどう乗り越える？　「プロダクトの差別化」の要点",
+        "url": "https://www.itmedia.co.jp/business/articles/2606/26/news076.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "NECとJR東日本、「みどりの窓口AI対応サービス」の実現に向け実証実験を実施",
+        "url": "https://aismiley.co.jp/ai_news/nec-jr-midori-ai/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "カゴメなど5者、AI選果機の共同開発と実証の成果を発表。トマトの廃棄ロスを30％低減",
+        "url": "https://aismiley.co.jp/ai_news/kagome-ai-tomato-consortium/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "TBSラジオ、AIで音声CMを生成する「デモCMジェネレーター」を公開。音声広告企画を支援",
+        "url": "https://aismiley.co.jp/ai_news/tbsradio-ai-demo-cm-generator/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "ひろゆき氏「SIer衰退予測」、AI代替の「逆転現象」の理由　2026年に生き残るエンジニア“4つの役割”",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/28/news006.html",
+        "source": "ITmedia AI+"
+      }
+    ]
   }
 ]
