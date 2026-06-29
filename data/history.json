@@ -2185,5 +2185,86 @@
         "source": "ITmedia AI+"
       }
     ]
+  },
+  {
+    "date": "2026/06/30",
+    "email_id": "6f13ba79-17e7-4af5-b969-681e29c0fc68",
+    "articles": [
+      {
+        "title": "GPT-5.6 Sol: 次世代モデルをプレビュー",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "OpenAI、グローバルパートナープログラム「OpenAI Partner Network」発表。2026年末までに認定コンサルタントを30万人育成",
+        "url": "https://aismiley.co.jp/ai_news/openai-partner-network-consultant/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "自社の業務に合わせたAIエージェントを「10分で作成」 freeeが「AI戦略」を強化",
+        "url": "https://www.itmedia.co.jp/business/articles/2606/30/news064.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Claude Code Web版の完全ガイド：ブラウザだけで始めるAI自動コーディング",
+        "url": "https://aismiley.co.jp/ai_news/claude-code-web-anthropic/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Cursor、コーディングエージェントを外出先でガイドするモバイルアプリをリリース",
+        "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "「前任者が不在」でも大丈夫 PCログからAIがマニュアルを自動作成する時代へ",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2606/30/news050.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "社長もAIが代わる時代に 社員の相談にいつでも答えるエージェント「AI社長」が登場",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2606/30/news046.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "AIエージェント導入を成功させる完全ガイド！手順・費用・活用事例を解説",
+        "url": "https://ainow.ai/2026/06/30/278217/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e5%25b0%258e%25e5%2585%25a5%25e3%2582%2592%25e6%2588%2590%25e5%258a%259f%25e3%2581%2595%25e3%2581%259b%25e3%2582%258b%25e5%25ae%258c%25e5%2585%25a8%25e3%2582%25ac%25e3%2582%25a4%25e3%2583%2589%25ef%25bc%2581%25e6%2589%258b%25e9%25a0%2586",
+        "source": "AINOW"
+      },
+      {
+        "title": "AIエージェントを人事で活用する方法は？採用や評価の自動化事例と導入手順を解説",
+        "url": "https://ainow.ai/2026/06/30/278215/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e4%25ba%25ba%25e4%25ba%258b%25e3%2581%25a7%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25af%25ef%25bc%259f%25e6%258e%25a1%25e7%2594%25a8%25e3%2582%2584%25e8%25a9%2595",
+        "source": "AINOW"
+      },
+      {
+        "title": "Nova 2 LiteとClaudeを組み合わせてコスト最適化された文書処理を実現",
+        "url": "https://aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "GeminiのパーソナライズされたAI画像生成が米国の無料ユーザー向けに利用可能に",
+        "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "ヨーロッパのAI労働力機会のマッピング",
+        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "金融コンプライアンスのための本番環境対応AIエージェント：Stripeからの教訓",
+        "url": "https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Amazon BedrockとAWS HealthLakeでエージェント型AI医療保険金処理パイプラインを構築",
+        "url": "https://aws.amazon.com/blogs/machine-learning/build-an-agentic-ai-healthcare-claims-pipeline-with-amazon-bedrock-and-aws-healthlake/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "ポケモンカードAIエージェント開発コンテスト「ポケカABC」開催。松尾研・ポケモン・HEROZが共催",
+        "url": "https://aismiley.co.jp/ai_news/matsuo-pokemon-heroz-ai-agent/",
+        "source": "AIsmiley"
+      }
+    ]
   }
 ]
