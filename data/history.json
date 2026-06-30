@@ -2266,5 +2266,86 @@
         "source": "AIsmiley"
       }
     ]
+  },
+  {
+    "date": "2026/07/01",
+    "email_id": "c7f26c7f-f4d9-499f-884a-bf5dec073ca2",
+    "articles": [
+      {
+        "title": "Anthropic、エージェント実行を低コスト化するClaude Sonnet 5を発表",
+        "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "OpenAI、グローバルパートナープログラム「OpenAI Partner Network」を発表。2026年末までに認定コンサルタントを30万人育成",
+        "url": "https://aismiley.co.jp/ai_news/openai-partner-network-consultant/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Claude Code Web版の完全ガイド：ブラウザだけで始めるAI自動コーディング",
+        "url": "https://aismiley.co.jp/ai_news/claude-code-web-anthropic/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Copilot API完全ガイド｜機能・料金・導入手順をわかりやすく解説",
+        "url": "https://aismiley.co.jp/ai_news/copilot-api/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "国産LLM「Sarashina3」登場 高品質データ、独自検証で日本語能力を強化 ソフトバンク傘下",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000143/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "XがMCPサーバーを提供開始、AIツールとの連携を容易に",
+        "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Amazonが新たな10億ドル規模のFDE組織を立ち上げ、目的特化型エージェントを展開",
+        "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "AWS上でAnthropicの最も高性能なSonnetモデル「Claude Sonnet 5」が利用可能に",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Nova 2 LiteとClaudeを組み合わせてコスト効率の高いドキュメント処理を実現",
+        "url": "https://aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "「ウソだろ」アスクル社長がうなったAI活用 商談準備を2週間→3時間に “担当者のカオス”脱却へ",
+        "url": "https://www.itmedia.co.jp/business/articles/2607/01/news053.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "AIエージェントを人事で活用する方法は？採用や評価の自動化事例と導入手順を解説",
+        "url": "https://ainow.ai/2026/06/30/278215/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e4%25ba%25ba%25e4%25ba%258b%25e3%2581%25a7%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25af%25ef%25bc%259f%25e6%258e%25a1%25e7%2594%25a8%25e3%2582%2584%25e8%25a9%2595",
+        "source": "AINOW"
+      },
+      {
+        "title": "AIエージェント導入を成功させる完全ガイド！手順・費用・活用事例を解説",
+        "url": "https://ainow.ai/2026/06/30/278217/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e5%25b0%258e%25e5%2585%25a5%25e3%2582%2592%25e6%2588%2590%25e5%258a%259f%25e3%2581%2595%25e3%2581%259b%25e3%2582%258b%25e5%25ae%258c%25e5%2585%25a8%25e3%2582%25ac%25e3%2582%25a4%25e3%2583%2589%25ef%25bc%2581%25e6%2589%258b%25e9%25a0%2586",
+        "source": "AINOW"
+      },
+      {
+        "title": "ポケモンカードAIエージェント開発コンテスト「ポケカABC」開催。松尾研・ポケモン・HEROZが共催",
+        "url": "https://aismiley.co.jp/ai_news/matsuo-pokemon-heroz-ai-agent/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "生成AIの請求書、人件費と並べる時代へ 国内5社のAI責任者が語る「トークンマネジメント」の現在地",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/30/news027.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "【Pythonで学ぶデータ分析】母平均のベイズ推定と予測サンプルの作成 ～ 規格外製品の廃棄コストを見積もる",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/01/news008.html",
+        "source": "ITmedia AI+"
+      }
+    ]
   }
 ]
