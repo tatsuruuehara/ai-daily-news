@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/05/31",
-    "email_id": "29826671-e12d-4b76-994b-a75e49639f6e",
-    "articles": [
-      {
-        "title": "OpenAIが生命科学推論AI「GPT-Rosalind」をバイオディフェンスに開放　デュアルユースリスクに懸念も",
-        "url": "https://www.itmedia.co.jp/news/articles/2605/30/news031.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "「Nano Banana 2」「Nano Banana Pro」が一般提供開始　「2」は動画からの画像生成もサポート",
-        "url": "https://www.itmedia.co.jp/news/articles/2605/29/news146.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "OpenAI、日本政府とサイバーセキュリティで協力　最新AI「GPT-5.5-Cyber」を金融機関に提供",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000037/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "クラウド依存、コストの課題を解消？　MicrosoftのローカルAI基盤「Foundry Local」",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news075.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "富士通がOpenAI、Anthropicと相次ぎ提携　AIベンダーと組む狙いは？",
-        "url": "https://www.itmedia.co.jp/enterprise/articles/2605/29/news067.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "三菱総合研究所、AIエージェント活用の事業影響評価支援を開始",
-        "url": "https://aismiley.co.jp/ai_news/mri-ai-agent-business-impact/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "KyoHA、日本発の純国産ヒューマノイド検証機「SEIMEI」を発表",
-        "url": "https://aismiley.co.jp/ai_news/kyoha-seimei-humanoid/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "MUFG aims to become AI-native with OpenAI",
-        "url": "https://openai.com/index/mufg",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-        "url": "https://openai.com/index/cisco",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "Building self-improving tax agents with Codex",
-        "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "Claude Opus 4.8 is now available on AWS",
-        "url": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-8-is-now-available-on-aws/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Building AI agents for business support using Amazon Bedrock AgentCore",
-        "url": "https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "JR西日本は“熟練者が手書きするしかなかった車両作業計画”をAIでどう自動化するのか？",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news103.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "日本通運、物流Webアプリ「DCX」の機能を強化。AIによる出荷予測を約5分に短縮",
-        "url": "https://aismiley.co.jp/ai_news/nippon-express-dcx-ai/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "【2026年最新】コンテキストウィンドウとは？主要LLM比較と「記憶の罠」を防ぐ使いこなし術",
-        "url": "https://aismiley.co.jp/ai_news/contextwindow-llm-ai-2026/",
-        "source": "AIsmiley"
-      }
-    ]
-  },
-  {
     "date": "2026/06/01",
     "email_id": "5ebe29e5-857b-41f1-8557-1d37d529efc2",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "Meta、「Claude Codeと組織改編で爆速開発」のはずが「想定より加速せず」 ザッカーバーグ氏、社内集会で発言",
         "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
         "source": "ITmedia AI+"
+      }
+    ]
+  },
+  {
+    "date": "2026/07/05",
+    "email_id": "58557ea2-636a-418a-916d-fa7ace30ad7c",
+    "articles": [
+      {
+        "title": "AIエージェントで業務自動化する方法とは？できることや事例を解説",
+        "url": "https://ainow.ai/2026/07/04/278229/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b",
+        "source": "AINOW"
+      },
+      {
+        "title": "「Claude Fable 5」をサブスクの標準機能に――AnthropicのエンジニアがXに投稿 7月8日以降の「早期復活目指す」",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Meta、「Claude Codeと組織改編で爆速開発」のはずが「想定より加速せず」 ザッカーバーグ氏、社内集会で発言",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「顧客管理システム作って」日本語で指示するだけでシステムが完成する最新AIとは？",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2607/03/news034.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "ソフトバンク、株主総会で新AI戦略を発表。次世代社会インフラ構築でAIの社会実装を推進",
+        "url": "https://aismiley.co.jp/ai_news/softbank-40th-general-meeting-ai/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Anthropic、米政府の輸出規制解除により「Fable 5」と「Mythos 5」の提供を再開",
+        "url": "https://aismiley.co.jp/ai_news/anthropic-fable-5-mythos-5-resume/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "【完全版】Claudeアーティファクト(Artifacts)の使い方・ビジネス活用法・プロンプト例",
+        "url": "https://aismiley.co.jp/ai_news/claude-artifacts-2026/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Anthropic、新モデル「Claude Sonnet 5」発表。「Opus 4.8」に迫る性能を低価格で実現",
+        "url": "https://aismiley.co.jp/ai_news/anthropic-claude-sonnet-5-release/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "OpenAI、初の独自設計AIチップ「Jalapeño」を発表。Broadcomとの共同開発基盤の第1弾",
+        "url": "https://aismiley.co.jp/ai_news/openai-broadcom-jalapeno/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Alibaba reportedly bans employees from using Claude Code",
+        "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Meta quietly launches vibe-coded gaming app Pocket",
+        "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Anthropic is discussing a new custom chip with Samsung",
+        "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Achieving operational excellence with AI",
+        "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+        "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/",
+        "source": "AWS AI Blog"
       }
     ]
   }
