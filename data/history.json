@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/06/01",
-    "email_id": "5ebe29e5-857b-41f1-8557-1d37d529efc2",
-    "articles": [
-      {
-        "title": "「ハーネス」って結局、何？　みんな使い方が違うAIエージェント用語をHugging Faceが整理",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/01/news016.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "日立はAnthropicと組んで何を狙うのか　従業員29万人へのClaude導入で目指す姿",
-        "url": "https://www.itmedia.co.jp/enterprise/articles/2605/30/news010.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "OpenAIが生命科学推論AI「GPT-Rosalind」をバイオディフェンスに開放　デュアルユースリスクに懸念も",
-        "url": "https://www.itmedia.co.jp/news/articles/2605/30/news031.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "「Nano Banana 2」「Nano Banana Pro」が一般提供開始　「2」は動画からの画像生成もサポート",
-        "url": "https://www.itmedia.co.jp/news/articles/2605/29/news146.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "OpenAI、日本政府とサイバーセキュリティで協力　最新AI「GPT-5.5-Cyber」を金融機関に提供",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000037/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "クラウド依存、コストの課題を解消？　MicrosoftのローカルAI基盤「Foundry Local」",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news075.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "【2026年最新】コンテキストウィンドウとは？主要LLM比較と「記憶の罠」を防ぐ使いこなし術",
-        "url": "https://aismiley.co.jp/ai_news/contextwindow-llm-ai-2026/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "HappyHorse 1.0とは？アリババの最新AI動画モデルの使い方を解説",
-        "url": "https://aismiley.co.jp/ai_news/happyhorse-about/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "社会のレジリエンスを強化するRosalind Biodefense",
-        "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "EndavaがCodexでエージェント組織を構築する方法",
-        "url": "https://openai.com/index/endava",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "MUFG、OpenAIと提携しAIネイティブ化を目指す",
-        "url": "https://openai.com/index/mufg",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "「ふざけるな」：Github Copilotの新しいトークンベースの課金が開発者の間で騒動を引き起こす",
-        "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "Googleの24時間AIアシスタントGemini Sparkを使ってみたが、実はかなり便利だ",
-        "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "AWSでLangSmithを使ったディープエージェントの評価",
-        "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-deep-agents-using-langsmith-on-aws/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Claude Opus 4.8がAWSで利用可能に",
-        "url": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-8-is-now-available-on-aws/",
-        "source": "AWS AI Blog"
-      }
-    ]
-  },
-  {
     "date": "2026/06/02",
     "email_id": "4a900d10-2af6-4f74-8295-d581244f65b9",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)",
         "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/",
         "source": "AWS AI Blog"
+      }
+    ]
+  },
+  {
+    "date": "2026/07/06",
+    "email_id": "a74396d7-de1b-4922-b061-5d4d0a942fbb",
+    "articles": [
+      {
+        "title": "Anthropic、米政府の輸出規制解除により「Fable 5」と「Mythos 5」の提供を再開",
+        "url": "https://aismiley.co.jp/ai_news/anthropic-fable-5-mythos-5-resume/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Anthropic、新モデル「Claude Sonnet 5」発表。「Opus 4.8」に迫る性能を低価格で実現",
+        "url": "https://aismiley.co.jp/ai_news/anthropic-claude-sonnet-5-release/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "【完全版】Claudeアーティファクト(Artifacts)の使い方・ビジネス活用法・プロンプト例",
+        "url": "https://aismiley.co.jp/ai_news/claude-artifacts-2026/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "OpenAI、初の独自設計AIチップ「Jalapeño」を発表。Broadcomとの共同開発基盤の第1弾",
+        "url": "https://aismiley.co.jp/ai_news/openai-broadcom-jalapeno/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Meta、「Claude Codeと組織改編で爆速開発」のはずが「想定より加速せず」　ザッカーバーグ氏、社内集会で発言",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Alibaba、従業員によるClaude Codeの使用を禁止",
+        "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "カクヤス「30年物の泥沼システム」をAIでどう解読？　現場が思いついた“ある考え”",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2607/06/news040.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "AIエージェントで業務効率化する方法！向いている業務の見極め方と事例",
+        "url": "https://ainow.ai/2026/07/04/278232/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e5%258a%25b9%25e7%258e%2587%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2590%2591%25e3%2581%2584%25e3%2581%25a6%25e3%2581%2584%25e3%2582%258b",
+        "source": "AINOW"
+      },
+      {
+        "title": "AIエージェントで業務自動化する方法とは？できることや事例を解説",
+        "url": "https://ainow.ai/2026/07/04/278229/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b",
+        "source": "AINOW"
+      },
+      {
+        "title": "ソフトバンク、株主総会で新AI戦略を発表。次世代社会インフラ構築でAIの社会実装を推進",
+        "url": "https://aismiley.co.jp/ai_news/softbank-40th-general-meeting-ai/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "静岡県藤枝市、全国初となる国産生成AIの公共活用実証実施。ソフトバンクと共同で窓口対応での有用性検証",
+        "url": "https://aismiley.co.jp/ai_news/fujieda-city-softbank-ai-demo/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "ヒューマンリソシア、派遣スタッフへの生成AI研修開始。全3回の実践型オリジナル研修",
+        "url": "https://aismiley.co.jp/ai_news/human-resocia-ai-original-training/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "3万円で「Yahoo!ニュース」にPR掲載　プレスリリースをAIで「ニュース風記事」に",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/03/news116.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Metaがひっそりと「vibe-coded」ゲームアプリ「Pocket」をリリース",
+        "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "AmazonがMechanical Turkの新規顧客受け入れを停止",
+        "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+        "source": "TechCrunch AI"
       }
     ]
   }
