@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/06/04",
-    "email_id": "cb0c850b-146b-4dd1-9027-dd28f07b9c76",
-    "articles": [
-      {
-        "title": "ServiceNowとAccenture、エージェント型AIを全社展開する「FDE」を開始",
-        "url": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news024.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "2年間で「1万時間」削減　「1円の誤りも許されない」ソニー経理が“まず試してみる”DX集団に化けたワケ",
-        "url": "https://www.itmedia.co.jp/business/articles/2606/04/news023.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "「AI使うな」より「使うなら教えて」　エージェント時代のガバナンス再設計",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000038/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Microsoft、自社開発した7つのAIモデル発表　画像編集や音声認識も",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/03/news077.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Microsoft、AIエージェント用のカスタマイズ可能な分離環境「Microsoft Execution Containers」発表　OpenClawも動作",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/03/news074.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "富士通、Anthropicと戦略的提携を発表。AI変革の加速と重要インフラのサイバー防御を強化",
-        "url": "https://aismiley.co.jp/ai_news/fujitsu-anthropic-ai-transformation/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Claude Code for VS Codeの導入・設定・使い方を徹底解説",
-        "url": "https://aismiley.co.jp/ai_news/claude-code-for-vs-code/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "プロンプトインジェクションとは？仕組み・種類・最新の攻撃事例と対策を解説",
-        "url": "https://aismiley.co.jp/ai_news/prompt-injection-owasp-llm/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "富士通、OpenAIと連携開始。ChatGPT EnterpriseとCodex活用で企業のAI変革を加速",
-        "url": "https://aismiley.co.jp/ai_news/fujitsu-openai-ai-transformation/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "GPT-Rosalindに新機能を追加",
-        "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "WasmerがCodexを使用してエッジ向けNode.jsランタイムを構築した方法",
-        "url": "https://openai.com/index/wasmer",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "Codexがあらゆる人の生産性ツールになる",
-        "url": "https://openai.com/index/codex-for-knowledge-work",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "MetaのWhatsApp Business向けAIエージェントがグローバル展開",
-        "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "Uber、AI予算を4ヶ月で使い切り従業員のAI利用を制限",
-        "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "Amazon SageMaker AIでSFTとDPOを使用してエージェントのツール呼び出し精度を向上させる",
-        "url": "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/",
-        "source": "AWS AI Blog"
-      }
-    ]
-  },
-  {
     "date": "2026/06/05",
     "email_id": "5a535821-fe87-4155-bd76-cafae8c77bdf",
     "articles": [
@@ -2425,6 +2344,87 @@
       {
         "title": "パナソニック、業界初AI料理パートナー「Bistroアシスタント」の自動調理鍋への対応を開始",
         "url": "https://aismiley.co.jp/ai_news/panasonic-bistro-assistant/",
+        "source": "AIsmiley"
+      }
+    ]
+  },
+  {
+    "date": "2026/07/09",
+    "email_id": "60b6adda-30ac-4015-b094-daed4fc49a6e",
+    "articles": [
+      {
+        "title": "OpenAI、リアルタイム音声モデル「GPT-Live」公開　相づちも割り込みも、より人間らしい会話に",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000174/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Introducing GPT-Live",
+        "url": "https://openai.com/index/introducing-gpt-live",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "OpenAI releases new voice models for more natural live conversations",
+        "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "OpenAIの最新AI「GPT-5.6」シリーズ、今週木曜日に一般公開へ",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000170/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「GPT-5.6」木曜に一般公開へ　米政府と調整→限定プレビュー経て",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/08/news107.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+        "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "「Grok 4.5」も明日一般公開へ　マスク氏「Opus級だが、より高速で低コスト」",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000171/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Claude「サブスク最上位プラン」6カ月間無料で提供　OSS開発者向けキャンペーン、対象を拡大",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000172/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+        "source": "Google AI Blog"
+      },
+      {
+        "title": "Building and connecting a production-ready ecommerce MCP server using Amazon Bedrock AgentCore and Mistral AI Studio",
+        "url": "https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "AIエージェントのワークフロー自動化とは？仕組みと導入手順を解説",
+        "url": "https://ainow.ai/2026/07/07/278237/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%25af%25e3%2583%25bc%25e3%2582%25af%25e3%2583%2595%25e3%2583%25ad%25e3%2583%25bc%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf",
+        "source": "AINOW"
+      },
+      {
+        "title": "AIエージェントとRPAの違いは？比較表と事例付きで徹底解説",
+        "url": "https://ainow.ai/2026/07/08/278240/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8rpa%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584%25e3%2581%25af%25ef%25bc%259f%25e6%25af%2594%25e8%25bc%2583%25e8%25a1%25a8%25e3%2581%25a8%25e4%25ba%258b%25e4%25be%258b%25e4%25bb%2598%25e3%2581%258d%25e3%2581%25a7",
+        "source": "AINOW"
+      },
+      {
+        "title": "CEOの利用額も「全社員に丸見え」　LayerXがAI予算を「第二の人件費」にした真意",
+        "url": "https://www.itmedia.co.jp/business/articles/2607/09/news022.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "政府、フィジカルAI領域で10.5兆円規模の官民投資を引き出す方針。「国産マルチモーダル基盤」構築に向け予算編成改革を実施",
+        "url": "https://aismiley.co.jp/ai_news/physical-ai-10-5-trillion-invest/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "ChatGPTに学習させない設定とオプトアウト申請の手順を解説",
+        "url": "https://aismiley.co.jp/ai_news/chatgpt-no-training-opt-out/",
         "source": "AIsmiley"
       }
     ]
