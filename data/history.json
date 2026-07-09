@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/06/05",
-    "email_id": "5a535821-fe87-4155-bd76-cafae8c77bdf",
-    "articles": [
-      {
-        "title": "オートデスク、主要製品向けにAIアシスタント機能を展開 Fusion向けMCPも",
-        "url": "https://monoist.itmedia.co.jp/mn/articles/2606/04/news037.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "ServiceNowとAccenture、エージェント型AIを全社展開する「FDE」を開始",
-        "url": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news024.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "OpenAIとDell、企業向け「Codex」のハイブリッド・オンプレミス環境展開に向けて提携",
-        "url": "https://aismiley.co.jp/ai_news/openai-dell-codex-partnership/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Claude Codeのプランと料金を比較｜無料・有料の違いを徹底解説",
-        "url": "https://aismiley.co.jp/ai_news/claude-code-plan/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Claude Codeインストール完全ガイド｜Windows・Mac対応の手順を解説",
-        "url": "https://aismiley.co.jp/ai_news/claude-code-install/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Claude Code for VS Codeの導入・設定・使い方を徹底解説",
-        "url": "https://aismiley.co.jp/ai_news/claude-code-for-vs-code/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "How Endava is redesigning software delivery around AI agents",
-        "url": "https://openai.com/index/endava-frontiers",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "Dreaming: Better memory for a more helpful ChatGPT",
-        "url": "https://openai.com/index/chatgpt-memory-dreaming",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-        "url": "https://openai.com/index/wasmer",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "Codex for every role, tool, and workflow",
-        "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart",
-        "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI",
-        "url": "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore",
-        "url": "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Google Chromeの新機能「Skills」 AIプロンプトの“毎回手打ち”を不要に",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/04/news042.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "タイヤFEM解析を45分から5分に 住友ゴムと富士通がAIサロゲートモデルを共同開発",
-        "url": "https://monoist.itmedia.co.jp/mn/articles/2606/05/news022.html",
-        "source": "ITmedia AI+"
-      }
-    ]
-  },
-  {
     "date": "2026/06/06",
     "email_id": "bfe0df8a-0e60-4471-a3d1-9765c14bdb7e",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "ChatGPTに学習させない設定とオプトアウト申請の手順を解説",
         "url": "https://aismiley.co.jp/ai_news/chatgpt-no-training-opt-out/",
         "source": "AIsmiley"
+      }
+    ]
+  },
+  {
+    "date": "2026/07/10",
+    "email_id": "e0978245-61a1-4262-8b73-3fc7b1c055b0",
+    "articles": [
+      {
+        "title": "デスクトップ版ChatGPT大幅刷新 AIエージェント「Codex」統合、「ChatGPT Work」に",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000178/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "ChatGPTはあなたの最も野心的な仕事のパートナーになる",
+        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "GPT-5.6: あなたの野望とともにスケールするフロンティアインテリジェンス",
+        "url": "https://openai.com/index/gpt-5-6",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "OpenAIがGPT-5.6で新モデルファミリーを発表",
+        "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Meta、マルチモーダル推論モデル「Muse Spark 1.1」公開 低価格の「Meta Model API」も提供へ",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000180/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "MetaがMuse Spark 1.1で混戦するAIコーディングバトルに参戦",
+        "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "AWS向けClaudeアプリゲートウェイを発表",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Amazon Bedrock AgentCoreとMistral AI Studioを使用して、本番環境対応のeコマースMCPサーバーを構築し接続する",
+        "url": "https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "LINEヤフー、「LINE」新機能「Agent i in chat」発表。トークルーム内でAIエージェントが会話を支援",
+        "url": "https://aismiley.co.jp/ai_news/line-yahoo-agent-in-chat/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "NECが3年で100億円狙うAnthropic協業の初ソリューション、AIが販売戦略立案",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「Notion」でAI利用量が4倍に スター精密が全社にAIを定着させた業務基盤の作り方",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2607/09/news171.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "1万9000人が利用するソフトバンクの「全社RAG基盤」 構築の泥臭い舞台裏",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/10/news002.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Microsoft、AI変革支援の新組織「Microsoft Frontier Company」発表。25億ドル投資、6000名現場配置",
+        "url": "https://aismiley.co.jp/ai_news/microsoft-frontier-company-ai/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "AIエージェントのワークフロー自動化とは？仕組みと導入手順を解説",
+        "url": "https://ainow.ai/2026/07/07/278237/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%25af%25e3%2583%25bc%25e3%2582%25af%25e3%2583%2595%25e3%2583%25ad%25e3%2583%25bc%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf",
+        "source": "AINOW"
+      },
+      {
+        "title": "AIエージェントとRPAの違いは？比較表と事例付きで徹底解説",
+        "url": "https://ainow.ai/2026/07/08/278240/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8rpa%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584%25e3%2581%25af%25ef%25bc%259f%25e6%25af%2594%25e8%25bc%2583%25e8%25a1%25a8%25e3%2581%25a8%25e4%25ba%258b%25e4%25be%258b%25e4%25bb%2598%25e3%2581%258d%25e3%2581%25a7",
+        "source": "AINOW"
       }
     ]
   }
