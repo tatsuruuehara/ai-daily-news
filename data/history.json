@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/06/06",
-    "email_id": "bfe0df8a-0e60-4471-a3d1-9765c14bdb7e",
-    "articles": [
-      {
-        "title": "【2026年最新】ClaudeCodeのコマンド一覧！見つからないときの解決策も",
-        "url": "https://aismiley.co.jp/ai_news/claude-command-2026-new/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Claude Code Skillsとは？使い方・作り方・活用例を徹底解説",
-        "url": "https://aismiley.co.jp/ai_news/claude-code-skills-function/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "OpenAIとDell、企業向け「Codex」のハイブリッド・オンプレミス環境展開に向けて提携",
-        "url": "https://aismiley.co.jp/ai_news/openai-dell-codex-partnership/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Claude Codeのプランと料金を比較｜無料・有料の違いを徹底解説",
-        "url": "https://aismiley.co.jp/ai_news/claude-code-plan/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Claude Codeインストール完全ガイド｜Windows・Mac対応の手順を解説",
-        "url": "https://aismiley.co.jp/ai_news/claude-code-install/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Claude Code for VS Codeの導入・設定・使い方を徹底解説",
-        "url": "https://aismiley.co.jp/ai_news/claude-code-for-vs-code/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "How Endava is redesigning software delivery around AI agents",
-        "url": "https://openai.com/index/endava-frontiers",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "Dreaming: Better memory for a more helpful ChatGPT",
-        "url": "https://openai.com/index/chatgpt-memory-dreaming",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "Introducing new capabilities to GPT-Rosalind",
-        "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-        "url": "https://openai.com/index/wasmer",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "Codex for every role, tool, and workflow",
-        "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart",
-        "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "How to build self-driving AI operations on Amazon Bedrock at scale",
-        "url": "https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI",
-        "url": "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore",
-        "url": "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/",
-        "source": "AWS AI Blog"
-      }
-    ]
-  },
-  {
     "date": "2026/06/08",
     "email_id": "5a17de71-af43-4498-957b-36081a3977be",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "AIエージェントとRPAの違いは？比較表と事例付きで徹底解説",
         "url": "https://ainow.ai/2026/07/08/278240/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8rpa%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584%25e3%2581%25af%25ef%25bc%259f%25e6%25af%2594%25e8%25bc%2583%25e8%25a1%25a8%25e3%2581%25a8%25e4%25ba%258b%25e4%25be%258b%25e4%25bb%2598%25e3%2581%258d%25e3%2581%25a7",
         "source": "AINOW"
+      }
+    ]
+  },
+  {
+    "date": "2026/07/11",
+    "email_id": "31221805-80a5-4435-9190-5f23f55a591e",
+    "articles": [
+      {
+        "title": "OpenAI「GPT-5.6」一般公開　最上位モデルは「コスト半分で一部Fable 5超え」うたう",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000183/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "ChatGPTはあなたの最も野心的な仕事のパートナーに",
+        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "「まるで人間」　OpenAIの新モデル「GPT-Live」のトーク力が話題　間を空けずに考えながら会話できる",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "M365 CopilotにOpenAI最新モデル「GPT-5.6」追加　複雑な作業を「より効率的に処理」",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000184/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "ChatGPT Workとは？機能・料金・使い方、Codexとの違いを徹底解説",
+        "url": "https://aismiley.co.jp/ai_news/chatgpt-work-guide/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Claude、利用制限を全リセット　競合「GPT-5.6」公開と同日……OpenAI幹部「ビビってるね」",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "AWS向けClaudeアプリゲートウェイの紹介",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "MCPツール設計：実践的なアプローチとトレードオフ",
+        "url": "https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Gemini APIにおけるマネージドエージェントの拡張：バックグラウンドタスク、リモートMCPなど",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+        "source": "Google AI Blog"
+      },
+      {
+        "title": "あるAIエージェントのスタートアップが、1億ドルの資金調達を自身のエージェントに実行させた",
+        "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "AIエージェントの8つの問題点！導入前に知っておきたい対策も解説",
+        "url": "https://ainow.ai/2026/07/11/278243/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae8%25e3%2581%25a4%25e3%2581%25ae%25e5%2595%258f%25e9%25a1%258c%25e7%2582%25b9%25ef%25bc%2581%25e5%25b0%258e%25e5%2585%25a5%25e5%2589%258d%25e3%2581%25ab%25e7%259f%25a5%25e3%2581%25a3%25e3%2581%25a6%25e3%2581%258a",
+        "source": "AINOW"
+      },
+      {
+        "title": "AIエージェントとRPAの違いは？比較表と事例付きで徹底解説",
+        "url": "https://ainow.ai/2026/07/08/278240/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8rpa%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584%25e3%2581%25af%25ef%25bc%259f%25e6%25af%2594%25e8%25bc%2583%25e8%25a1%25a8%25e3%2581%25a8%25e4%25ba%258b%25e4%25be%258b%25e4%25bb%2598%25e3%2581%258d%25e3%2581%25a7",
+        "source": "AINOW"
+      },
+      {
+        "title": "“どのUIが使いやすいか”で選ぶ時代はもう終わり　ガートナー、「SaaSの終焉」で独自見解を披露",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2607/10/news054.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "生成AI「若手有利」は大間違い？　ミドル層が勝ち抜くための“力の見せ所”とは",
+        "url": "https://www.itmedia.co.jp/business/articles/2607/10/news012.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「AI-OCR業界別・ユースケース集」を公開！「脱・手入力」を実現する小売・物流・医療など6業界の成功事例と導入時のポイントを紹介",
+        "url": "https://aismiley.co.jp/ai_news/ai-ocr-guide/",
+        "source": "AIsmiley"
       }
     ]
   }
