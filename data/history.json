@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/06/08",
-    "email_id": "5a17de71-af43-4498-957b-36081a3977be",
-    "articles": [
-      {
-        "title": "ChatGPTに「ロックダウンモード」 プロンプトインジェクションによる情報漏えい対策",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "AIコスト高騰で中国DeepSeekへの“乗り換え”続出か 米国決済サービスの支出調査で明らかに",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000060/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "【2026年最新】ClaudeCodeのコマンド一覧！見つからないときの解決策も",
-        "url": "https://aismiley.co.jp/ai_news/claude-command-2026-new/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Claude Code Skillsとは？使い方・作り方・活用例を徹底解説",
-        "url": "https://aismiley.co.jp/ai_news/claude-code-skills-function/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "OpenAIとDell、企業向け「Codex」のハイブリッド・オンプレミス環境展開に向けて提携",
-        "url": "https://aismiley.co.jp/ai_news/openai-dell-codex-partnership/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Claude Codeインストール完全ガイド｜Windows・Mac対応の手順を解説",
-        "url": "https://aismiley.co.jp/ai_news/claude-code-install/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "EndavaがAIエージェントを活用してソフトウェア開発を再設計する方法",
-        "url": "https://openai.com/index/endava-frontiers",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "記憶: より役立つChatGPTのためのより良い記憶システム",
-        "url": "https://openai.com/index/chatgpt-memory-dreaming",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "NVIDIA Nemotron 3 UltraがAmazon SageMaker JumpStartで利用可能に",
-        "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "NEC、富士通に先手!?　日立が「Claude Mythos」アクセス権を取得した背景",
-        "url": "https://www.itmedia.co.jp/business/articles/2606/08/news058.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "検図から積算まで支援する図面解析AI、工数を最大60％削減",
-        "url": "https://monoist.itmedia.co.jp/mn/articles/2606/05/news020.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "タイヤFEM解析を45分から5分に　住友ゴムと富士通がAIサロゲートモデルを共同開発",
-        "url": "https://monoist.itmedia.co.jp/mn/articles/2606/05/news022.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "トラスコ中山と富士通が人事異動案の提案アプリを構築。AIと数理最適化モデル活用で工数を約98％削減",
-        "url": "https://aismiley.co.jp/ai_news/trusco-fujitsu-ai-hr/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "USEN、飲食店向け生成AIサービス「USEN AI店長（ベータ版）」の提供開始。 売上分析から店舗運営まで支援",
-        "url": "https://aismiley.co.jp/ai_news/usen-ai-manager-restaurant/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "リコーとLIFULLが連携。360度空間データとAIを活用して賃貸物件の動画コンテンツを自動生成",
-        "url": "https://aismiley.co.jp/ai_news/lifull-ricoh-360-ai/",
-        "source": "AIsmiley"
-      }
-    ]
-  },
-  {
     "date": "2026/06/12",
     "email_id": "bd9f0f44-4aa8-4430-b354-3651dd9ffc1b",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "「AI-OCR業界別・ユースケース集」を公開！「脱・手入力」を実現する小売・物流・医療など6業界の成功事例と導入時のポイントを紹介",
         "url": "https://aismiley.co.jp/ai_news/ai-ocr-guide/",
         "source": "AIsmiley"
+      }
+    ]
+  },
+  {
+    "date": "2026/07/12",
+    "email_id": "5eed28b6-4895-47d5-936e-c3602a79bbb3",
+    "articles": [
+      {
+        "title": "OpenAI「GPT-5.6」一般公開　最上位モデルは「コスト半分で一部Fable 5超え」うたう",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000183/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+        "url": "https://openai.com/index/gpt-5-6",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "ChatGPT is now a partner for your most ambitious work",
+        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "ChatGPT Workとは？機能・料金・使い方、Codexとの違いを徹底解説",
+        "url": "https://aismiley.co.jp/ai_news/chatgpt-work-guide/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "「まるで人間」　OpenAIの新モデル「GPT-Live」のトーク力が話題　間を空けずに考えながら会話できる",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Introducing GPT-Live",
+        "url": "https://openai.com/index/introducing-gpt-live",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "M365 CopilotにOpenAI最新モデル「GPT-5.6」追加　複雑な作業を「より効率的に処理」",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000184/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+        "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "“どのUIが使いやすいか”で選ぶ時代はもう終わり　ガートナー、「SaaSの終焉」で独自見解を披露",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2607/10/news054.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "AIエージェントで何ができる？できること・活用事例を解説",
+        "url": "https://ainow.ai/2026/07/12/278246/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25bd%2595%25e3%2581%258c%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e3%2581%2593%25e3%2581%25a8%25e3%2583%25bb%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b",
+        "source": "AINOW"
+      },
+      {
+        "title": "AIエージェントの活用事例12選！業務別・業界別に導入企業の取り組みを解説",
+        "url": "https://ainow.ai/2026/07/12/278249/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b%25e4%25be%258b12%25e9%2581%25b8%25ef%25bc%2581%25e6%25a5%25ad%25e5%258b%2599%25e5%2588%25a5%25e3%2583%25bb%25e6%25a5%25ad%25e7%2595%258c%25e5%2588%25a5%25e3%2581%25ab",
+        "source": "AINOW"
+      },
+      {
+        "title": "Introducing Claude apps gateway for AWS",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "An AI agent startup just let its agent run its $100M fundraise",
+        "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Grok 4.5とは？性能・料金・使い方・他社モデルとの違いを解説",
+        "url": "https://aismiley.co.jp/ai_news/grok-4-5-guide/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "テスラ車内で「Grok」と会話、日本でも展開へ　ナビ設定やルート確認を音声で",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
+        "source": "ITmedia AI+"
       }
     ]
   }
