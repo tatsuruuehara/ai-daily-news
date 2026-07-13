@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/06/13",
-    "email_id": "4da57350-afee-41ee-906e-1024a64e6215",
-    "articles": [
-      {
-        "title": "Apple、「Siri AI」を発表。会話能力向上に加え、画面認識やアプリ横断操作などに対応",
-        "url": "https://aismiley.co.jp/ai_news/apple-siri_ai-apple_intelligence/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Claude Fable 5とは？性能・料金・使い方やMythos 5との違いを解説",
-        "url": "https://aismiley.co.jp/ai_news/claude-fable-5/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "AIツール「Claude Fable 5」の一般公開版、強力すぎると話題に",
-        "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology"
-      },
-      {
-        "title": "Claude Code入門ガイド｜インストールから基本操作・活用方法まで解説",
-        "url": "https://aismiley.co.jp/ai_news/claude-code-introduction/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "AnthropicとNEC、金融8社とAI活用で連携　三井住友FG、大和証券など",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000082/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "OpenAIがOnaを買収し、Codexの機能を強化",
-        "url": "https://openai.com/index/openai-to-acquire-ona",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "OpenAI Academy、次世代の仕事に向けた新コースを発表",
-        "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "Amazon QuickとCisco Webex MCPサーバーで会議準備・フォローアップアシスタントを構築",
-        "url": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Agent-EvalKitでAIエージェントを体系的に評価",
-        "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "カーネルの手動調整を停止：Neuron Agentic DevelopmentがAWS Trainiumの最適化を加速",
-        "url": "https://aws.amazon.com/blogs/machine-learning/stop-hand-tuning-kernels-how-neuron-agentic-development-accelerates-aws-trainium-optimizations/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "LINEヤフー、「Agent i」開発加速に向けたタスクフォースを拡大。第2弾は報奨金の総額5,000万円規模",
-        "url": "https://aismiley.co.jp/ai_news/lineyahoo-agenti-taskforce-2phase/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "AnthropicのアモデイCEO、フロンティアAIに「航空機並みの安全審査」求めるエッセイと政策提言を公開",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000081/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "日立とGoogle Cloud、FDEによるフィジカルAIとセキュリティで協業拡大",
-        "url": "https://aismiley.co.jp/ai_news/hitachi-google_cloud-fde-physical_ai/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "「日本がいないと成り立たない」世界へ、フィジカルAIが導く独自の交渉力",
-        "url": "https://monoist.itmedia.co.jp/mn/articles/2606/12/news049.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "データセンター建設に足りないのは「発電」ではなく「送電」　AI需要で電力消費26％増、Gartner予想",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000083/",
-        "source": "ITmedia AI+"
-      }
-    ]
-  },
-  {
     "date": "2026/06/14",
     "email_id": "6389c693-2332-42b8-986d-b9ea09fb7b02",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "Claude、利用制限を全リセット 競合「GPT-5.6」公開と同日……OpenAI幹部「ビビってるね」",
         "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
         "source": "ITmedia AI+"
+      }
+    ]
+  },
+  {
+    "date": "2026/07/14",
+    "email_id": "df3f72c3-8a56-4e5e-89a7-9f198fef5ee0",
+    "articles": [
+      {
+        "title": "OpenAI、新世代音声モデル「GPT-Live」公開。全二重アーキテクチャ搭載で自然な音声対話を実現",
+        "url": "https://aismiley.co.jp/ai_news/openai-gpt-live-release/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "GPT-Liveとは？OpenAI最新音声モデルの仕組み・使い方・料金を解説",
+        "url": "https://aismiley.co.jp/ai_news/what-is-gpt-live/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
+        "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Claude、利用制限を全リセット　競合「GPT-5.6」公開と同日……OpenAI幹部「ビビってるね」",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「ChatGPT Work」「Codex」の5時間制限枠を一時解除　「GPT-5.6 Sol」の処理効率も改良へ",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000186/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "ChatGPT Workとは？機能・料金・使い方、Codexとの違いを徹底解説",
+        "url": "https://aismiley.co.jp/ai_news/chatgpt-work-guide/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "エージェントによる業務自動化をどう実現？　「Microsoft Build 2026」で発表された多数の新技術",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/13/news034.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "AIエージェントの活用事例12選！業務別・業界別に導入企業の取り組みを解説",
+        "url": "https://ainow.ai/2026/07/12/278249/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b%25e4%25be%258b12%25e9%2581%25b8%25ef%25bc%2581%25e6%25a5%25ad%25e5%258b%2599%25e5%2588%25a5%25e3%2583%25bb%25e6%25a5%25ad%25e7%2595%258c%25e5%2588%25a5%25e3%2581%25ab",
+        "source": "AINOW"
+      },
+      {
+        "title": "AIエージェントで何ができる？できること・活用事例を解説",
+        "url": "https://ainow.ai/2026/07/12/278246/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25bd%2595%25e3%2581%258c%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e3%2581%2593%25e3%2581%25a8%25e3%2583%25bb%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b",
+        "source": "AINOW"
+      },
+      {
+        "title": "Scaling agentic workflows with native case management in Amazon Quick Automate",
+        "url": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "“純国産の政府AI”稼働へ　NTTらのモデル採用　「先陣を切る」――松本デジ相が語った意欲",
+        "url": "https://www.itmedia.co.jp/business/articles/2607/14/news034.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "アニメ特化動画生成AI「AnimeGen」無償公開、商用利用も可　国内AIベンチャーAIdeaLab",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000187/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "ぐるなび、AIアプリ「UMAME!」新機能を提供開始。今の気分から最適なお店を瞬時に提案",
+        "url": "https://aismiley.co.jp/ai_news/gnavi-umame-ai-agent-release/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "ChatGPTでスライド作成する方法とプロンプトのコツを徹底解説",
+        "url": "https://aismiley.co.jp/ai_news/chatgpt-create-slide-presentations/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "ChatGPTで写真加工・イラスト生成のやり方とプロンプトを解説",
+        "url": "https://aismiley.co.jp/ai_news/chatgpt-photo-illustration-explanation/",
+        "source": "AIsmiley"
       }
     ]
   }
