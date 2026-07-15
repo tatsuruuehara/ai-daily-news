@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/06/15",
-    "email_id": "68ed16fa-db9c-4aba-b0ca-06ed0162c85b",
-    "articles": [
-      {
-        "title": "「Claude Fable 5」「Mythos 5」全面停止 米政府の指令により Anthropicは早期復旧を宣言",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/13/news026.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Claude Fable 5とは？性能・料金・使い方やMythos 5との違いを解説",
-        "url": "https://aismiley.co.jp/ai_news/claude-fable-5/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Apple、「Siri AI」を発表。会話能力向上に加え、画面認識やアプリ横断操作などに対応",
-        "url": "https://aismiley.co.jp/ai_news/apple-siri_ai-apple_intelligence/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Claude Code入門ガイド｜インストールから基本操作・活用方法まで解説",
-        "url": "https://aismiley.co.jp/ai_news/claude-code-introduction/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Agent-EvalKitでAIエージェントを体系的に評価",
-        "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Superchargerの構築方法：Rocket CloseがエージェントAIでタイトル操作を最適化",
-        "url": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Amazon QuickとCisco Webex MCPサーバーで会議準備・フォローアップアシスタントを構築",
-        "url": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "OpenAIがOnaを買収へ",
-        "url": "https://openai.com/index/openai-to-acquire-ona",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "次世代の仕事に向けたOpenAI Academyの新しいコース",
-        "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "Google DeepMind、数百万のAIエージェントが相互作用する際の危険性を懸念",
-        "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-        "source": "MIT Technology Review"
-      },
-      {
-        "title": "生成AIガバナンスとは？構築手順5ステップと企業の体制づくりを解説",
-        "url": "https://ainow.ai/2026/06/13/278169/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%25ac%25e3%2583%2590%25e3%2583%258a%25e3%2583%25b3%25e3%2582%25b9%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e6%25a7%258b%25e7%25af%2589%25e6%2589%258b%25e9%25a0%25865%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25e3%2581%25a8%25e4%25bc%2581%25e6%25a5%25ad",
-        "source": "AINOW"
-      },
-      {
-        "title": "生成AIガイドラインを企業が策定する手順！必須項目も解説",
-        "url": "https://ainow.ai/2026/06/12/278163/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%25ac%25e3%2582%25a4%25e3%2583%2589%25e3%2583%25a9%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%2592%25e4%25bc%2581%25e6%25a5%25ad%25e3%2581%258c%25e7%25ad%2596%25e5%25ae%259a%25e3%2581%2599%25e3%2582%258b%25e6%2589%258b%25e9%25a0%2586%25ef%25bc%2581%25e5%25bf%2585%25e9%25a0%2588%25e9%25a0%2585",
-        "source": "AINOW"
-      },
-      {
-        "title": "AnthropicとNEC、金融8社とAI活用で連携 三井住友FG、大和証券など",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000082/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "LINEヤフー、「Agent i」開発加速に向けたタスクフォースを拡大。第2弾は報奨金の総額5,000万円規模",
-        "url": "https://aismiley.co.jp/ai_news/lineyahoo-agenti-taskforce-2phase/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "“AIが電力使いすぎ問題” 「電力不足」懸念で、発電能力より深いボトルネックとは",
-        "url": "https://www.itmedia.co.jp/business/articles/2606/12/news029.html",
-        "source": "ITmedia AI+"
-      }
-    ]
-  },
-  {
     "date": "2026/06/16",
     "email_id": "f64e639f-3c85-4b5c-b399-40deddd49e30",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "OpenAI GPT-5.6 Sol, Terra, and LunaがAmazon Bedrockで一般提供開始",
         "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
         "source": "AWS AI Blog"
+      }
+    ]
+  },
+  {
+    "date": "2026/07/16",
+    "email_id": "bca933eb-bab3-418b-962d-f64865914534",
+    "articles": [
+      {
+        "title": "Anthropic、米K-12教員向け「Claude for Teachers」無料提供　「Claude Code」や「Cowork」も含む",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000193/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "SpaceXAI、最新モデル「Grok 4.5」を提供開始。コーディング能力とエージェントタスクの性能を強化",
+        "url": "https://aismiley.co.jp/ai_news/spacexai-grok-4-5-release/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "「RPA負債」をこれで解消　言葉で指示するだけでPC作業を自動化する最新AI",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2607/15/news021.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "日立ヴァンタラ、AIプラットフォーム「Hitachi iQ」強化。AIエージェントの開発から運用まで支援",
+        "url": "https://aismiley.co.jp/ai_news/hitachi-iq-studio-launch/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers",
+        "url": "https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
+        "url": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "OpenAI、新世代音声モデル「GPT-Live」公開。全二重アーキテクチャ搭載で自然な音声対話を実現",
+        "url": "https://aismiley.co.jp/ai_news/openai-gpt-live-release/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "「GPT-5.6」の好きな部分をXに投稿→100ドル分のクレジットがもらえるキャンペーン　先着1万人限定",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000195/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
+        "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "ゼロから分かる「Claude」の教科書　ChatGPTと比べて分かった強みとは？",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2607/16/news031.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "NEC、Anthropic協業による「NEC AIインサイトレポーティングサービス」提供開始。商品企画や販促プラン作成を自動化",
+        "url": "https://aismiley.co.jp/ai_news/nec-ai-insight-reporting-service/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "GitHub Copilot CLIとは？インストール・使い方・料金を解説",
+        "url": "https://aismiley.co.jp/ai_news/github-copilot-cli-ai-agent/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "How to manage AI investments in the agentic era",
+        "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "AIエージェントのコスト、どこに「消えて」いる？　Google Cloud調査で浮上した“クラウド利用の盲点”",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2607/14/news039.html",
+        "source": "ITmedia AI+"
       }
     ]
   }
