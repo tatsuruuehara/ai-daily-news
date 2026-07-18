@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/06/18",
-    "email_id": "186c7f01-2b81-4ce5-84de-fa7669bf94a6",
-    "articles": [
-      {
-        "title": "Anthropic、デザインツール「Claude Design」を強化　Codeとの双方向連携やCanvaなどへの出力をサポート",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000102/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "SpaceX、AIコーディング「Cursor」を9.6兆円で買収　「近く大幅な改善」へ",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2606/17/2000000096/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "日立、OpenAIとの連携を本格化　「Codex」でレガシーシステム刷新、サイバー防衛も",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2606/17/2000000097/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Claude Codeのサブエージェントとは？使い方やうまく動かないときの原因・対策も紹介",
-        "url": "https://aismiley.co.jp/ai_news/claude-code-sub-agent/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "NEC・Anthropicと金融8社が連携。AI活用による金融分野の価値創出と社会実装へ取り組み開始",
-        "url": "https://aismiley.co.jp/ai_news/nec-anthropic-finance-cooperation/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "VisaとOpenAIが戦略的提携。AIエージェントによる安全なVisa決済が可能に",
-        "url": "https://aismiley.co.jp/ai_news/visa-openai-partnership/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "ほぼ自律的なAI化学者が医薬品化学の困難な反応を改善",
-        "url": "https://openai.com/index/ai-chemist-improves-reaction",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "LifeSciBenchを発表",
-        "url": "https://openai.com/index/introducing-life-sci-bench",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "展開シミュレーションによるリリース前のモデル挙動予測",
-        "url": "https://openai.com/index/deployment-simulation",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "OpenAIパートナーネットワークの紹介",
-        "url": "https://openai.com/index/introducing-openai-partner-network",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "新しい研究は、当社の医療AIであるAMIEが健康状態の管理にどのように役立つかを示しています。",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-        "source": "Google AI Blog"
-      },
-      {
-        "title": "ワールドモデルメーカーのOdyssey、Amazonなどの大手からの支援を受け14.5億ドルの評価額を獲得",
-        "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "Amazon QuickSightの自律型エージェントで毎日何時間も節約",
-        "url": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Amazon Bedrock AgentCoreの新機能：より広範な知識と継続的な学習を持つエージェントを構築",
-        "url": "https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Strands EvalsによるAIエージェントの失敗検出と根本原因分析",
-        "url": "https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/",
-        "source": "AWS AI Blog"
-      }
-    ]
-  },
-  {
     "date": "2026/06/19",
     "email_id": "ec5fdb0c-fe23-438a-96ef-04b05653e974",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
         "url": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/",
         "source": "AWS AI Blog"
+      }
+    ]
+  },
+  {
+    "date": "2026/07/19",
+    "email_id": "a44472dc-0374-4894-8a0e-4c7bdfcb14f2",
+    "articles": [
+      {
+        "title": "「Claude Fable 5」サブスクに統合　Max・Team Premiumプラン対象",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「AIエージェントの約半数が\"戦力外\"になる」　なぜ企業は使いこなせない？",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news053.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Google、「NotebookLM」を「Gemini Notebook」に改称　Geminiエコシステムへの統合を強化",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Google検索の「AIモード」、検索結果からそのままアプリで作業可能に　CanvaやYouTube Musicなど",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/17/news061.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "日本再起の旗印となるか、国産マルチモーダルAI基盤「FRONTia」が始動",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2607/17/news059.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「現場で使えるAIへ」、富士通が進める次世代CPUと自律型AIエージェント戦略",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2607/17/news044.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "フアンCEO「ジャパンAI構築はマストだ」　経産省、国産フィジカルAIで新プロジェクト　赤沢大臣も“革ジャン”羽織る",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/16/news107.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "ELYZA、三井住友カードで「入会審査自動判定AI」運用開始。従来審査の20％を自動化し対応時間を短縮",
+        "url": "https://aismiley.co.jp/ai_news/elyza-smcc-screening-ai/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "ちゅうぎんフィナンシャルグループ、「AI1,000人プロジェクト」を開始。Microsoft 365 Copilot活用で業務変革を推進",
+        "url": "https://aismiley.co.jp/ai_news/chugin-fc-ai-one-thousand-project/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "デジタル庁、ガバメントAI「源内」で国産AIの試用開始。「さくらのクラウド」で3種類の基盤モデルを検証",
+        "url": "https://aismiley.co.jp/ai_news/digital-gennai-model-trial/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Google Antigravity 2.0とは？機能・料金・導入手順を徹底解説",
+        "url": "https://aismiley.co.jp/ai_news/what-is-antigravity-2-0/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "How Cars24 scales conversations and builds faster with OpenAI",
+        "url": "https://openai.com/index/cars24",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Introducing Grok on Amazon Bedrock",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+        "source": "VentureBeat AI"
       }
     ]
   }
