@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/06/21",
-    "email_id": "30ff8eb3-d80d-4d38-bc8e-4c0fc0ddc755",
-    "articles": [
-      {
-        "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "工数「76％」削減 味の素グループが「経理AIエージェント」導入で先陣を切れたワケ",
-        "url": "https://www.itmedia.co.jp/business/articles/2606/19/news033.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Sakana AI、初の商用プロダクトとなるビジネス向け自律型リサーチアシスタント「Sakana Marlin」提供開始",
-        "url": "https://aismiley.co.jp/ai_news/sakana-ai-sakana-marlin-release/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "クラダシ「Claude」を全社展開。特有業務の自動化の推進およびAI活用ポリシーを策定",
-        "url": "https://aismiley.co.jp/ai_news/kuradashi-claude-ai-policy/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes",
-        "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Get back hours every day with autonomous agents in Amazon Quick",
-        "url": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Introducing Web Search on Amazon Bedrock AgentCore",
-        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
-        "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "「ChatGPT広告」日本上陸 無料版と「Go」で表示、電通・博報堂など支援",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "大阪メトロは「月1000件の社内問い合わせを効率化」にAIをどう使った？",
-        "url": "https://kn.itmedia.co.jp/kn/articles/2606/19/news113.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Claude CodeとOpenClawの違いとは？使い分け・連携方法・セキュリティ面の注意点を解説",
-        "url": "https://aismiley.co.jp/ai_news/claude-code-openclaw/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Improving health intelligence in ChatGPT",
-        "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-        "source": "Google AI Blog"
-      },
-      {
-        "title": "米大企業の7割が導入する「Databricks」とは何者か？ 評価額20兆円の「AI向けデータ基盤」",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000106/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
-        "url": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology"
-      }
-    ]
-  },
-  {
     "date": "2026/06/22",
     "email_id": "4b070a55-ba11-415b-a40f-b17596c25970",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "中国のMoonshot AI、Kimi K3がOpenAIとAnthropicに匹敵すると主張",
         "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Technology"
+      }
+    ]
+  },
+  {
+    "date": "2026/07/22",
+    "email_id": "60b1e04c-b0f4-492c-b07c-39e07111ed97",
+    "articles": [
+      {
+        "title": "Google、「Gemini 3.6 Flash」など3モデルを発表　出力トークンを削減しつつ値下げ、「Gemini 4」も予告",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000212/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "ブレストで膨らむ“隠れ人件費”を削れ　矢野経済がClaudeで挑む「30分で100アイデア」創出の威力",
+        "url": "https://www.itmedia.co.jp/business/articles/2607/22/news028.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Anthropic、Slack上で動作する新機能「Claude Tag」発表。チーム利用可能で自律的にタスクを処理",
+        "url": "https://aismiley.co.jp/ai_news/anthropic-slack-claude-tag-release/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "AIエージェントと生成AIの違いとは？仕組み・使い分けを解説",
+        "url": "https://ainow.ai/2026/07/22/278271/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8%25e7%2594%259f%25e6%2588%2590ai%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf%25e3%2583%25bb%25e4%25bd%25bf%25e3%2581%2584",
+        "source": "AINOW"
+      },
+      {
+        "title": "AIトークン消費「24倍」の衝撃　本番運用に向けて絶対に“やってはいけない”コストの捉え方",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/22/news005.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "ソフトバンクと安川電機、「AIデータセンターGPUクラウド」を活用し、柔軟物体ハンドリングシステムを実証",
+        "url": "https://aismiley.co.jp/ai_news/softbank-yasukawa-handling-system/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Noetra、国産マルチモーダル基盤モデルの研究開発を本格始動。ソニー・SB・NEC・ホンダなどと連携",
+        "url": "https://aismiley.co.jp/ai_news/noetra-domestic-multimodal-model/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Introducing the ChatGPT for small business program",
+        "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+        "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "サイバーセキュリティのAI自動化とは？メリット・セキュリティ戦略を解説",
+        "url": "https://aismiley.co.jp/ai_news/cyber-security-ai-automation-2026/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "OpenAI Daybreakとは？GPT-5.5と28社が挑むAIサイバー防御の全貌",
+        "url": "https://aismiley.co.jp/ai_news/openai-daybreak-2/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Geminiプロンプトの書き方完全ガイド｜4要素の基本とビジネス例文集",
+        "url": "https://aismiley.co.jp/ai_news/gemini-prompt/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit",
+        "url": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Anthropic、著作権訴訟で史上最大「2400億円」和解金支払いへ　学習利用は「フェアユース」認定",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000210/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「取りあえずAI導入」の末路　現場で深まる情報漏えい不安　IPAの意識調査で明らかに",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news044.html",
+        "source": "ITmedia AI+"
       }
     ]
   }
