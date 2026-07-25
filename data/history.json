@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/06/26",
-    "email_id": "84f9a815-9e92-4424-893f-718d5b4de5bf",
-    "articles": [
-      {
-        "title": "「AIエージェント基盤の構築は色々大変」　Claude Managed Agentsはどう進化しているのか",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news058.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Microsoft、「Copilot Cowork」一般提供を開始。「Claude Cowork」より平均30〜40％低コスト",
-        "url": "https://aismiley.co.jp/ai_news/microsoft-copilot-cowork-ga/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Sakana AI、マルチエージェント基盤「Sakana Fugu」提供開始。一部ベンチマークで「Fable 5」「Mythos Preview」と同等性能",
-        "url": "https://aismiley.co.jp/ai_news/sakana-ai-sakana-fugu-release/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "エージェントがいかに仕事を変革しているか",
-        "url": "https://openai.com/index/how-agents-are-transforming-work",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "Patronus AIがAIエージェントのストレステストを行う「デジタルワールド」構築のために5000万ドルを調達",
-        "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "LINEヤフー、Agent iの機能拡大。画像生成機能やパーソナライズ機能を追加",
-        "url": "https://aismiley.co.jp/ai_news/line-yahoo-agent-i-expansion/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "チャットの貴重な情報をAIが収集　AIエージェントで会話を資産に",
-        "url": "https://kn.itmedia.co.jp/kn/articles/2606/26/news041.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Amazon Bedrockが提供するAIエージェントを活用し、実用的なヘルスケアに関する洞察を見つけるためのセルフサービスAWS Health分析を構築する",
-        "url": "https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Preferred Networks、国産生成AI基盤モデル「PLaMo 3.0 Prime」を正式提供開始。",
-        "url": "https://aismiley.co.jp/ai_news/plamo-3-0-prime-release/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Google Cloud、Nano Banana 2とNano Banana Proの一般提供を開始。動画の内容に合った画像を生成",
-        "url": "https://aismiley.co.jp/ai_news/google_cloud-nano-banana-2-pro/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "“AIの回答が薄い問題”をどう解決？　日本ハム、「AIが食べやすいデータ」作戦の全貌",
-        "url": "https://www.itmedia.co.jp/business/articles/2606/26/news012.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "カゴメなど5者、AI選果機の共同開発と実証の成果を発表。トマトの廃棄ロスを30％低減",
-        "url": "https://aismiley.co.jp/ai_news/kagome-ai-tomato-consortium/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "TBSラジオ、AIで音声CMを生成する「デモCMジェネレーター」を公開。音声広告企画を支援",
-        "url": "https://aismiley.co.jp/ai_news/tbsradio-ai-demo-cm-generator/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "GPT-5が免疫学者Derya Unutmazが3年前の謎を解くのを助けた方法",
-        "url": "https://openai.com/index/gpt-5-immunology-mystery",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "生成AIを研究開発に活用する方法とメリット！事例と進め方も紹介",
-        "url": "https://ainow.ai/2026/06/23/278198/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%2592%25e7%25a0%2594%25e7%25a9%25b6%25e9%2596%258b%25e7%2599%25ba%25e3%2581%25ab%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25a8%25e3%2583%25a1%25e3%2583%25aa%25e3%2583%2583%25e3%2583%2588%25ef%25bc%2581%25e4%25ba%258b%25e4%25be%258b",
-        "source": "AINOW"
-      }
-    ]
-  },
-  {
     "date": "2026/06/27",
     "email_id": "05cf0f9a-edf8-4385-ba85-c3fe9956f7a5",
     "articles": [
@@ -2421,6 +2340,87 @@
         "title": "経理AIエージェントの導入判断はRPAとの違いで見極める！メリットも解説",
         "url": "https://ainow.ai/2026/07/24/278274/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%25b5%258c%25e7%2590%2586ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5%25e5%2588%25a4%25e6%2596%25ad%25e3%2581%25afrpa%25e3%2581%25a8%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584%25e3%2581%25a7%25e8%25a6%258b%25e6%25a5%25b5",
         "source": "AINOW"
+      },
+      {
+        "title": "AIにもサプライチェーン管理が必要？　中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
+        "source": "ITmedia AI+"
+      }
+    ]
+  },
+  {
+    "date": "2026/07/26",
+    "email_id": "f826e744-dbed-4aaf-be83-1e724a4394d6",
+    "articles": [
+      {
+        "title": "Anthropic、「Claude Opus 5」公開　Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否時は自動フォールバックも",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Anthropic launches Opus 5",
+        "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Microsoft、GitHub CopilotやExcelで自社AIに切り替えへ――OpenAIやAnthropicのモデルは「引き続き併用」",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000219/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "富士通、大規模言語モデルの大幅なコスト削減を実現するアーキテクチャ「PHOTON」開発。Transformerの最大475倍の出力トークン数を持つ",
+        "url": "https://aismiley.co.jp/ai_news/fujitsu-development-photon/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Introducing OpenAI Presence",
+        "url": "https://openai.com/index/introducing-openai-presence",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "ビジネス職のAI活用調査を実施。AIエージェント化で生産性が上がったのは54%でチャット層の約3.8倍",
+        "url": "https://aismiley.co.jp/ai_news/ai-agent-productivity-report/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "みずほFG、金融機関向けAI活用基盤高度化の検討を開始。AIエージェント活用拡大に向けNVIDIA技術を活用",
+        "url": "https://aismiley.co.jp/ai_news/mizuho-nvidia-ai-infrastructure/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "AIエージェントの失敗事例4つ！セキュリティ事故と運用トラブルを解説",
+        "url": "https://ainow.ai/2026/07/26/278281/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e5%25a4%25b1%25e6%2595%2597%25e4%25ba%258b%25e4%25be%258b4%25e3%2581%25a4%25ef%25bc%2581%25e3%2582%25bb%25e3%2582%25ad%25e3%2583%25a5%25e3%2583%25aa%25e3%2583%2586%25e3%2582%25a3%25e4%25ba%258b%25e6%2595%2585",
+        "source": "AINOW"
+      },
+      {
+        "title": "開発工数見積もりの「負担が重い」をAIで解消へ　明治安田はどう実現？",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news050.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Evaluating AI Agents: A production blueprint with Strands and AgentCore",
+        "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Detecting silent agent failures with Amazon Bedrock AgentCore optimization",
+        "url": "https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "近畿大、入試にAIの利用認める　情報学部の総合型選抜で",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000221/",
+        "source": "ITmedia AI+"
       },
       {
         "title": "AIにもサプライチェーン管理が必要？　中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
