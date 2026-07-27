@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/06/28",
-    "email_id": "b5870b9c-42b6-4647-89c3-b24d270ba8af",
-    "articles": [
-      {
-        "title": "OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー 米政府と調整、命名は「Sol／Terra／Luna」に刷新",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000134/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "GPT-5.6 Solのプレビュー：次世代モデル",
-        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "「OpenAIはAzureだけ」の時代が終了 「GPT-5.5」「Codex」をAWSで利用するメリットは何か",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/26/news045.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "AIエージェントが仕事を変革する方法",
-        "url": "https://openai.com/index/how-agents-are-transforming-work",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "Amazon Bedrockを活用したAIエージェントで、実用的なヘルスインサイトを見つけるためのセルフサービスAWS Health分析を構築",
-        "url": "https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "VLA（Vision-Language-Action）モデルとは？仕組み・VLMとの違い・主要モデルを解説",
-        "url": "https://aismiley.co.jp/ai_news/vla-vision-language-action/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "OpenAIとBroadcomがLLM最適化推論チップを発表",
-        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "OpenAIからSpaceXまで、なぜ誰もが自社製チップを開発しているのか（そしてNvidiaに圧力をかけているのか）",
-        "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "AIモデル「ミュトス」、米国の一部組織に再提供へ 米政府が許可",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000135/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "トランプ政権、Anthropic Mythosを100以上の米国企業・機関で使用許可",
-        "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "生成AIベンダーの選定で失敗しない7つの評価ポイント！選び方の手順も",
-        "url": "https://ainow.ai/2026/06/24/278201/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2583%2599%25e3%2583%25b3%25e3%2583%2580%25e3%2583%25bc%25e3%2581%25ae%25e9%2581%25b8%25e5%25ae%259a%25e3%2581%25a7%25e5%25a4%25b1%25e6%2595%2597%25e3%2581%2597%25e3%2581%25aa%25e3%2581%25847%25e3%2581%25a4%25e3%2581%25ae%25e8%25a9%2595%25e4%25be%25a1%25e3%2583%259d%25e3%2582%25a4",
-        "source": "AINOW"
-      },
-      {
-        "title": "「AIを使うと他社と似てしまう」課題をどう乗り越える？ 「プロダクトの差別化」の要点",
-        "url": "https://www.itmedia.co.jp/business/articles/2606/26/news076.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "レガシーエンタープライズサービスを変革するためのエージェントオーバーレイ：再構築ではなく改修",
-        "url": "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "NECとJR東日本、「みどりの窓口AI対応サービス」の実現に向け実証実験を実施",
-        "url": "https://aismiley.co.jp/ai_news/nec-jr-midori-ai/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "LINEヤフー、Agent iの機能拡大。画像生成機能やパーソナライズ機能を追加",
-        "url": "https://aismiley.co.jp/ai_news/line-yahoo-agent-i-expansion/",
-        "source": "AIsmiley"
-      }
-    ]
-  },
-  {
     "date": "2026/06/29",
     "email_id": "e6f94139-5aea-45c4-bcd4-0644ab0b8b3e",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "メルカリ、「AI活用の最前線」明かす動画公開　「なぜCTOがCHRO兼CAIOになったのか」など13本",
         "url": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000220/",
         "source": "ITmedia AI+"
+      }
+    ]
+  },
+  {
+    "date": "2026/07/28",
+    "email_id": "53266bca-1773-42d6-8753-145da06f0768",
+    "articles": [
+      {
+        "title": "Codex MCP完全ガイド：基礎知識から実践的な使い方・ツール連携まで徹底解説",
+        "url": "https://aismiley.co.jp/ai_news/codex-mcp-openai-cli/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Claude Opus 5とは？料金・性能をOpus 4.8やFable 5と比較",
+        "url": "https://aismiley.co.jp/ai_news/claude-opus-5/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
+        "url": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Gemini 3.6 Flashとは？3.5からの進化点・特長・料金比較まで徹底解説",
+        "url": "https://aismiley.co.jp/ai_news/gemini-3-6-flash/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Building the enterprise environment for agentic AI",
+        "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "なぜ、Microsoft 365 Copilotは「会社の仕事を理解する」のがうまいのか？",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2607/28/news030.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+        "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/28/news059.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "AIエージェントと共に働くリスクとは？　PwCが説く「実践的ガバナンス」から考察",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2607/27/news049.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "スマホ映像から最短1分で高精細3Dモデル、NECが生成技術を開発",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2607/27/news011.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Muse Videoとは？Meta最新動画生成AIの使い方と競合との比較",
+        "url": "https://aismiley.co.jp/ai_news/what-is-muse-video/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Z世代に聞く次の流行、「AIイラスト」が1位に　「Claude Code」も上位",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/27/news092.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "MIXI、新卒エンジニア向け研修資料＆動画を無料公開　「実践的なAI活用術」を12科目で紹介",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000223/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS",
+        "url": "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/",
+        "source": "AWS AI Blog"
       }
     ]
   }
