@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/07/01",
-    "email_id": "c7f26c7f-f4d9-499f-884a-bf5dec073ca2",
-    "articles": [
-      {
-        "title": "Anthropic、エージェント実行を低コスト化するClaude Sonnet 5を発表",
-        "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "OpenAI、グローバルパートナープログラム「OpenAI Partner Network」を発表。2026年末までに認定コンサルタントを30万人育成",
-        "url": "https://aismiley.co.jp/ai_news/openai-partner-network-consultant/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Claude Code Web版の完全ガイド：ブラウザだけで始めるAI自動コーディング",
-        "url": "https://aismiley.co.jp/ai_news/claude-code-web-anthropic/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Copilot API完全ガイド｜機能・料金・導入手順をわかりやすく解説",
-        "url": "https://aismiley.co.jp/ai_news/copilot-api/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "国産LLM「Sarashina3」登場 高品質データ、独自検証で日本語能力を強化 ソフトバンク傘下",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000143/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "XがMCPサーバーを提供開始、AIツールとの連携を容易に",
-        "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "Amazonが新たな10億ドル規模のFDE組織を立ち上げ、目的特化型エージェントを展開",
-        "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "AWS上でAnthropicの最も高性能なSonnetモデル「Claude Sonnet 5」が利用可能に",
-        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Nova 2 LiteとClaudeを組み合わせてコスト効率の高いドキュメント処理を実現",
-        "url": "https://aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "「ウソだろ」アスクル社長がうなったAI活用 商談準備を2週間→3時間に “担当者のカオス”脱却へ",
-        "url": "https://www.itmedia.co.jp/business/articles/2607/01/news053.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "AIエージェントを人事で活用する方法は？採用や評価の自動化事例と導入手順を解説",
-        "url": "https://ainow.ai/2026/06/30/278215/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e4%25ba%25ba%25e4%25ba%258b%25e3%2581%25a7%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25af%25ef%25bc%259f%25e6%258e%25a1%25e7%2594%25a8%25e3%2582%2584%25e8%25a9%2595",
-        "source": "AINOW"
-      },
-      {
-        "title": "AIエージェント導入を成功させる完全ガイド！手順・費用・活用事例を解説",
-        "url": "https://ainow.ai/2026/06/30/278217/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e5%25b0%258e%25e5%2585%25a5%25e3%2582%2592%25e6%2588%2590%25e5%258a%259f%25e3%2581%2595%25e3%2581%259b%25e3%2582%258b%25e5%25ae%258c%25e5%2585%25a8%25e3%2582%25ac%25e3%2582%25a4%25e3%2583%2589%25ef%25bc%2581%25e6%2589%258b%25e9%25a0%2586",
-        "source": "AINOW"
-      },
-      {
-        "title": "ポケモンカードAIエージェント開発コンテスト「ポケカABC」開催。松尾研・ポケモン・HEROZが共催",
-        "url": "https://aismiley.co.jp/ai_news/matsuo-pokemon-heroz-ai-agent/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "生成AIの請求書、人件費と並べる時代へ 国内5社のAI責任者が語る「トークンマネジメント」の現在地",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/30/news027.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "【Pythonで学ぶデータ分析】母平均のベイズ推定と予測サンプルの作成 ～ 規格外製品の廃棄コストを見積もる",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/01/news008.html",
-        "source": "ITmedia AI+"
-      }
-    ]
-  },
-  {
     "date": "2026/07/02",
     "email_id": "007463ea-f51a-4e94-9d6b-161ce3708647",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "Market surveillance agent with LangGraph and Strands on AgentCore",
         "url": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/",
         "source": "AWS AI Blog"
+      }
+    ]
+  },
+  {
+    "date": "2026/07/31",
+    "email_id": "1ca7d178-b7b0-430c-847c-a00b3b606240",
+    "articles": [
+      {
+        "title": "日立が「SI全工程」をAI化　仕様確定で「最大240倍」効率化のワケ",
+        "url": "https://www.itmedia.co.jp/business/articles/2607/31/news049.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "安川電機、「エージェンティック・ロボットシステム」開発。AIロボットが自律的に作業を実行",
+        "url": "https://aismiley.co.jp/ai_news/yaskawa-ai-robot-system/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "「アイデア出しを抜いた」　生成AIなしで最も不安になる業務といえば？",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/31/news055.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "AIエージェントの選び方！5つの比較軸と失敗パターンを解説",
+        "url": "https://ainow.ai/2026/07/31/278288/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e9%2581%25b8%25e3%2581%25b3%25e6%2596%25b9%25ef%25bc%25815%25e3%2581%25a4%25e3%2581%25ae%25e6%25af%2594%25e8%25bc%2583%25e8%25bb%25b8%25e3%2581%25a8%25e5%25a4%25b1%25e6%2595%2597%25e3%2583%2591%25e3%2582%25bf",
+        "source": "AINOW"
+      },
+      {
+        "title": "AIエージェントとMCPサーバーで自律的なビジネスインサイトを生成",
+        "url": "https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Google、「Gemini」新モデル「3.6 Flash」「3.5 Flash-Lite」「3.5 Flash Cyber」発表",
+        "url": "https://aismiley.co.jp/ai_news/google-gemini-new-models/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Amazon BedrockでのOpenAI GPT-5.6モデル向けに明示的なプロンプトキャッシングを導入",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "日本HPのPCが楽天のAIを搭載、ローカル実行も可能　HP岡戸社長「ハイブリッドAIの重要なマイルストーン」",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000302/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Excel作業を自動化する「Copilot in Excel」がスキルに対応　何ができる？",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news049.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「データ品質に問題あり」から「予測精度95％」へ　Umiosは販売計画をどう自動化した？",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news023.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "OpenAIのAIモデルがテスト環境を逸脱。Hugging Faceのインフラへ不正アクセス",
+        "url": "https://aismiley.co.jp/ai_news/openai-huggingface-incident/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Sakana AI、Fuguオーケストレーションモデルのサイバーセキュリティ特化AI「Fugu-Cyber」を発表",
+        "url": "https://aismiley.co.jp/ai_news/sakana-ai-fugu-cyber-release/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Google、音楽生成AI「Lyria 3.5」発表　ボーカルの表現力を強化、テンポや長さの制御も容易に",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000289/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "学術研究者向けChatGPTの最先端AIモデルを無償提供",
+        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "【インタビュー】全社員が「当たり前に」生成AIを使う会社へ。住友化学が挑む「AIネイティブカンパニー」への道",
+        "url": "https://aismiley.co.jp/ai_news/sumitomo-chem-ai-interview/",
+        "source": "AIsmiley"
       }
     ]
   }
