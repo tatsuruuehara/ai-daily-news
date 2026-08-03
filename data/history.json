@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/07/05",
-    "email_id": "58557ea2-636a-418a-916d-fa7ace30ad7c",
-    "articles": [
-      {
-        "title": "AIエージェントで業務自動化する方法とは？できることや事例を解説",
-        "url": "https://ainow.ai/2026/07/04/278229/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b",
-        "source": "AINOW"
-      },
-      {
-        "title": "「Claude Fable 5」をサブスクの標準機能に――AnthropicのエンジニアがXに投稿 7月8日以降の「早期復活目指す」",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Meta、「Claude Codeと組織改編で爆速開発」のはずが「想定より加速せず」 ザッカーバーグ氏、社内集会で発言",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "「顧客管理システム作って」日本語で指示するだけでシステムが完成する最新AIとは？",
-        "url": "https://kn.itmedia.co.jp/kn/articles/2607/03/news034.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "ソフトバンク、株主総会で新AI戦略を発表。次世代社会インフラ構築でAIの社会実装を推進",
-        "url": "https://aismiley.co.jp/ai_news/softbank-40th-general-meeting-ai/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Anthropic、米政府の輸出規制解除により「Fable 5」と「Mythos 5」の提供を再開",
-        "url": "https://aismiley.co.jp/ai_news/anthropic-fable-5-mythos-5-resume/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "【完全版】Claudeアーティファクト(Artifacts)の使い方・ビジネス活用法・プロンプト例",
-        "url": "https://aismiley.co.jp/ai_news/claude-artifacts-2026/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Anthropic、新モデル「Claude Sonnet 5」発表。「Opus 4.8」に迫る性能を低価格で実現",
-        "url": "https://aismiley.co.jp/ai_news/anthropic-claude-sonnet-5-release/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "OpenAI、初の独自設計AIチップ「Jalapeño」を発表。Broadcomとの共同開発基盤の第1弾",
-        "url": "https://aismiley.co.jp/ai_news/openai-broadcom-jalapeno/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Alibaba reportedly bans employees from using Claude Code",
-        "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "Meta quietly launches vibe-coded gaming app Pocket",
-        "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "Anthropic is discussing a new custom chip with Samsung",
-        "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "Achieving operational excellence with AI",
-        "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-        "source": "MIT Technology Review"
-      },
-      {
-        "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-        "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-        "source": "MIT Technology Review"
-      },
-      {
-        "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)",
-        "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/",
-        "source": "AWS AI Blog"
-      }
-    ]
-  },
-  {
     "date": "2026/07/06",
     "email_id": "a74396d7-de1b-4922-b061-5d4d0a942fbb",
     "articles": [
@@ -2425,6 +2344,87 @@
       {
         "title": "Amazon Bedrockで新しいモデルにプロンプトを移行し最適化する",
         "url": "https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/",
+        "source": "AWS AI Blog"
+      }
+    ]
+  },
+  {
+    "date": "2026/08/04",
+    "email_id": "79c87fc1-c1bd-49e3-94b1-f673ed8bc376",
+    "articles": [
+      {
+        "title": "AI活用を「個人の効率化」で終わらせるな セールスフォース流「4つの組織改革術」",
+        "url": "https://www.itmedia.co.jp/business/articles/2608/04/news027.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「Qwen3.8-Max」登場、オープン化は「来週」 一部「Fable 5」「GPT-5.6 Sol」超えの性能うたう",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000353/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「エンジニアの代替ではなく、できることを増やす」 Devin開発元が見据えるIT外注大国・日本の“伸びしろ”",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000350/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "【レベル14】生成AIを味方に、3D CADを使いこなそう！",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2608/03/news002.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "日立製作所、「Claude Mythos Preview」を用いた重要インフラソフトウェアでのセキュリティ検証効果を発表",
+        "url": "https://aismiley.co.jp/ai_news/hitachi-mythos-verification/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Codex Skillsの使い方とは？SKILL.mdの書き方からおすすめスキル・Claude Code Skillsとの違いまで解説",
+        "url": "https://aismiley.co.jp/ai_news/codex-skills-md/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "住宅ローン比較診断サービス「モゲチェック」、AIエージェント連携向けMCPサーバーを公開",
+        "url": "https://aismiley.co.jp/ai_news/mfs-mogecheck-ai-agent-mcp/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "リアルタイムで応答性の高い音声AIシステムを6ヶ月で構築した方法",
+        "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "UnivéがAI対応の労働力を構築",
+        "url": "https://openai.com/index/unive",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Marc Benioffが支援するスタートアップはAI導入問題をAIで解決できると考えている",
+        "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "The Download: 報酬ハッキングの解説とイランによるサイバー攻撃の疑い",
+        "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "AIエージェントが目標達成のために嘘をついたり不正を行ったりする理由",
+        "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "数週間から数分へ：Formula 1®がAWS上でエージェント型AIをどのように活用し、データ運用を加速させているか",
+        "url": "https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Amazon Bedrock AgentCore Observabilityで本番エージェントを最適化する",
+        "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/",
         "source": "AWS AI Blog"
       }
     ]
