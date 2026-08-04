@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/07/06",
-    "email_id": "a74396d7-de1b-4922-b061-5d4d0a942fbb",
-    "articles": [
-      {
-        "title": "Anthropic、米政府の輸出規制解除により「Fable 5」と「Mythos 5」の提供を再開",
-        "url": "https://aismiley.co.jp/ai_news/anthropic-fable-5-mythos-5-resume/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Anthropic、新モデル「Claude Sonnet 5」発表。「Opus 4.8」に迫る性能を低価格で実現",
-        "url": "https://aismiley.co.jp/ai_news/anthropic-claude-sonnet-5-release/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "【完全版】Claudeアーティファクト(Artifacts)の使い方・ビジネス活用法・プロンプト例",
-        "url": "https://aismiley.co.jp/ai_news/claude-artifacts-2026/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "OpenAI、初の独自設計AIチップ「Jalapeño」を発表。Broadcomとの共同開発基盤の第1弾",
-        "url": "https://aismiley.co.jp/ai_news/openai-broadcom-jalapeno/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Meta、「Claude Codeと組織改編で爆速開発」のはずが「想定より加速せず」　ザッカーバーグ氏、社内集会で発言",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Alibaba、従業員によるClaude Codeの使用を禁止",
-        "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "カクヤス「30年物の泥沼システム」をAIでどう解読？　現場が思いついた“ある考え”",
-        "url": "https://kn.itmedia.co.jp/kn/articles/2607/06/news040.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "AIエージェントで業務効率化する方法！向いている業務の見極め方と事例",
-        "url": "https://ainow.ai/2026/07/04/278232/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e5%258a%25b9%25e7%258e%2587%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2590%2591%25e3%2581%2584%25e3%2581%25a6%25e3%2581%2584%25e3%2582%258b",
-        "source": "AINOW"
-      },
-      {
-        "title": "AIエージェントで業務自動化する方法とは？できることや事例を解説",
-        "url": "https://ainow.ai/2026/07/04/278229/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b",
-        "source": "AINOW"
-      },
-      {
-        "title": "ソフトバンク、株主総会で新AI戦略を発表。次世代社会インフラ構築でAIの社会実装を推進",
-        "url": "https://aismiley.co.jp/ai_news/softbank-40th-general-meeting-ai/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "静岡県藤枝市、全国初となる国産生成AIの公共活用実証実施。ソフトバンクと共同で窓口対応での有用性検証",
-        "url": "https://aismiley.co.jp/ai_news/fujieda-city-softbank-ai-demo/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "ヒューマンリソシア、派遣スタッフへの生成AI研修開始。全3回の実践型オリジナル研修",
-        "url": "https://aismiley.co.jp/ai_news/human-resocia-ai-original-training/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "3万円で「Yahoo!ニュース」にPR掲載　プレスリリースをAIで「ニュース風記事」に",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/03/news116.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Metaがひっそりと「vibe-coded」ゲームアプリ「Pocket」をリリース",
-        "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "AmazonがMechanical Turkの新規顧客受け入れを停止",
-        "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-        "source": "TechCrunch AI"
-      }
-    ]
-  },
-  {
     "date": "2026/07/07",
     "email_id": "040e22f3-f15a-4af4-a7de-0b1ca03b3007",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "Amazon Bedrock AgentCore Observabilityで本番エージェントを最適化する",
         "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/",
         "source": "AWS AI Blog"
+      }
+    ]
+  },
+  {
+    "date": "2026/08/05",
+    "email_id": "1521606f-6bd8-45d5-a51a-6d5cdd59391f",
+    "articles": [
+      {
+        "title": "PC操作を録画→「Copilot」で作業を代理可能に Microsoftがアプリを無料公開 主にmacOS向け、Windows対応も",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "日立製作所、システム開発の全工程にAIを適用する基盤「Agentic AI Integration Platform」開発",
+        "url": "https://aismiley.co.jp/ai_news/hitachi-agentic-ai-integration/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "AI活用を「個人の効率化」で終わらせるな セールスフォース流「4つの組織改革術」",
+        "url": "https://www.itmedia.co.jp/business/articles/2608/04/news027.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "AIエージェントフレームワーク比較12選！失敗しない選び方を解説",
+        "url": "https://ainow.ai/2026/08/05/278294/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2583%2595%25e3%2583%25ac%25e3%2583%25bc%25e3%2583%25a0%25e3%2583%25af%25e3%2583%25bc%25e3%2582%25af%25e6%25af%2594%25e8%25bc%258312%25e9%2581%25b8%25ef%25bc%2581%25e5%25a4%25b1%25e6%2595%2597%25e3%2581%2597%25e3%2581%25aa",
+        "source": "AINOW"
+      },
+      {
+        "title": "AIエージェントの作り方は3パターン！初心者向け実践5ステップを解説",
+        "url": "https://ainow.ai/2026/08/02/278291/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e4%25bd%259c%25e3%2582%258a%25e6%2596%25b9%25e3%2581%25af3%25e3%2583%2591%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e5%2590%2591%25e3%2581%2591",
+        "source": "AINOW"
+      },
+      {
+        "title": "EU、AIの透明性義務の適用を開始 生成コンテンツにラベルとマーク義務、違反に最大1500万ユーロ",
+        "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000366/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Amazon Bedrockにファウンデーションモデルのグラウンディング機能としてWeb検索を導入",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Amazon Bedrock AgentCoreによる自動化されたWebインサイト抽出",
+        "url": "https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "数週間から数分へ：Formula 1®がAWS上のエージェントAIでデータ運用を加速する方法",
+        "url": "https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "塩野義製薬、生成AIの正答率を50→90％に 膨大な機密データをどう最適化した？",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2608/04/news033.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "わずか半年で応答性の高い音声AIのリアルタイムシステムを構築する方法",
+        "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "オープンウェイトAIモデルがフロンティアに追いつく中、安全性ギャップは残る。",
+        "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "AnthropicがAIクラウドスタートアップVoltaと100億ドルの契約を締結",
+        "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Nvidiaは手を抜かない：オープンAI業界団体結成から1週間で、すでに進捗を見せる",
+        "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "自治体の78.2%が生成AI活用に着手。活用の課題は「職員のリテラシー不足」が82.7%で最多",
+        "url": "https://aismiley.co.jp/ai_news/local-government-genai-survey/",
+        "source": "AIsmiley"
       }
     ]
   }
