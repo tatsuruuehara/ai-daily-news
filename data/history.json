@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/07/07",
-    "email_id": "040e22f3-f15a-4af4-a7de-0b1ca03b3007",
-    "articles": [
-      {
-        "title": "インフキュリオンの「Winvoice」がMCP対応。請求書カード払いサービスとして国内初",
-        "url": "https://aismiley.co.jp/ai_news/infcurion-winvoice-mcp-launch/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "AIコーディングの「ループ」4種類を完全入門 Anthropic公式が分かりやすく整理して解説",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news014.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Gemini 3.5 Flashとは？性能・料金・APIの使い方を徹底解説",
-        "url": "https://aismiley.co.jp/ai_news/gemini-3-5-flash-2026/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "1年でAfter AIの組織に生まれ変わったソラコム、「トークン資本」の安全な器へ",
-        "url": "https://monoist.itmedia.co.jp/mn/articles/2607/07/news073.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "「250万超AIエージェント作成」の裏で同時多発する課題を回し切ったIT部門の運用術",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news007.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "AIエージェントで業務効率化する方法！向いている業務の見極め方と事例",
-        "url": "https://ainow.ai/2026/07/04/278232/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e5%258a%25b9%25e7%258e%2587%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2590%2591%25e3%2581%2584%25e3%2581%25a6%25e3%2581%2584%25e3%2582%258b",
-        "source": "AINOW"
-      },
-      {
-        "title": "AIエージェントのワークフロー自動化とは？仕組みと導入手順を解説",
-        "url": "https://ainow.ai/2026/07/07/278237/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%25af%25e3%2583%25bc%25e3%2582%25af%25e3%2583%2595%25e3%2583%25ad%25e3%2583%25bc%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf",
-        "source": "AINOW"
-      },
-      {
-        "title": "AIエージェントで業務自動化する方法とは？できることや事例を解説",
-        "url": "https://ainow.ai/2026/07/04/278229/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b",
-        "source": "AINOW"
-      },
-      {
-        "title": "AI推進にブレーキ？ AWS「コスト抑制の動きある」 “トークン消費問題”への有効策は",
-        "url": "https://www.itmedia.co.jp/business/articles/2607/06/news072.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "「AIはもう十分賢い」 活用のボトルネックは「モデル性能」から「評価」へ 米データ基盤開発企業のAI研究者に聞く",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/06/2000000160/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "パナソニック、業界初AI料理パートナー「Bistroアシスタント」の自動調理鍋への対応を開始",
-        "url": "https://aismiley.co.jp/ai_news/panasonic-bistro-assistant/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "AVITAのAIロープレ「アバトレ」、日本調剤の薬局全国768店舗に導入。店舗従業員の接客トレーニングに活用",
-        "url": "https://aismiley.co.jp/ai_news/aivita-nihon-chouzai-ai-rollplay/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Hugging FaceからAmazon SageMaker Studioへワンクリックで",
-        "url": "https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Amazon BedrockでMiniMaxモデルを実行",
-        "url": "https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "ソフトバンク、株主総会で新AI戦略を発表。次世代社会インフラ構築でAIの社会実装を推進",
-        "url": "https://aismiley.co.jp/ai_news/softbank-40th-general-meeting-ai/",
-        "source": "AIsmiley"
-      }
-    ]
-  },
-  {
     "date": "2026/07/08",
     "email_id": "29b76c9b-861a-4df5-9799-566c68f1b279",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "自治体の78.2%が生成AI活用に着手。活用の課題は「職員のリテラシー不足」が82.7%で最多",
         "url": "https://aismiley.co.jp/ai_news/local-government-genai-survey/",
         "source": "AIsmiley"
+      }
+    ]
+  },
+  {
+    "date": "2026/08/06",
+    "email_id": "68956f56-345a-42b2-9f0d-5117bec56fb2",
+    "articles": [
+      {
+        "title": "OpenAIの次期主要モデル「Astra」、数学と理論計算機科学の未解決問題を解決・進展",
+        "url": "https://aismiley.co.jp/ai_news/openai-astra-math-proof/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "AnthropicがAIチップ設計チームを雇用",
+        "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Google DeepMindが描く「AGIの次」　超知能に至る4つの経路と6つのボトルネック",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/06/news015.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "ジェフ・ディーンらトップAI研究者がGoogleを退社し、自身のスタートアップを立ち上げへ",
+        "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Google DeepMindのデミス・ハサビスCEOが退任して会長に　チーフサイエンティストのジェフ・ディーン氏は独立へ",
+        "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000407/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "日立製作所、システム開発の全工程にAIを適用する基盤「Agentic AI Integration Platform」開発",
+        "url": "https://aismiley.co.jp/ai_news/hitachi-agentic-ai-integration/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "NVIDIAら30社超、AIの安全性向上とセキュリティツール開発を推進する「Open Secure AI Alliance」設立",
+        "url": "https://aismiley.co.jp/ai_news/nvidia-open-secure-ai-alliance/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "エージェント型AIは「過度な期待」のピークへ　ガートナー、日本におけるデジタルワークプレースのハイプサイクルを発表",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000393/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "AIエージェントフレームワーク比較12選！失敗しない選び方を解説",
+        "url": "https://ainow.ai/2026/08/05/278294/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2583%2595%25e3%2583%25ac%25e3%2583%25bc%25e3%2583%25a0%25e3%2583%25af%25e3%2583%25bc%25e3%2582%25af%25e6%25af%2594%25e8%25bc%258312%25e9%2581%25b8%25ef%25bc%2581%25e5%25a4%25b1%25e6%2595%2597%25e3%2581%2597%25e3%2581%25aa",
+        "source": "AINOW"
+      },
+      {
+        "title": "AIエージェントが目標達成のために嘘をついたり不正行為をする理由",
+        "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "英AI研究所、評価中のAIが実在の開発者を標的に──偽アカウント使い悪意あるコードの承認迫る",
+        "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000391/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Amazon Bedrock AgentCoreハーネスを使用してn8nで本番環境のAIエージェントを実行",
+        "url": "https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "LendingTreeがAmazon Bedrockでマルチエージェント型住宅ローンアシスタントを構築する方法",
+        "url": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "スニフアウト、RAG向けデータ変換サービス「RAG Ready Converter」を正式リリース。アップデートにより変換精度の向上やセキュリティ強化を実現",
+        "url": "https://aismiley.co.jp/ai_news/rag-ready-converter-release/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "総務業務でAIエージェントを活用する方法7選！企業事例と導入手順を解説",
+        "url": "https://ainow.ai/2026/08/06/278298/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%25b7%258f%25e5%258b%2599%25e6%25a5%25ad%25e5%258b%2599%25e3%2581%25a7ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%25957%25e9%2581%25b8%25ef%25bc%2581%25e4%25bc%2581",
+        "source": "AINOW"
       }
     ]
   }
