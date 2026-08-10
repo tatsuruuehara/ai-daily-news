@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/07/12",
-    "email_id": "5eed28b6-4895-47d5-936e-c3602a79bbb3",
-    "articles": [
-      {
-        "title": "OpenAI「GPT-5.6」一般公開　最上位モデルは「コスト半分で一部Fable 5超え」うたう",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000183/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-        "url": "https://openai.com/index/gpt-5-6",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "ChatGPT is now a partner for your most ambitious work",
-        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "ChatGPT Workとは？機能・料金・使い方、Codexとの違いを徹底解説",
-        "url": "https://aismiley.co.jp/ai_news/chatgpt-work-guide/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "「まるで人間」　OpenAIの新モデル「GPT-Live」のトーク力が話題　間を空けずに考えながら会話できる",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Introducing GPT-Live",
-        "url": "https://openai.com/index/introducing-gpt-live",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "M365 CopilotにOpenAI最新モデル「GPT-5.6」追加　複雑な作業を「より効率的に処理」",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000184/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-        "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "“どのUIが使いやすいか”で選ぶ時代はもう終わり　ガートナー、「SaaSの終焉」で独自見解を披露",
-        "url": "https://www.itmedia.co.jp/enterprise/articles/2607/10/news054.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "AIエージェントで何ができる？できること・活用事例を解説",
-        "url": "https://ainow.ai/2026/07/12/278246/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25bd%2595%25e3%2581%258c%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e3%2581%2593%25e3%2581%25a8%25e3%2583%25bb%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b",
-        "source": "AINOW"
-      },
-      {
-        "title": "AIエージェントの活用事例12選！業務別・業界別に導入企業の取り組みを解説",
-        "url": "https://ainow.ai/2026/07/12/278249/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b%25e4%25be%258b12%25e9%2581%25b8%25ef%25bc%2581%25e6%25a5%25ad%25e5%258b%2599%25e5%2588%25a5%25e3%2583%25bb%25e6%25a5%25ad%25e7%2595%258c%25e5%2588%25a5%25e3%2581%25ab",
-        "source": "AINOW"
-      },
-      {
-        "title": "Introducing Claude apps gateway for AWS",
-        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "An AI agent startup just let its agent run its $100M fundraise",
-        "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "Grok 4.5とは？性能・料金・使い方・他社モデルとの違いを解説",
-        "url": "https://aismiley.co.jp/ai_news/grok-4-5-guide/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "テスラ車内で「Grok」と会話、日本でも展開へ　ナビ設定やルート確認を音声で",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
-        "source": "ITmedia AI+"
-      }
-    ]
-  },
-  {
     "date": "2026/07/13",
     "email_id": "52d8c8e8-e3f2-4cd8-a43f-27b43df212c1",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
         "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
         "source": "TechCrunch AI"
+      }
+    ]
+  },
+  {
+    "date": "2026/08/11",
+    "email_id": "071b3743-3172-484a-8c94-e132d462b7fe",
+    "articles": [
+      {
+        "title": "AIエージェントの「Skills」「MCP」などをまとめる標準規格登場　CodexやVS Codeなど対応、Claudeは未対応",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Salesforce「サポート部門9000→5000人」は人員削減ではない　AI時代に生き残る“配置転換”",
+        "url": "https://www.itmedia.co.jp/business/articles/2608/10/news028.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Tech業界で話題沸騰：Claudeエージェントがジムのシステムをハッキング",
+        "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "AnthropicがClaude Codeの自動モードをデフォルトでオンに設定",
+        "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "OpenAIがプレゼンテーションスタートアップNextSlideを買収",
+        "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "nOpsがAmazon Bedrock AgentCoreでFinOpsエージェントを75%高速化",
+        "url": "https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "NEC、部門長から社員まで「全員AI」の新組織",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000484/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "【8/26開催】「導入しただけ」で終わらせない！現場を変えるAI活用ウェビナー",
+        "url": "https://aismiley.co.jp/ai_news/20260826webinar/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "CAIO（最高AI責任者）とは？役割や必須スキル、日本企業の設置事例を徹底解説",
+        "url": "https://aismiley.co.jp/ai_news/caio-chief-ai-officer/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "【2026年企業のAI導入・活用に関する調査】AIを組織として導入できている企業は26.8％。AI導入企業の68.0％が、自社でのAI導入・活用は「上手くいっている」と回答",
+        "url": "https://aismiley.co.jp/ai_news/ai-adoption-survey-2026/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "GPT-5.6 Solでファイナンス業務の効率化を実現",
+        "url": "https://openai.com/index/model-ml",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "サイバー防御の機会が狭まる中でのDaybreakの拡大",
+        "url": "https://openai.com/index/building-an-ai-native-finance-function",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "ChatGPT Businessにプレミアムシートが登場",
+        "url": "https://openai.com/index/premium-seats-chatgpt-business",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "新たなAIツールでマーケティングを進化させる",
+        "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+        "source": "Google AI Blog"
+      },
+      {
+        "title": "Amazon EKSでインタラクティブなIDEをSageMaker AIで実行し、AIワークフローを強化",
+        "url": "https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/",
+        "source": "AWS AI Blog"
       }
     ]
   }
