@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/07/13",
-    "email_id": "52d8c8e8-e3f2-4cd8-a43f-27b43df212c1",
-    "articles": [
-      {
-        "title": "OpenAI「GPT-5.6」一般公開 最上位モデルは「コスト半分で一部Fable 5超え」うたう",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000183/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-        "url": "https://openai.com/index/gpt-5-6",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "ChatGPT is now a partner for your most ambitious work",
-        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "ChatGPT Workとは？機能・料金・使い方、Codexとの違いを徹底解説",
-        "url": "https://aismiley.co.jp/ai_news/chatgpt-work-guide/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "「まるで人間」 OpenAIの新モデル「GPT-Live」のトーク力が話題 間を空けずに考えながら会話できる",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "M365 CopilotにOpenAI最新モデル「GPT-5.6」追加 複雑な作業を「より効率的に処理」",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000184/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-        "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "“どのUIが使いやすいか”で選ぶ時代はもう終わり ガートナー、「SaaSの終焉」で独自見解を披露",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "AIエージェントで何ができる？できること・活用事例を解説",
-        "url": "https://ainow.ai/2026/07/12/278246/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25bd%2595%25e3%2581%258c%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e3%2581%2593%25e3%2581%25a8%25e3%2583%25bb%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b",
-        "source": "AINOW"
-      },
-      {
-        "title": "AIエージェントの活用事例12選！業務別・業界別に導入企業の取り組みを解説",
-        "url": "https://ainow.ai/2026/07/12/278249/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b%25e4%25be%258b12%25e9%2581%25b8%25ef%25bc%2581%25e6%25a5%25ad%25e5%258b%2599%25e5%2588%25a5%25e3%2583%25bb%25e6%25a5%25ad%25e7%2595%258c%25e5%2588%25a5%25e3%2581%25ab",
-        "source": "AINOW"
-      },
-      {
-        "title": "MCP tool design: Practical approaches and tradeoffs",
-        "url": "https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "An AI agent startup just let its agent run its $100M fundraise",
-        "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "テスラ車内で「Grok」と会話、日本でも展開へ ナビ設定やルート確認を音声で",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Grok 4.5とは？性能・料金・使い方・他社モデルとの違いを解説",
-        "url": "https://aismiley.co.jp/ai_news/grok-4-5-guide/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Claude、利用制限を全リセット 競合「GPT-5.6」公開と同日……OpenAI幹部「ビビってるね」",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
-        "source": "ITmedia AI+"
-      }
-    ]
-  },
-  {
     "date": "2026/07/14",
     "email_id": "df3f72c3-8a56-4e5e-89a7-9f198fef5ee0",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "Amazon EKSでインタラクティブなIDEをSageMaker AIで実行し、AIワークフローを強化",
         "url": "https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/",
         "source": "AWS AI Blog"
+      }
+    ]
+  },
+  {
+    "date": "2026/08/12",
+    "email_id": "5633793c-02e1-4cf0-89ed-89d0ac6024d4",
+    "articles": [
+      {
+        "title": "AIエージェントの「Skills」「MCP」などをまとめる標準規格登場 CodexやVS Codeなど対応、Claudeは未対応",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Meta、ローカル動作に特化したオープンモデル「Muse Glimmer」公開 Apache 2.0で提供",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/11/2000000493/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "OpenAI、サイバー防御「Daybreak」を赤青2階層に 特化型「GPT-5.6-Cyber」投入",
+        "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000496/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Cyber Defense Windowが狭まる中でのDaybreakの拡張",
+        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "OpenAIとAWSでサイバー防御を加速：Daybreak Red & Daybreak BlueがAmazon Bedrockで利用可能に",
+        "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "nOpsがAmazon Bedrock AgentCoreでFinOpsエージェントの出荷を75%高速化",
+        "url": "https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "エンタープライズワークロード向けAWS用Anthropic Claudeアプリゲートウェイのデプロイ",
+        "url": "https://aws.amazon.com/blogs/machine-learning/deploying-anthropic-claude-apps-gateway-for-aws-for-enterprise-workloads/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "General Catalystが2ヶ月目のRiver AIに11億ドルを主導",
+        "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "AIエージェントの製造業活用を7工程別に解説！事例8選と導入手順",
+        "url": "https://ainow.ai/2026/08/12/278305/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e8%25a3%25bd%25e9%2580%25a0%25e6%25a5%25ad%25e6%25b4%25bb%25e7%2594%25a8%25e3%2582%25927%25e5%25b7%25a5%25e7%25a8%258b%25e5%2588%25a5%25e3%2581%25ab%25e8%25a7%25a3%25e8%25aa%25ac%25ef%25bc%2581%25e4%25ba%258b",
+        "source": "AINOW"
+      },
+      {
+        "title": "NEC、部門長から社員まで「全員AI」の新組織",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000484/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「Apex人材が少ない」 Salesforce導入企業の約9割で「属人化」が課題に",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/10/news043.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "ZapierがChatGPT Workで主要マーケティングプロセスを刷新",
+        "url": "https://openai.com/index/zapier",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Virgin AtlanticがChatGPT Workで顧客体験を向上",
+        "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "AIネイティブな財務機能を構築して学んだこと",
+        "url": "https://openai.com/index/building-an-ai-native-finance-function",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Model MLがGPT-5.6 Solで財務業務をより効率的に完了",
+        "url": "https://openai.com/index/model-ml",
+        "source": "OpenAI Blog"
       }
     ]
   }
