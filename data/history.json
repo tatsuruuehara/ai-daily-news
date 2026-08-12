@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/07/14",
-    "email_id": "df3f72c3-8a56-4e5e-89a7-9f198fef5ee0",
-    "articles": [
-      {
-        "title": "OpenAI、新世代音声モデル「GPT-Live」公開。全二重アーキテクチャ搭載で自然な音声対話を実現",
-        "url": "https://aismiley.co.jp/ai_news/openai-gpt-live-release/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "GPT-Liveとは？OpenAI最新音声モデルの仕組み・使い方・料金を解説",
-        "url": "https://aismiley.co.jp/ai_news/what-is-gpt-live/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
-        "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Claude、利用制限を全リセット　競合「GPT-5.6」公開と同日……OpenAI幹部「ビビってるね」",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "「ChatGPT Work」「Codex」の5時間制限枠を一時解除　「GPT-5.6 Sol」の処理効率も改良へ",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000186/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "ChatGPT Workとは？機能・料金・使い方、Codexとの違いを徹底解説",
-        "url": "https://aismiley.co.jp/ai_news/chatgpt-work-guide/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "エージェントによる業務自動化をどう実現？　「Microsoft Build 2026」で発表された多数の新技術",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/13/news034.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "AIエージェントの活用事例12選！業務別・業界別に導入企業の取り組みを解説",
-        "url": "https://ainow.ai/2026/07/12/278249/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b%25e4%25be%258b12%25e9%2581%25b8%25ef%25bc%2581%25e6%25a5%25ad%25e5%258b%2599%25e5%2588%25a5%25e3%2583%25bb%25e6%25a5%25ad%25e7%2595%258c%25e5%2588%25a5%25e3%2581%25ab",
-        "source": "AINOW"
-      },
-      {
-        "title": "AIエージェントで何ができる？できること・活用事例を解説",
-        "url": "https://ainow.ai/2026/07/12/278246/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25bd%2595%25e3%2581%258c%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e3%2581%2593%25e3%2581%25a8%25e3%2583%25bb%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b",
-        "source": "AINOW"
-      },
-      {
-        "title": "Scaling agentic workflows with native case management in Amazon Quick Automate",
-        "url": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "“純国産の政府AI”稼働へ　NTTらのモデル採用　「先陣を切る」――松本デジ相が語った意欲",
-        "url": "https://www.itmedia.co.jp/business/articles/2607/14/news034.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "アニメ特化動画生成AI「AnimeGen」無償公開、商用利用も可　国内AIベンチャーAIdeaLab",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000187/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "ぐるなび、AIアプリ「UMAME!」新機能を提供開始。今の気分から最適なお店を瞬時に提案",
-        "url": "https://aismiley.co.jp/ai_news/gnavi-umame-ai-agent-release/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "ChatGPTでスライド作成する方法とプロンプトのコツを徹底解説",
-        "url": "https://aismiley.co.jp/ai_news/chatgpt-create-slide-presentations/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "ChatGPTで写真加工・イラスト生成のやり方とプロンプトを解説",
-        "url": "https://aismiley.co.jp/ai_news/chatgpt-photo-illustration-explanation/",
-        "source": "AIsmiley"
-      }
-    ]
-  },
-  {
     "date": "2026/07/15",
     "email_id": "07af0c03-6a19-41f4-bb30-a78d846f94d6",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "Model MLがGPT-5.6 Solで財務業務をより効率的に完了",
         "url": "https://openai.com/index/model-ml",
         "source": "OpenAI Blog"
+      }
+    ]
+  },
+  {
+    "date": "2026/08/13",
+    "email_id": "5ac2b4b3-c31c-4ace-affd-2acc30e686d5",
+    "articles": [
+      {
+        "title": "SpaceXAI、「Grok 4.6」を発表 総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
+        "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "メルカリが明かす「Claude Code全社展開」「シャドーAI対策」を支える仕組み",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news002.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "SpaceXAI、AIエージェント「Grok Bot」発表 クラウド環境で常時稼働、GrokやCursorの有料ユーザー向けに",
+        "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000506/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "24時間働く“AI同僚”「Grok Bot」公開 業務アプリにログインして操作、「仕事を任せられる」",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000505/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "ChatGPTデスクトップアプリにLinux版 「お待たせ。MacBookはキャンセルしていいよ」",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000504/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "シャドーAIとは？企業が知るべき6つのリスクと5つの対策",
+        "url": "https://aismiley.co.jp/ai_news/what-is-shadow-ai/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "From assistance to execution: How enterprises put AI to work",
+        "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+        "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Scaling AI agents with trustworthy data",
+        "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+        "source": "MIT Technology Review"
+      },
+      {
+        "title": "How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS",
+        "url": "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock",
+        "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "How Pixieset achieved 35% AI feature adoption by solving the right problem with Amazon Bedrock",
+        "url": "https://aws.amazon.com/blogs/machine-learning/how-pixieset-achieved-35-ai-feature-adoption-by-solving-the-right-problem-with-amazon-bedrock/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "First Orion accelerates QA automation using Amazon Nova Act",
+        "url": "https://aws.amazon.com/blogs/machine-learning/first-orion-accelerates-qa-automation-using-amazon-nova-act/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Deploying Anthropic Claude apps gateway for AWS for enterprise workloads",
+        "url": "https://aws.amazon.com/blogs/machine-learning/deploying-anthropic-claude-apps-gateway-for-aws-for-enterprise-workloads/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "AI agent hacks gym to get its user a spot in pilates class",
+        "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology"
       }
     ]
   }
