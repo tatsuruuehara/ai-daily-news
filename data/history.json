@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/07/15",
-    "email_id": "07af0c03-6a19-41f4-bb30-a78d846f94d6",
-    "articles": [
-      {
-        "title": "AIエージェントの活用事例12選！業務別・業界別に導入企業の取り組みを解説",
-        "url": "https://ainow.ai/2026/07/12/278249/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b%25e4%25be%258b12%25e9%2581%25b8%25ef%25bc%2581%25e6%25a5%25ad%25e5%258b%2599%25e5%2588%25a5%25e3%2583%25bb%25e6%25a5%25ad%25e7%2595%258c%25e5%2588%25a5%25e3%2581%25ab",
-        "source": "AINOW"
-      },
-      {
-        "title": "「RPA負債」をこれで解消 言葉で指示するだけでPC作業を自動化する最新AI",
-        "url": "https://kn.itmedia.co.jp/kn/articles/2607/15/news021.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "ユナイテッドアローズ「売れた理由が分からない」 爆速開発の独自AIでどう解消？",
-        "url": "https://kn.itmedia.co.jp/kn/articles/2607/15/news011.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "富士通がNVIDIA「Rubin」対応の国産AIサーバを今秋製造へ ソブリン需要に対応",
-        "url": "https://monoist.itmedia.co.jp/mn/articles/2607/15/news045.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "AIが「ホームディレクトリ全削除」 重要データ消失で相次ぐ悲劇",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/14/news031.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Dropbox、Claude連携スタート ChatGPT、Geminiに続き……「AI共通のコンテンツ基盤」に",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/14/2000000190/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Cloverse、アパレル特化型AI「Clovia」提供開始。撮影・プロンプト入力不要でEC着用画像生成、制作時間最大95%削減",
-        "url": "https://aismiley.co.jp/ai_news/cloverse-start-offering-clovia/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "SpaceXAI、最新モデル「Grok 4.5」を提供開始。コーディング能力とエージェントタスクの性能を強化",
-        "url": "https://aismiley.co.jp/ai_news/spacexai-grok-4-5-release/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "OpenAI、新世代音声モデル「GPT-Live」公開。全二重アーキテクチャ搭載で自然な音声対話を実現",
-        "url": "https://aismiley.co.jp/ai_news/openai-gpt-live-release/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "エージェント時代におけるAI投資の管理方法",
-        "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "OpenAIの新しい主力モデルがファイルを自動削除していると、人々は警告し続けている",
-        "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "Apple、iOS 27パブリックベータで新しいSiri AIを一般公開",
-        "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "DeepMindのCEO、最先端AIを規制する独立標準機関の設立を呼びかけ",
-        "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "The Download: Claudeの内部構造とワールドモデルの未来",
-        "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-        "source": "MIT Technology Review"
-      },
-      {
-        "title": "OpenAI GPT-5.6 Sol, Terra, and LunaがAmazon Bedrockで一般提供開始",
-        "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
-        "source": "AWS AI Blog"
-      }
-    ]
-  },
-  {
     "date": "2026/07/16",
     "email_id": "bca933eb-bab3-418b-962d-f64865914534",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "AI agent hacks gym to get its user a spot in pilates class",
         "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Technology"
+      }
+    ]
+  },
+  {
+    "date": "2026/08/14",
+    "email_id": "faea99bf-fb7a-4d21-b09a-03a7fc7d98e7",
+    "articles": [
+      {
+        "title": "Google、「Gemini 3.7 Flash」公開　年内は半額の導入価格",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000534/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「Sakana Fugu」が無料で試せるように　チャットAIをアップデート、Sakana?AI",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000524/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "GPT-5.6の開発者向けガイド",
+        "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Ultrafastモードのプレビュー：GPT-5.6 Solが最大14倍の速度で動作",
+        "url": "https://openai.com/index/previewing-ultrafast",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "OpenAIが「Ultrafast」を発表、GPT-5.6 Solを14倍の速度で動作させる新モード",
+        "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "IBM、OpenAIと提携し企業向けAI推進を強化",
+        "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "AgentCore ObservabilityでオンプレミスおよびマルチクラウドのAIエージェントを監視",
+        "url": "https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Amazon Bedrock AgentCore Browser ToolでレガシーWebアプリケーションを自動化",
+        "url": "https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Amazon Bedrock AgentCoreでM&Aデューデリジェンスを加速",
+        "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Microsoft 365向けAmazon Quick：仕事場でエージェントAIを活用",
+        "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "OpenAIとAWSでサイバー防御を加速：Daybreak Red & Daybreak BlueがAmazon Bedrockで利用可能に",
+        "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "AIエージェントのマーケティング活用10選！企業事例・導入手順を解説",
+        "url": "https://ainow.ai/2026/08/13/278308/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%259e%25e3%2583%25bc%25e3%2582%25b1%25e3%2583%2586%25e3%2582%25a3%25e3%2583%25b3%25e3%2582%25b0%25e6%25b4%25bb%25e7%2594%25a810%25e9%2581%25b8%25ef%25bc%2581%25e4%25bc%2581%25e6%25a5%25ad%25e4%25ba%258b",
+        "source": "AINOW"
+      },
+      {
+        "title": "AIエージェントの製造業活用を7工程別に解説！事例8選と導入手順",
+        "url": "https://ainow.ai/2026/08/12/278305/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e8%25a3%25bd%25e9%2580%25a0%25e6%25a5%25ad%25e6%25b4%25bb%25e7%2594%25a8%25e3%2582%25927%25e5%25b7%25a5%25e7%25a8%258b%25e5%2588%25a5%25e3%2581%25ab%25e8%25a7%25a3%25e8%25aa%25ac%25ef%25bc%2581%25e4%25ba%258b",
+        "source": "AINOW"
+      },
+      {
+        "title": "“梅干し職人”のためツール自作　老舗漬物店のClaude活用、「チャット+コピペ」で成果を出せたワケ",
+        "url": "https://www.itmedia.co.jp/business/articles/2608/14/news053.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "シャドーAIとは？企業が知るべき6つのリスクと5つの対策",
+        "url": "https://aismiley.co.jp/ai_news/what-is-shadow-ai/",
+        "source": "AIsmiley"
       }
     ]
   }
