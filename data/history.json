@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/07/16",
-    "email_id": "bca933eb-bab3-418b-962d-f64865914534",
-    "articles": [
-      {
-        "title": "Anthropic、米K-12教員向け「Claude for Teachers」無料提供　「Claude Code」や「Cowork」も含む",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000193/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "SpaceXAI、最新モデル「Grok 4.5」を提供開始。コーディング能力とエージェントタスクの性能を強化",
-        "url": "https://aismiley.co.jp/ai_news/spacexai-grok-4-5-release/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "「RPA負債」をこれで解消　言葉で指示するだけでPC作業を自動化する最新AI",
-        "url": "https://kn.itmedia.co.jp/kn/articles/2607/15/news021.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "日立ヴァンタラ、AIプラットフォーム「Hitachi iQ」強化。AIエージェントの開発から運用まで支援",
-        "url": "https://aismiley.co.jp/ai_news/hitachi-iq-studio-launch/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers",
-        "url": "https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
-        "url": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "OpenAI、新世代音声モデル「GPT-Live」公開。全二重アーキテクチャ搭載で自然な音声対話を実現",
-        "url": "https://aismiley.co.jp/ai_news/openai-gpt-live-release/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "「GPT-5.6」の好きな部分をXに投稿→100ドル分のクレジットがもらえるキャンペーン　先着1万人限定",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000195/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
-        "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "ゼロから分かる「Claude」の教科書　ChatGPTと比べて分かった強みとは？",
-        "url": "https://kn.itmedia.co.jp/kn/articles/2607/16/news031.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "NEC、Anthropic協業による「NEC AIインサイトレポーティングサービス」提供開始。商品企画や販促プラン作成を自動化",
-        "url": "https://aismiley.co.jp/ai_news/nec-ai-insight-reporting-service/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "GitHub Copilot CLIとは？インストール・使い方・料金を解説",
-        "url": "https://aismiley.co.jp/ai_news/github-copilot-cli-ai-agent/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "How to manage AI investments in the agentic era",
-        "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "AIエージェントのコスト、どこに「消えて」いる？　Google Cloud調査で浮上した“クラウド利用の盲点”",
-        "url": "https://www.itmedia.co.jp/enterprise/articles/2607/14/news039.html",
-        "source": "ITmedia AI+"
-      }
-    ]
-  },
-  {
     "date": "2026/07/17",
     "email_id": "03c743cd-f99f-4d86-9388-9a987c621b75",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "シャドーAIとは？企業が知るべき6つのリスクと5つの対策",
         "url": "https://aismiley.co.jp/ai_news/what-is-shadow-ai/",
         "source": "AIsmiley"
+      }
+    ]
+  },
+  {
+    "date": "2026/08/15",
+    "email_id": "b733a832-fd28-4e66-a3f1-a686c81b9629",
+    "articles": [
+      {
+        "title": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に Mac版デスクトップアプリで提供",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "GPT-5.6 Solの「超高速モード」ついに実装 「品質損なわず14倍高速」うたう",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000545/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開",
+        "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000534/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "The builder’s guide to GPT‑5.6",
+        "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "url": "https://openai.com/index/previewing-ultrafast",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+        "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "AIエージェントのマーケティング活用10選！企業事例・導入手順を解説",
+        "url": "https://ainow.ai/2026/08/13/278308/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%259e%25e3%2583%25bc%25e3%2582%25b1%25e3%2583%2586%25e3%2582%25a3%25e3%2583%25b3%25e3%2582%25b0%25e6%25b4%25bb%25e7%2594%25a810%25e9%2581%25b8%25ef%25bc%2581%25e4%25bc%2581%25e6%25a5%25ad%25e4%25ba%258b",
+        "source": "AINOW"
+      },
+      {
+        "title": "AIエージェントの製造業活用を7工程別に解説！事例8選と導入手順",
+        "url": "https://ainow.ai/2026/08/12/278305/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e8%25a3%25bd%25e9%2580%25a0%25e6%25a5%25ad%25e6%25b4%25bb%25e7%2594%25a8%25e3%2582%25927%25e5%25b7%25a5%25e7%25a8%258b%25e5%2588%25a5%25e3%2581%25ab%25e8%25a7%25a3%25e8%25aa%25ac%25ef%25bc%2581%25e4%25ba%258b",
+        "source": "AINOW"
+      },
+      {
+        "title": "“梅干し職人”のためツール自作 老舗漬物店のClaude活用、「チャット+コピペ」で成果を出せたワケ",
+        "url": "https://www.itmedia.co.jp/business/articles/2608/14/news053.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore",
+        "url": "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Monitor on-premises and multi-cloud AI agents with AgentCore Observability",
+        "url": "https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool",
+        "url": "https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Accelerating M&A due diligence with Amazon Bedrock AgentCore",
+        "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "「Qwen3.8-27B」ウェイト公開 一部「Opus 4.6 Max」超えか ライセンスは商用可のApache 2.0",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/",
+        "source": "ITmedia AI+"
       }
     ]
   }
