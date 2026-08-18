@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/07/18",
-    "email_id": "68cdc827-bc8f-4d7c-bf56-efa74956790c",
-    "articles": [
-      {
-        "title": "「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Google、「NotebookLM」を「Gemini Notebook」に改称　Geminiエコシステムへの統合を強化",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Google検索の「AIモード」、検索結果からそのままアプリで作業可能に　CanvaやYouTube Musicなど",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/17/news061.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "日本再起の旗印となるか、国産マルチモーダルAI基盤「FRONTia」が始動",
-        "url": "https://monoist.itmedia.co.jp/mn/articles/2607/17/news059.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "フアンCEO「ジャパンAI構築はマストだ」　経産省、国産フィジカルAIで新プロジェクト　赤沢大臣も“革ジャン”羽織る",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/16/news107.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "富士通、国内ロボット大手3社と「フィジカルAI」で協業　NVIDIAの技術活用",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000203/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "ELYZA、三井住友カードで「入会審査自動判定AI」運用開始。従来審査の20％を自動化し対応時間を短縮",
-        "url": "https://aismiley.co.jp/ai_news/elyza-smcc-screening-ai/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "デジタル庁、ガバメントAI「源内」で国産AIの試用開始。「さくらのクラウド」で3種類の基盤モデルを検証",
-        "url": "https://aismiley.co.jp/ai_news/digital-gennai-model-trial/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "清水建設、AIロボットの研究開発を本格化。現場巡回や塗装作業で実用化に向け実証開始",
-        "url": "https://aismiley.co.jp/ai_news/shimizu-ai-robot-development/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Google Antigravity 2.0とは？機能・料金・導入手順を徹底解説",
-        "url": "https://aismiley.co.jp/ai_news/what-is-antigravity-2-0/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "A scorecard for the AI age",
-        "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "How to manage AI investments in the agentic era",
-        "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-        "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "Introducing Grok on Amazon Bedrock",
-        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
-        "url": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/",
-        "source": "AWS AI Blog"
-      }
-    ]
-  },
-  {
     "date": "2026/07/19",
     "email_id": "a44472dc-0374-4894-8a0e-4c7bdfcb14f2",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "AIリテラシーとは？意味・必要性・企業での高め方をわかりやすく解説",
         "url": "https://aismiley.co.jp/ai_news/what-is-ai-literacy/",
         "source": "AIsmiley"
+      }
+    ]
+  },
+  {
+    "date": "2026/08/19",
+    "email_id": "485351e6-c19b-431d-9315-9472bdd54d42",
+    "articles": [
+      {
+        "title": "無料で読めるAIエージェントの実践ガイド、Googleが公開　基礎から本番実装まで学べる",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news055.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Cursor、コードホスティング機能「Origin」の初期βを提供開始　GitHubとの双方向同期に対応",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000575/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale",
+        "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments",
+        "url": "https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+        "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Anthropic、「Claude」モデル評価中の外部不正アクセス事象3件を公表",
+        "url": "https://aismiley.co.jp/ai_news/anthropic-cybersecurity-incidents/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "OpenAIの次期AIモデル「Astra」、サイバー能力で「重大」レベルに到達の可能性",
+        "url": "https://aismiley.co.jp/ai_news/openai-astra-cyber-security/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Pacing model development in an era of cyber-critical capabilities",
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "OpenAI institutes new safeguards after Hugging Face breach",
+        "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "ChatGPTやClaudeの利用量とコストを一元管理、無料で使える法人向け新サービス　マネーフォワード",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000571/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+        "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart",
+        "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "日本ディープラーニング協会、AIガバナンス体制を審査する第三者認証制度「C認証」を創設",
+        "url": "https://aismiley.co.jp/ai_news/jdla-c-certification-ai-governance/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "AIエージェントでCADやCAMを連携、製造プロセス自動化へ",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2608/18/news015.html",
+        "source": "ITmedia AI+"
       }
     ]
   }
