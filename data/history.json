@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/07/19",
-    "email_id": "a44472dc-0374-4894-8a0e-4c7bdfcb14f2",
-    "articles": [
-      {
-        "title": "「Claude Fable 5」サブスクに統合　Max・Team Premiumプラン対象",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "「AIエージェントの約半数が\"戦力外\"になる」　なぜ企業は使いこなせない？",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news053.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Google、「NotebookLM」を「Gemini Notebook」に改称　Geminiエコシステムへの統合を強化",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Google検索の「AIモード」、検索結果からそのままアプリで作業可能に　CanvaやYouTube Musicなど",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/17/news061.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "日本再起の旗印となるか、国産マルチモーダルAI基盤「FRONTia」が始動",
-        "url": "https://monoist.itmedia.co.jp/mn/articles/2607/17/news059.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "「現場で使えるAIへ」、富士通が進める次世代CPUと自律型AIエージェント戦略",
-        "url": "https://monoist.itmedia.co.jp/mn/articles/2607/17/news044.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "フアンCEO「ジャパンAI構築はマストだ」　経産省、国産フィジカルAIで新プロジェクト　赤沢大臣も“革ジャン”羽織る",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/16/news107.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "ELYZA、三井住友カードで「入会審査自動判定AI」運用開始。従来審査の20％を自動化し対応時間を短縮",
-        "url": "https://aismiley.co.jp/ai_news/elyza-smcc-screening-ai/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "ちゅうぎんフィナンシャルグループ、「AI1,000人プロジェクト」を開始。Microsoft 365 Copilot活用で業務変革を推進",
-        "url": "https://aismiley.co.jp/ai_news/chugin-fc-ai-one-thousand-project/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "デジタル庁、ガバメントAI「源内」で国産AIの試用開始。「さくらのクラウド」で3種類の基盤モデルを検証",
-        "url": "https://aismiley.co.jp/ai_news/digital-gennai-model-trial/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Google Antigravity 2.0とは？機能・料金・導入手順を徹底解説",
-        "url": "https://aismiley.co.jp/ai_news/what-is-antigravity-2-0/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "How Cars24 scales conversations and builds faster with OpenAI",
-        "url": "https://openai.com/index/cars24",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "Introducing Grok on Amazon Bedrock",
-        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-        "source": "VentureBeat AI"
-      }
-    ]
-  },
-  {
     "date": "2026/07/20",
     "email_id": "7f3332b9-91e5-477f-95c6-7699600435a5",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "AIエージェントでCADやCAMを連携、製造プロセス自動化へ",
         "url": "https://monoist.itmedia.co.jp/mn/articles/2608/18/news015.html",
         "source": "ITmedia AI+"
+      }
+    ]
+  },
+  {
+    "date": "2026/08/20",
+    "email_id": "33b42cab-9b3d-415e-a20f-7b36c0e619b0",
+    "articles": [
+      {
+        "title": "AIエージェント最前線カオスマップを公開！-業務・業界別から開発基盤・導入支援まで118製品を掲載-",
+        "url": "https://aismiley.co.jp/ai_news/aiagent-chaosmap-trends/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "AIエージェントのIT部門活用8選！情シス必見の導入手順と費用相場",
+        "url": "https://ainow.ai/2026/08/20/278316/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25aeit%25e9%2583%25a8%25e9%2596%2580%25e6%25b4%25bb%25e7%2594%25a88%25e9%2581%25b8%25ef%25bc%2581%25e6%2583%2585%25e3%2582%25b7%25e3%2582%25b9%25e5%25bf%2585%25e8%25a6%258b%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5",
+        "source": "AINOW"
+      },
+      {
+        "title": "Claude Codeの週次制限枠「50％増」、8月31日まで延長「恒久化したいものの……」",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000611/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Antigravity CLIとは？使い方・料金・Gemini CLIからの移行方法を解説",
+        "url": "https://aismiley.co.jp/ai_news/what-is-antigravity-cli/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale",
+        "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines",
+        "url": "https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "OpenAIの次期AIモデル「Astra」、サイバー能力で「重大」レベルに到達の可能性",
+        "url": "https://aismiley.co.jp/ai_news/openai-astra-cyber-security/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "CerebrasとOpenAI、GPT-5.6 Solの推論を毎秒最大750トークンで処理する「Ultrafast Mode」を発表",
+        "url": "https://aismiley.co.jp/ai_news/cerebras-openai-ultrafast-mode/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "OpenAI、「GPT-5.6 Sol」の回答をアップデートし、無料とGoユーザーのデフォルトモデルを「GPT‑5.6 Luna」に更新",
+        "url": "https://aismiley.co.jp/ai_news/openai-sol-update-luna-default/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "「オープンな国産モデル」に33Bパラメータの新バージョン 国立情報学研究所",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000626/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "なぜNTTは「小型LLM」にこだわるのか 国産AI「tsuzumi 2」に込めた狙い",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2607/14/news012.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「AIを使える人か、使えない人か」で仕事や評価に差が？ 6割のエンジニアが実感した“AI格差”の正体",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news047.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「うちの会社にAIなんて」――謙遜する中小企業に眠る伸びしろ OpenAIがパートナー網拡充、新規3社が語る",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000615/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Copilot+ PCとは？できること・要件・選び方を徹底解説",
+        "url": "https://aismiley.co.jp/ai_news/what-is-copilot-plus-pc/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Copilot Chatとは？Microsoft 365での使い方と料金を解説",
+        "url": "https://aismiley.co.jp/ai_news/what-is-copilot-chat/",
+        "source": "AIsmiley"
       }
     ]
   }
