@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/07/20",
-    "email_id": "7f3332b9-91e5-477f-95c6-7699600435a5",
-    "articles": [
-      {
-        "title": "「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "「Claude Fable 5」サブスクに統合　Max・Team Premiumプラン対象",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "「AIエージェントの約半数が\"戦力外\"になる」　なぜ企業は使いこなせない？",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news053.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Google、「NotebookLM」を「Gemini Notebook」に改称　Geminiエコシステムへの統合を強化",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "これからのロボットは「買ったときが一番性能低い」？　ソフトバンクと安川電機「フィジカルAI」学習工程の効率化を実証",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000196/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Google検索の「AIモード」、検索結果からそのままアプリで作業可能に　CanvaやYouTube Musicなど",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/17/news061.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "日本再起の旗印となるか、国産マルチモーダルAI基盤「FRONTia」が始動",
-        "url": "https://monoist.itmedia.co.jp/mn/articles/2607/17/news059.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "「現場で使えるAIへ」、富士通が進める次世代CPUと自律型AIエージェント戦略",
-        "url": "https://monoist.itmedia.co.jp/mn/articles/2607/17/news044.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "フアンCEO「ジャパンAI構築はマストだ」　経産省、国産フィジカルAIで新プロジェクト　赤沢大臣も“革ジャン”羽織る",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/16/news107.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "ELYZA、三井住友カードで「入会審査自動判定AI」運用開始。従来審査の20％を自動化し対応時間を短縮",
-        "url": "https://aismiley.co.jp/ai_news/elyza-smcc-screening-ai/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "ちゅうぎんフィナンシャルグループ、「AI1,000人プロジェクト」を開始。Microsoft 365 Copilot活用で業務変革を推進",
-        "url": "https://aismiley.co.jp/ai_news/chugin-fc-ai-one-thousand-project/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "Google Antigravity 2.0とは？機能・料金・導入手順を徹底解説",
-        "url": "https://aismiley.co.jp/ai_news/what-is-antigravity-2-0/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "How Smartsheet built a remote MCP server on AWS",
-        "url": "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Introducing Grok on Amazon Bedrock",
-        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-        "source": "VentureBeat AI"
-      }
-    ]
-  },
-  {
     "date": "2026/07/21",
     "email_id": "2a5de5e3-3f17-4de9-80f7-26ae744f8c5e",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "Copilot Chatとは？Microsoft 365での使い方と料金を解説",
         "url": "https://aismiley.co.jp/ai_news/what-is-copilot-chat/",
         "source": "AIsmiley"
+      }
+    ]
+  },
+  {
+    "date": "2026/08/21",
+    "email_id": "8224c336-3ebb-4e74-884a-ce08f3c78092",
+    "articles": [
+      {
+        "title": "Slack、AIとチームで協働する「Slack Code」を発表　ClaudeやDevinを専用チャネルで操作",
+        "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000667/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "Sakana AI、「Sakana Chat」をアップデート。新モデル追加と自律的なコード実行・資料作成を実現",
+        "url": "https://aismiley.co.jp/ai_news/sakana-ai-chat-fugu-code-execution/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Claude Code Hooksとは？設定方法と使い方・通知の実例を解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-code-hooks/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Ramp launches its own AI model router, called Router",
+        "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "GMOグループと米Anthropicが戦略的パートナーシップ契約を締結。Claudeの徹底活用でAI基盤を強化",
+        "url": "https://aismiley.co.jp/ai_news/gmo-anthropic-partnership/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "AIエージェントのIT部門活用8選！情シス必見の導入手順と費用相場",
+        "url": "https://ainow.ai/2026/08/20/278316/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25aeit%25e9%2583%25a8%25e9%2596%2580%25e6%25b4%25bb%25e7%2594%25a88%25e9%2581%25b8%25ef%25bc%2581%25e6%2583%2585%25e3%2582%25b7%25e3%2582%25b9%25e5%25bf%2585%25e8%25a6%258b%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5",
+        "source": "AINOW"
+      },
+      {
+        "title": "Scaling agentic AI: Enterprise patterns without vendor lock-in",
+        "url": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
+        "url": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "カルビーが挑むジャガイモ収量の限界――自社開発AIでサプライチェーン最適化",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2608/21/news046.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "生成AIチャットボット比較の7軸！失敗しない選び方を徹底解説",
+        "url": "https://ainow.ai/2026/08/19/278311/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2583%2581%25e3%2583%25a3%25e3%2583%2583%25e3%2583%2588%25e3%2583%259c%25e3%2583%2583%25e3%2583%2588%25e6%25af%2594%25e8%25bc%2583%25e3%2581%25ae7%25e8%25bb%25b8%25ef%25bc%2581%25e5%25a4%25b1%25e6%2595%2597%25e3%2581%2597%25e3%2581%25aa%25e3%2581%2584%25e9%2581%25b8%25e3%2581%25b3",
+        "source": "AINOW"
+      },
+      {
+        "title": "Claude in Excelとは？料金・使い方・インストール方法を解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-in-excel/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+        "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Stripe、AIモデルゲートウェイのOpenRouter買収　400以上のAIモデルを束ねる中立基盤は維持",
+        "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000639/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "OpenAI、ZDRを維持したまま悪用検知へ　ログ保持を求めるAnthropicに対抗",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000638/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「AIで生産性向上」日本の従業員は57％、世界平均は81％　仕事の満足度でも大差──アクセンチュア調査",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000641/",
+        "source": "ITmedia AI+"
       }
     ]
   }
