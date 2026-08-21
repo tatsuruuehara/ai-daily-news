@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026/07/21",
-    "email_id": "2a5de5e3-3f17-4de9-80f7-26ae744f8c5e",
-    "articles": [
-      {
-        "title": "中外製薬「社員1人にAIエージェント10体」作戦で成果倍増を目指す、AI使いこなし術",
-        "url": "https://kn.itmedia.co.jp/kn/articles/2607/10/news007.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Hugging FaceにAI主導のサイバー攻撃　防御もAIで対抗するも、商用モデルは解析拒否で「GLM」採用",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/20/news010.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "「Claude Fable 5」サブスクに統合　Max・Team Premiumプラン対象",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "「AIエージェントの約半数が\"戦力外\"になる」　なぜ企業は使いこなせない？",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news053.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "Google、「NotebookLM」を「Gemini Notebook」に改称　Geminiエコシステムへの統合を強化",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "これからのロボットは「買ったときが一番性能低い」？　ソフトバンクと安川電機「フィジカルAI」学習工程の効率化を実証",
-        "url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000196/",
-        "source": "ITmedia AI+"
-      },
-      {
-        "title": "ELYZA、三井住友カードで「入会審査自動判定AI」運用開始。従来審査の20％を自動化し対応時間を短縮",
-        "url": "https://aismiley.co.jp/ai_news/elyza-smcc-screening-ai/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "ちゅうぎんフィナンシャルグループ、「AI1,000人プロジェクト」を開始。Microsoft 365 Copilot活用で業務変革を推進",
-        "url": "https://aismiley.co.jp/ai_news/chugin-fc-ai-one-thousand-project/",
-        "source": "AIsmiley"
-      },
-      {
-        "title": "長期間モデルの時代における安全性とアライメント",
-        "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "AI時代のスコアカード",
-        "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-        "source": "OpenAI Blog"
-      },
-      {
-        "title": "Google、Geminiをより効率的に動かすための新しいAIチップを開発中",
-        "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-        "source": "TechCrunch AI"
-      },
-      {
-        "title": "Amazon QuickとNVIDIA NeMo Agent Toolkitでビジネス向けに特化したエージェントワークフローを構築",
-        "url": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "Amazon Quick: 新しいエージェントAIチームメイトで営業組織を変革",
-        "url": "https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "SmartsheetがAWS上にリモートMCPサーバーを構築した方法",
-        "url": "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/",
-        "source": "AWS AI Blog"
-      },
-      {
-        "title": "中国のMoonshot AI、Kimi K3がOpenAIとAnthropicに匹敵すると主張",
-        "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology"
-      }
-    ]
-  },
-  {
     "date": "2026/07/22",
     "email_id": "60b1e04c-b0f4-492c-b07c-39e07111ed97",
     "articles": [
@@ -2426,6 +2345,87 @@
         "title": "「AIで生産性向上」日本の従業員は57％、世界平均は81％　仕事の満足度でも大差──アクセンチュア調査",
         "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000641/",
         "source": "ITmedia AI+"
+      }
+    ]
+  },
+  {
+    "date": "2026/08/22",
+    "email_id": "ced119ed-34e4-4d81-bb12-6ccfe1b4ef00",
+    "articles": [
+      {
+        "title": "NTTドコモビジネスとエクサウィザーズ、重要データを安全に活用できる「クローズドAIエージェント」開発",
+        "url": "https://aismiley.co.jp/ai_news/docomo-exawizards-closed-ai-agent/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "デジタルガレージとDGビジネステクノロジー、国内初のエージェンティックコマース最適化トータルソリューション「DG Agentic One™」を提供開始",
+        "url": "https://aismiley.co.jp/ai_news/digital-garage-dg-agentic-one/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Claude Code Auto Modeとは？仕組み・設定方法・安全性を詳しく解説",
+        "url": "https://aismiley.co.jp/ai_news/claude-code-auto-mode/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Sakana AI、「Sakana Chat」をアップデート。新モデル追加と自律的なコード実行・資料作成を実現",
+        "url": "https://aismiley.co.jp/ai_news/sakana-ai-chat-fugu-code-execution/",
+        "source": "AIsmiley"
+      },
+      {
+        "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours",
+        "url": "https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway",
+        "url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Scaling agentic AI: Enterprise patterns without vendor lock-in",
+        "url": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/",
+        "source": "AWS AI Blog"
+      },
+      {
+        "title": "Googleのオープンモデル「Gemma」、累計10億ダウンロード超　GitHubに公式ディレクトリ公開",
+        "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000670/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "「Claudeの使い方」を無料で学べる公式サイト登場　「Code」「Cowork」などサービスごとに解説",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000672/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "macOS版ChatGPT、Appleの「メッセージ」と連携　会話検索や下書き、送信に対応",
+        "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000669/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+        "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "「Fable禁止」で仕事が止まったあの日々を振り返る　日本企業が取るべき「脱・単一モデル」戦略",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000666/",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "業務標準化の手間を9割減　三菱UFJ銀行は生成AIに「業務知識」をどう教えた？",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2608/21/news019.html",
+        "source": "ITmedia AI+"
+      },
+      {
+        "title": "AIエージェントのIT部門活用8選！情シス必見の導入手順と費用相場",
+        "url": "https://ainow.ai/2026/08/20/278316/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25aeit%25e9%2583%25a8%25e9%2596%2580%25e6%25b4%25bb%25e7%2594%25a88%25e9%2581%25b8%25ef%25bc%2581%25e6%2583%2585%25e3%2582%25b7%25e3%2582%25b9%25e5%25bf%2585%25e8%25a6%258b%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5",
+        "source": "AINOW"
+      },
+      {
+        "title": "生成AIチャットボット比較の7軸！失敗しない選び方を徹底解説",
+        "url": "https://ainow.ai/2026/08/19/278311/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2583%2581%25e3%2583%25a3%25e3%2583%2583%25e3%2583%2588%25e3%2583%259c%25e3%2583%2583%25e3%2583%2588%25e6%25af%2594%25e8%25bc%2583%25e3%2581%25ae7%25e8%25bb%25b8%25ef%25bc%2581%25e5%25a4%25b1%25e6%2595%2597%25e3%2581%2597%25e3%2581%25aa%25e3%2581%2584%25e9%2581%25b8%25e3%2581%25b3",
+        "source": "AINOW"
       }
     ]
   }
